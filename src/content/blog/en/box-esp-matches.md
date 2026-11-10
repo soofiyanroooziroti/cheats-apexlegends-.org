@@ -7,7 +7,7 @@
   "slug": "box-esp-matches",
   "image": "/images/blog/box-esp-matches-gameplay-boxes-full.webp",
   "imageAlt": "Apex Legends team fight with corner box ESP on multiple players",
-  "desc": "Box ESP in a match is a lesson in space: where a body actually occupies a doorway, when a box is still behind cover, and how to review one fight without adding more ink.",
+  "desc": "Box ESP in a match is a lesson in space: where a body actually occupies a doorway, when a box is still behind cover, and how to review one fight without.",
   "date": "Nov 5, 2026",
   "dateIso": "2026-11-05",
   "readTime": "6 min read",

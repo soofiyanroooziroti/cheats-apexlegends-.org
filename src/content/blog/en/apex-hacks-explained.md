@@ -3,7 +3,7 @@
   "tag": "Review",
   "title": "Understanding How Apex Hacks Operate Behind the Scenes",
   "seoTitle": "Apex hacks: loader, overlays, configs, and Javelin",
-  "h1Title": "How apex hacks run on your PC before you queue",
+  "h1Title": "How apex hacks run on your PC before you queue: loader, overlays, configs, and Javelin",
   "slug": "apex-hacks-explained",
   "image": "/images/blog/apex-hacks-explained-ads-target-full.webp",
   "imageAlt": "First-person Apex Legends aim-down-sights view with boxed enemy",

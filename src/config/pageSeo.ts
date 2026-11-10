@@ -5,7 +5,7 @@ export interface PageSeoEntry {
 
 export const PAGE_SEO: Record<string, PageSeoEntry> = {
   '/': {
-    title: 'Apex cheats for Windows PC | Menu, ESP & Aimbot',
+    title: 'Apex cheats for Windows PC: menu, ESP, and aimbot now',
     description:
       'Apex cheats on Windows PC: squad ESP, aim assist tuning, loot filters, and saved configs. $35 and $150 USD plans with live status before you load.',
   },
@@ -35,14 +35,14 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
       'Guides on menu tuning, checkout, patch-day habits, and hardware flags. Articles link to the loader and HWID spoofer pages on cheatsapexlegends.org.',
   },
   '/forum/': {
-    title: 'Community threads on setup and plans',
+    title: 'Forum: community threads on setup, plans, and loader',
     description:
-      'Closed threads on checkout, hardware flags, and loader questions with marked staff replies.',
+      'Forum: closed threads on checkout, hardware flags, and loader questions with marked staff replies, plus setup notes too.',
   },
   '/faq/': {
-    title: 'FAQ on plans, Javelin risk, and setup',
+    title: 'Javelin risk, plans, and setup before you check out',
     description:
-      'Answers on $35 and $150 menu plans, EA Javelin risk, Windows requirements, hardware flags, and how products differ.',
+      'Answers on $35 and $150 menu plans, EA Javelin risk, Windows requirements, hardware flags, and how these products differ.',
   },
   '/support/': {
     title: 'Support for loader, checkout, and portal',
@@ -52,7 +52,7 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
   '/about/': {
     title: 'About cheatsapexlegends.org | Delivery, pricing, and risk',
     description:
-      'What this store sells, portal key delivery, USD menu and spoofer pricing, ban risk under EA Javelin, and how GREEN or RED status labels fit checkout on PC.',
+      'Cheatsapexlegends Org: what this store sells, portal key delivery, USD menu and spoofer pricing, and ban risk under EA Javelin. Read status first.',
   },
   '/privacy/': {
     title: 'Privacy notes for analytics and contact',
