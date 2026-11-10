@@ -1,0 +1,140 @@
+{
+  "site": {
+    "title": "Apex cheats",
+    "description": "Ciblage, superpositions d'escouade, loot sur la carte et outils de profil pour Apex Legends sur Windows PC. Tarification USD."
+  },
+  "pages": {
+    "/": {
+      "title": "Apex cheats pour Windows PC | Menu, ESP & Aimbot",
+      "description": "Apex cheats sur Windows PC : squad ESP, réglage de l'aide à la visée, filtres de loot et configs enregistrés. $35 et $150 USD forfaits avec statut en direct avant le chargement."
+    },
+    "/products/apex-cheats/": {
+      "title": "Apex hack pour PC | Menu et HWID spoofer cartes",
+      "description": "Comparez le Apex hack menu et HWID spoofer : paiements Zadeyo séparés, $35/$150 menu et $50/$150 spoofer, livraison par portail dans le monde entier."
+    },
+    "/products/apex-cheats/loader/": {
+      "title": "Apex menu | Aimbot, player ESP & world toggles",
+      "description": "Loader feature list : curseurs aimbot, visuels de joueurs et du monde, divers configs. Mêmes modules sur les forfaits 31 jours et lifetime."
+    },
+    "/products/apex-cheats/hwid-spoofer/": {
+      "title": "Apex spoofer pour le matériel sur PC",
+      "description": "Apex spoofer procédure quand un nouveau compte échoue sur une PC : rotation disque, MAC et GPU. Ne lève pas les pénalités de compte."
+    },
+    "/products/apex-cheats/utilities/": {
+      "title": "HWID aperçu de l'utilitaire",
+      "description": "Quand un bannissement matériel bloque les nouveaux comptes, le spoofer est un achat séparé du menu."
+    },
+    "/blog/": {
+      "title": "Apex guides | Configuration, risque Javelin, et notes",
+      "description": "Guides sur le menu, l'achat, les jours de mise à jour et le matériel. Articles liés aux pages loader et HWID spoofer sur cheatsapexlegends.org."
+    },
+    "/forum/": {
+      "title": "Discussion_s communautaire_s sur la configuration",
+      "description": "Discussion_s fermée_s sur le paiement, les indicateurs matériels et les questions loader avec réponses du personnel."
+    },
+    "/faq/": {
+      "title": "FAQ sur les forfaits, les risques et la configuration",
+      "description": "Réponses sur les forfaits $35 et $150, les risques EA Javelin, les exigences Windows, les indicateurs matériels et les différences."
+    },
+    "/support/": {
+      "title": "Support pour loader, le paiement et le portail",
+      "description": "Aide Loader, paiement et portail pour le menu et spoofer. Incluez votre e-mail de commande et votre configuration Windows."
+    },
+    "/about/": {
+      "title": "À propos de cheatsapexlegends.org | Livraison, prix et risque",
+      "description": "Ce que vend cette boutique, livraison des clés, menu USD et prix spoofer, risque de ban sous EA Javelin, et les statuts VERT ou ROUGE sur PC."
+    },
+    "/privacy/": {
+      "title": "Notes de privacy pour l'analytique et contact",
+      "description": "Comment cheatsapexlegends.org gère l'analytique, les cookies et les contacts. Les numéros de carte restent chez le fournisseur de paiement."
+    },
+    "/terms/": {
+      "title": "Conditions de licence, remboursements et usage",
+      "description": "Conditions de licence et règle de non-remboursement pour les loader et HWID spoofer vendus ici."
+    },
+    "/status/": {
+      "title": "Statut et notes de mise à jour du client",
+      "description": "GREEN means indique le fichier à charger. RED means patientez. Read après une mise à jour de Apex Legends ou Javelin."
+    },
+    "/blog/reliable-247-support/": {
+      "title": "Pourquoi un support 24/7 fiable est crucial",
+      "description": "Le support 24/7 compte lorsqu'un patch, une clé qui ne démarre pas ou un changement de statut survient en dehors des heures de bureau."
+    },
+    "/blog/stream-proof-creators/": {
+      "title": "Comment les overlays Stream Proof protègent",
+      "description": "Les overlays Stream Proof pour les créateurs : éléments à vérifier avant le direct, pendant la session et après l'enregistrement."
+    },
+    "/blog/no-recoil-spray-patterns/": {
+      "title": "Analyse des motifs de dispersion et des réglages No Recoil",
+      "description": "Un tir monte puis dévie sur le côté. Un réglage No Recoil modifie les premières balles et la fin du chargeur de différentes manières."
+    },
+    "/blog/loot-esp-drop-strategy/": {
+      "title": "Optimisez votre stratégie de saut avec le ESP de loot",
+      "description": "Le ESP de loot avancé dans la première minute après l'atterrissage : quel conteneur ouvrir, quelle arme laisser au sol et quand quitter la zone."
+    },
+    "/blog/skeleton-esp-hitboxes/": {
+      "title": "Suivi précis des hitbox avec les superpositions Skeleton ESP",
+      "description": "Les superpositions Skeleton ESP affichent les lignes de la tête, des épaules et des hanches sur un joueur pour identifier quelle plaque est exposée."
+    },
+    "/blog/hwid-spoofer-explained/": {
+      "title": "Ce qu'un HWID spoofer modifie, et ce qu'il ne peut pas annuler",
+      "description": "Ce qu'un HWID spoofer modifie sur un PC, quelles pénalités il ne lève pas, et pourquoi cette distinction compte avant de toucher les identifiants disque, MAC ou GPU."
+    },
+    "/blog/best-apex-cheats/": {
+      "title": "Best Apex Cheats comparés : features, fiabilité et valeur en 2026",
+      "description": "best apex cheats en 2026 jugés sur la couverture des features, l'hygiène des mises à jour, le support et le prix — menus logiciels, readers matériels et outil HWID séparé."
+    },
+    "/blog/apex-aimbot-mechanics/": {
+      "title": "Apex aimbot : cône de FOV, smoothing et visibilité",
+      "description": "Mécaniques de apex aimbot sur PC : comment interagissent les cônes de FOV, les filtres de smooth, les contrôles de visibilité, les sélecteurs d'os et le No Recoil lors des fusillades."
+    },
+    "/blog/apex-esp-guide/": {
+      "title": "Apex esp guide : étiquettes, encombrement et appels de rotation",
+      "description": "Apex ESP sur PC : comment les balises de joueurs, boîtes, filtres de loot et weapon modifient le timing des rotations et réduisent l'encombrement avant le mode classé."
+    },
+    "/blog/apex-dma-cheats/": {
+      "title": "Apex dma cheats vs Windows menus loader",
+      "description": "apex dma cheats utilise des readers PCIe et un second PC ; les menus logiciels utilisent Windows loader. Comparez le coût, l'installation et le risque Javelin avant d'acheter."
+    },
+    "/blog/apex-anticheat/": {
+      "title": "Analyse de sécurité : Navigation dans les systèmes Apex Anticheat",
+      "description": "apex anticheat sur PC, expliqué : comment EA Javelin combine intégrité client, signaux comportementaux et indicateurs matériels — et ce qu'une note de statut peut ou ne peut pas mean."
+    },
+    "/blog/apex-hacks-explained/": {
+      "title": "Apex hacks: loader, overlays, configs, and Javelin",
+      "description": "apex hacks on PC : comment les vérifications de statut, le loader, le rendu des overlays, les config enregistrés et le EA Javelin s'associent avant l'injection."
+    },
+    "/forum/loader-stuck-after-cipher-patch/": {
+      "title": "Loader bloqué après le patch Cipher",
+      "description": "Après le patch Season 31 Cipher, le loader ne voulait pas démarrer. Le staff a pointé la note de statut et un nouveau fichier portal. L'OP confirme que cela remarche."
+    },
+    "/forum/refund-if-menu-does-not-launch/": {
+      "title": "Remboursement si le menu ne se lance pas ?",
+      "description": "Question avant achat sur le remboursement. Les ventes sont finales. Un correctif ou un remboursement n'intervient que si le support confirme un dysfonctionnement de notre côté."
+    },
+    "/forum/boxes-eating-the-screen/": {
+      "title": "Boîtes ealant tout mon écran dans un POI",
+      "description": "Boîtes de joueurs empilées dans un POI animé. Un court préréglage (boîte plus seaté, loot désactivé en combat) a neattoyé l'écran. OP dit que ça marche."
+    },
+    "/forum/new-logins-die-on-one-pc/": {
+      "title": "Les nouvelles connexions meurent sur ce PC seulement",
+      "description": "Les nouvelles connexions échouent sur un bureau et fonctionnent sur un ordinateur portable. Le staff dit que ce n'est pas un ban d'ID confirmé. Dans la plupart des cas, il n'y a pas de ban d'ID."
+    },
+    "/forum/r301-spray-still-climbs/": {
+      "title": "Le spray monte toujours sur le R-301",
+      "description": "Le R-301 montait encore tard dans le chargeur. Comparez les premières balles et la fin, puis ueaisez le curseur. OP dit que le maintien fonctionne."
+    },
+    "/forum/vod-showed-the-menu/": {
+      "title": "Stream a montré mon menu sur la VOD",
+      "description": "Une VOD a montré le menu même avec la fonction Stream Proof activée. La scène utilisait la capture d'écran. Passer à la capture de jeu et tester un enregistrement local a résolu le problème."
+    },
+    "/forum/loot-text-on-the-first-bin/": {
+      "title": "Texte de loot recouvrant le premier bac",
+      "description": "Les étiquettes de loot recouvraient la zone d'atterrissage. Le staff a conseillé trois étapes : l'arme la plus proche, un objet de soin, puis le deapart. L'auteur indique que le drop est lisible maintenant."
+    },
+    "/forum/does-lifetime-include-spoofer/": {
+      "title": "Est-ce que lifetime inclut le spoofer ?",
+      "description": "Question avant achat : la clé du menu lifetime n'inclut pas le HWID spoofer. Le staff confirme qu'il s'agit d'un produit et d'un paiement séparés."
+    }
+  }
+}

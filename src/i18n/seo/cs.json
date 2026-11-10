@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Apex Legends Cheats | Nejlepší software pro Steam",
+    "description": "Apex Legends Cheats pro Steam na Windows PC s aimbotem, ESP hráčů, ukazateli vozidel a radarem. Srovnání cheatů, HWID spooferu a na cheatsapexlegends.org."
+  },
+  "pages": {
+    "/": {
+      "title": "Pro – nebo AMD HVCI zapnuto Core isolation TPM aktiv",
+      "description": "Pro: Compare Apex Legends Cheats on Windows: ESP modules, aimbot settings, $35 and $150 plans, the live Status label, and setup notes before you load."
+    },
+    "/products/apex-cheats/": {
+      "title": "Apex Legends Hacks for PC | $35 and $150",
+      "description": "Cheats for Apex Legends na Steamu: tři Windows produkty sdílejí $35 for 31 days or $150 lifetime. Loader, HWID nástroj a obnova účtu se platí zvlášť."
+    },
+    "/products/apex-cheats/loader/": {
+      "title": "Steam Loader pro Windows PC | Aimbot a radar",
+      "description": "Twelve modules including Player ESP, Advanced Aimbot, and Loot ESP. $35 for 31 days or $150 lifetime."
+    },
+    "/products/apex-cheats/hwid-spoofer/": {
+      "title": "HWID Spoofer pro Apex Legends Windows Hardwarové příznaky",
+      "description": "HWID spoofer for a hardware flag. $50 for 31 days or $150 lifetime. It does not clear an account-only penalty."
+    },
+    "/products/apex-cheats/utilities/": {
+      "title": "Porovnat nástroj a utilitu pro odvolání účtu HWID",
+      "description": "Podívejte se, který Windows nástroj se hodí pro hardwarový příznak a který pro odvolání účtu. Obě jsou samostatné platby z Apex Legends loader."
+    },
+    "/blog/": {
+      "title": "Apex Legends PC Návody pro Míření, ESP, Kořist, Menu a Javelin",
+      "description": "Original notes on custom-game toggles, Javelin and VAC, x-ray overlays, Reddit claims, and the $35 and $150 plans."
+    },
+    "/forum/": {
+      "title": "Apex Legends Komunitní fórum: Nastavení, Aim a Plány",
+      "description": "Fórum o Apex Legends loader, možnosti aimu a ESP, plánech pro $35 for 31 days or $150 lifetime a patch days pro Javelin. Odpovědi vývojářů jsou označeny."
+    },
+    "/faq/": {
+      "title": "FAQ – Plány, nastavení a riziko Javelin před nákupem",
+      "description": "Answers on the $35 and $150 plans, Javelin updates, Windows requirements, hardware flags, and how the three products differ."
+    },
+    "/support/": {
+      "title": "Apex Legends Podpora: Loader, Platby a HWID PC",
+      "description": "Nápověda pro Loader, platby a portál k nástrojům Apex Legends, HWID spoofer a odvoláním k účtům. Uveďte e-mail objednávky a přesný loader."
+    },
+    "/about/": {
+      "title": "O tomto Apex Legends obchodě: doručení, ceny a rizika",
+      "description": "Obchod: co cheatsapexlegends.org prodává, jak funguje platba a doručení, a riziko banu při použití softwaru třetích stran na Apex Legends pro Windows PC."
+    },
+    "/privacy/": {
+      "title": "Ochrana soukromí, cookies a kontaktní údaje",
+      "description": "Jak cheatsapexlegends.org zpracovává analytiku, cookies a kontaktní data. Čísla platebních karet zůstávají u poskytovatele platby, ne u nás."
+    },
+    "/terms/": {
+      "title": "Licenční podmínki, vrácení peněz a pravidla použití",
+      "description": "Licenční podmínky, pravidla použití a politika nevrácení peněz pro loader, HWID spoofer a obnovu účtu prodávané přes cheatsapexlegends.org."
+    },
+    "/status/": {
+      "title": "Apex Legends Status & Javelin Patch Notes",
+      "description": "Module and portal update notes for the Windows loader. Check status after each Javelin update before you launch Apex Legends on Steam."
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "site": {
+    "title": "Apex cheats",
+    "description": "Apex Legends在WindowsPC上的瞄准辅助、小队覆盖图、地图物资显示和个人资料工具。USD定价。"
+  },
+  "pages": {
+    "/": {
+      "title": "Apex cheats for Windows apex cheats | Menu, ESP & Aimbot",
+      "description": "Apex cheats on Windows Apex Legends: squad ESP, aim assist tuning, loot filters, and saved configs. $35 and $150 USD plans with live status before you load."
+    },
+    "/products/apex-cheats/": {
+      "title": "Apex hack for PC | Menu and apex hacks cards",
+      "description": "Compare the Apex hack menu and HWID spoofer: separate Zadeyo checkouts, $35/$150 menu and $50/$150 spoofer, portal delivery worldwide."
+    },
+    "/products/apex-cheats/loader/": {
+      "title": "Apex menu | Aimbot, player ESP & world toggles",
+      "description": "Loader feature list: aimbot sliders, player and world visuals, misc configs. Same modules on the 31-day and lifetime plans."
+    },
+    "/products/apex-cheats/hwid-spoofer/": {
+      "title": "Apex spoofer 针对 PC 硬件封禁",
+      "description": "Apex spoofer 当新账号在一个 PC 上失效时的处理流程：磁盘、MAC 和 GPU 轮换。它不解除ea仅限账号的处罚。"
+    },
+    "/products/apex-cheats/utilities/": {
+      "title": "HWID 工具概述",
+      "description": "当硬件封禁阻止单台电脑上的新账号时，spoofer 是菜单之外的独立结账选项。"
+    },
+    "/blog/": {
+      "title": "Apex 指南中心 | 设置、Javelin 风险与模块说明",
+      "description": "关于菜单调整、结账、补丁日习惯和硬件封禁的指南。文章链接到 cheatsapexlegends.org 上的 loader 和 HWID spoofer 页面。"
+    },
+    "/forum/": {
+      "title": "关于设置和计划的社区 threads",
+      "description": "关于结账、硬件标识和 loader 问题的已关闭 threads，带有标记的员工回复。"
+    },
+    "/faq/": {
+      "title": "关于计划、Javelin 风险和设置的常见问题",
+      "description": "关于 $35 和 $150 菜单计划、EA Javelin 风险、Windows 要求、硬件标识以及产品区别的解答。"
+    },
+    "/support/": {
+      "title": "关于 loader、结账和门户的支持",
+      "description": "菜单和 spoofer 的 Loader、结账和门户帮助。请附上您的订单电子邮件和 Windows 构建。"
+    },
+    "/about/": {
+      "title": "关于 cheatsapexlegends.org | 交付、定价与风险",
+      "description": "本店销售内容、秘钥交付、USD 菜单与 spoofer 定价、EA Javelin 下的封号风险，以及 PC 上绿色或红色状态标签如何对应结账。"
+    },
+    "/privacy/": {
+      "title": "Privacy 分析与联系说明",
+      "description": "cheatsapexlegends.org 如何处理分析、Cookie 和联系数据。卡号信息保留在结账服务商处。"
+    },
+    "/terms/": {
+      "title": "许可条款、退款与合理使用",
+      "description": "此处销售的 loader 和 HWID spoofer 的许可条款及不退款规则。"
+    },
+    "/status/": {
+      "title": "状态标签与客户端补丁说明",
+      "description": "GREEN means 该说明列出了要加载的文件。RED means 请等待。Read 在 Apex Legends 或 Javelin 更新后。"
+    },
+    "/blog/reliable-247-support/": {
+      "title": "为什么可靠的 24/7 支持对游戏软件至关重要",
+      "description": "当补丁、无法启动的密钥或会话中状态更改在办公时间之外出现时，24/7 支持至关重要。"
+    },
+    "/blog/stream-proof-creators/": {
+      "title": "Stream Proof 覆盖如何保护内容 Creators",
+      "description": "Creator 概览中的 Stream Proof 覆盖：直播前、嘉宾分享 POV 时以及保存 VOD 后需要检查的内容。"
+    },
+    "/blog/no-recoil-spray-patterns/": {
+      "title": "Analyzing Weapon Spray Patterns and No Recoil Adjustments",
+      "description": "A spray climbs and then drifts sideways. A No Recoil adjustment changes the first bullets and the tail of the magazine in different ways."
+    },
+    "/blog/loot-esp-drop-strategy/": {
+      "title": "Streamline Your Drop Strategy with Advanced Loot ESP",
+      "description": "Advanced Loot ESP in the first minute after landing: which container to open, which gun to leave on the floor, and when to path off the drop."
+    },
+    "/blog/skeleton-esp-hitboxes/": {
+      "title": "Tracking Hitboxes Accurately with Skeleton ESP Overlays",
+      "description": "Skeleton ESP overlays map head, shoulder, and hip lines onto a player so a partial peek shows which plate is actually exposed."
+    },
+    "/blog/hwid-spoofer-explained/": {
+      "title": "HWID spoofer会改变什么以及无法撤销什么",
+      "description": "一个HWID spoofer在一台PC上改变了什么、它无法解除哪些惩罚，以及为什么在触碰磁盘、MAC或GPU标识符之前这种区分至关重要。"
+    },
+    "/blog/best-apex-cheats/": {
+      "title": "Best Apex Cheats对比：2026年功能与价值",
+      "description": "2026年的best apex cheats通过功能覆盖、更新频率、支持和价格进行评估——软件菜单、硬件读取器以及独立的HWID工具。"
+    },
+    "/blog/apex-aimbot-mechanics/": {
+      "title": "Apex aimbot：FOV锥体、smooth与可见性",
+      "description": "PC上的apex aimbot机制：FOV锥体、smooth过滤、可见性检查、骨骼选择器和No Recoil在交火期间如何互动。"
+    },
+    "/blog/apex-esp-guide/": {
+      "title": "Apex esp 指南：标签、杂乱与转移呼叫",
+      "description": "Apex ESP 位于 PC：玩家标签、方框、战利品过滤以及 weapon 标签如何改变转移时机，以及如何在排位赛前减少杂乱。"
+    },
+    "/blog/apex-dma-cheats/": {
+      "title": "Apex dma cheats 对比 Windows loader 菜单",
+      "description": "apex dma cheats 使用 PCIe readers 和第二个 PC；软件菜单使用 Windows loader。在购买前对比成本、设置和 Javelin 风险。"
+    },
+    "/blog/apex-anticheat/": {
+      "title": "安全深度解析：驾驭 Apex Anticheat 系统",
+      "description": "apex anticheat 位于 PC，原理解析：EA Javelin 如何结合客户端完整性、行为信号和硬件标志——以及状态说明能与不能 mean 的内容。"
+    },
+    "/blog/apex-hacks-explained/": {
+      "title": "Apex hacks: loader, 叠加层, configs 和 Javelin",
+      "description": "apex hacks 在 PC 上的工作原理：状态检查、loader、叠加层绘制、已保存的 configs 以及 EA Javelin 如何在注入前协同工作。"
+    },
+    "/forum/loader-stuck-after-cipher-patch/": {
+      "title": "Cipher 更新后 Loader 卡住",
+      "description": "在 Season 31 Cipher 补丁发布后，loader 无法启动。客服人员指出了状态说明和新的引导文件。发帖者称现在已经恢复正常。"
+    },
+    "/forum/refund-if-menu-does-not-launch/": {
+      "title": "菜单无法启动可以退款吗？",
+      "description": "购买前退款咨询。所有销售均为最终决定。只有在客服确认我方存在故障时，才会提供修复或退款。"
+    },
+    "/forum/boxes-eating-the-screen/": {
+      "title": "Boxes eating my whole screen in a POI",
+      "description": "Player boxes stacked in a busy POI. A short preset (box plus health, loot off in the fight) cleared the screen. OP says it is working."
+    },
+    "/forum/new-logins-die-on-one-pc/": {
+      "title": "New logins die on this PC only",
+      "description": "New logins fail on one desktop and work on a laptop. Staff say that is not a confirmed ID ban. In most cases there is no ID ban."
+    },
+    "/forum/r301-spray-still-climbs/": {
+      "title": "Spray still climbs on the R-301",
+      "description": "R-301 still climbed late in the mag. Compare first bullets and the tail, then ease the slider. OP says the hold is working."
+    },
+    "/forum/vod-showed-the-menu/": {
+      "title": "Stream showed my menu on the VOD",
+      "description": "A VOD showed the menu even with Stream Proof on. The scene was display capture. Switching to game capture and checking a local recording fixed it."
+    },
+    "/forum/loot-text-on-the-first-bin/": {
+      "title": "Loot text covering the first bin",
+      "description": "Loot labels covered the landing. Staff suggested three stops: closest gun, one sustain item, then leave. OP says the drop is readable now."
+    },
+    "/forum/does-lifetime-include-spoofer/": {
+      "title": "Does lifetime include the spoofer?",
+      "description": "Pre-buy question: the lifetime menu key does not include the HWID spoofer. Staff confirm it is a separate product and a separate checkout."
+    }
+  }
+}

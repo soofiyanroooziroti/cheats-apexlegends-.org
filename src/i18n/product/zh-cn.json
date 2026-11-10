@@ -1,0 +1,181 @@
+{
+  "steps": [
+    {
+      "title": "检查状态",
+      "desc": "在购买前，请在 Apex Legends 或 Javelin 更新后查看状态页面。绿色表示说明中列出了要加载的文件。红色表示请等待。"
+    },
+    {
+      "title": "选择方案",
+      "desc": "$35 for 31 days 或 $150 lifetime。HWID spoofer 使用其自身的定价。"
+    },
+    {
+      "title": "安全结账",
+      "desc": "从产品卡片完成结账。您的许可证将在门户中解锁并即时交付。"
+    },
+    {
+      "title": "安装与验证",
+      "desc": "遵循设置指南，加载保守的预设，并在使用主个人资料之前在风险较低的播放列表中进行测试。"
+    }
+  ],
+  "howToGet": "如何获取 {name}",
+  "cheats": {
+    "groupNames": [
+      "Aimbot 选项",
+      "玩家视觉选项",
+      "世界视觉选项",
+      "其他选项"
+    ],
+    "descs": [
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列/于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "当菜单公开时显示拆弹进度和时间读数。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。",
+      "按住时隐藏技能和陷阱 ESP。",
+      "在支持的版本上列于 loader 菜单中。",
+      "在支持的版本上列于 loader 菜单中。"
+    ],
+    "slides": [
+      {
+        "alt": "Player ESP 菜单截图",
+        "caption": "玩家视觉选项",
+        "captionDesc": "生命值、护盾、特工、段位、box、skeleton 和距离控制。"
+      },
+      {
+        "alt": "世界视觉菜单截图",
+        "caption": "世界视觉选项",
+        "captionDesc": "技能、陷阱、计时器以及各特工自定义。"
+      },
+      {
+        "alt": "Aimbot 菜单截图",
+        "caption": "Aimbot 选项",
+        "captionDesc": "FOV、smooth度、粘滞度、骨骼、过滤器和绘制覆盖层。"
+      },
+      {
+        "alt": "其他和 config 菜单截图",
+        "caption": "其他选项",
+        "captionDesc": "战斗模式热键、字体大小，以及创建或加载 config。"
+      }
+    ],
+    "overview": {
+      "title": "适用于 Apex Legends 的 Windows 菜单",
+      "paragraphs": [
+        "单个许可涵盖 Aimbot 选项、玩家视觉选项、世界视觉选项和其他选项——所有套餐均使用同一菜单。",
+        "加载前请阅读状态页面。$35 for 31 days 或 $150 lifetime。"
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "包含的菜单组"
+      },
+      {
+        "type": "p",
+        "text": "单个许可包含四个菜单组：Aimbot 选项、玩家视觉选项、世界视觉选项和其他选项。请在此页面上打开功能列表查看各项开关。"
+      },
+      {
+        "type": "h2",
+        "text": "套餐"
+      },
+      {
+        "type": "p",
+        "text": "31 天套餐为 $35。Lifetime 为一次性 $150。大约四次 $35 的 31 天续费等于 lifetime。"
+      }
+    ],
+    "goodToKnow": "Apex Legends 和 Javelin 更新频繁。加载前请阅读状态页面。绿色表示提示列出了此文件。红色表示请等待。补丁发布后覆盖层行为可能会发生变化。",
+    "limitations": "第三方软件可能会违反游戏条款并导致封号。您使用此软件需自行承担风险。游戏、Javelin 或 Windows 更新后，兼容性可能会发生变化。Streamproof 无法消除该风险。",
+    "requirements": [
+      "HVCI 开启 · CORE ISOLATION 开启 · TPM 开启 · SECURE BOOT 开启",
+      "支持版本上的 Windows 10 或 11",
+      "Intel Core i5 或 AMD Ryzen 5 或更高配置",
+      "稳定的网络 · 最新的 Apex Legends PC 客户端",
+      "客户端：官方 Apex Legends PC 客户端"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer 在 Windows PC 上",
+        "caption": "HWID spoofer",
+        "captionDesc": "在您重新启动之前的硬件特征码工具。"
+      },
+      {
+        "alt": "Phoenix Satano HWID spoofer 硬件特征码轮换在 Windows PC 上",
+        "caption": "Phoenix 板块",
+        "captionDesc": "磁盘、MAC 和 GPU ID 轮换。"
+      },
+      {
+        "alt": "Phoenix WH-Satano spoofer 品牌在 Windows PC 上",
+        "caption": "Phoenix WH",
+        "captionDesc": "在每个商店使用的 Spoofer 工作区。"
+      }
+    ],
+    "overview": {
+      "title": "HWID 恢复工作流",
+      "paragraphs": [
+        "HWID Spoofer 是硬件封禁标记的独立密钥。它在您拥有的 PC 上轮换磁盘、MAC 和 GPU 标识符。它不包含在菜单中。",
+        "$50 for 31 days 或 $150 lifetime。它无法解决同一台机器上的纯账号限制。"
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "何时使用"
+      },
+      {
+        "type": "p",
+        "text": "当新账号在一个 PC 上失效但在其他地方有效时使用——不适用于纯账号封禁。验证后请搭配保守的辅助预设使用。"
+      },
+      {
+        "type": "h2",
+        "text": "方案"
+      },
+      {
+        "type": "p",
+        "text": "$50 for 31 days 或 $150 lifetime"
+      }
+    ],
+    "goodToKnow": "HWID 工具会更改您的 PC 特征码显示方式。它们不会清除纯账号惩罚。在再次启动 Apex Legends 之前，请阅读门户说明。",
+    "limitations": "改机存在技术风险，可能违反游戏条款。结果因封禁类型和驱动程序设置而异。仅在您拥有的系统上使用。",
+    "requirements": [
+      "Windows 10 或 11 64位（需管理员权限）。",
+      "在运行硬件工具之前创建还原点。",
+      "稳定的网络连接以进行激活和验证步骤。"
+    ],
+    "features": [
+      "带清理功能的硬件 spoofer",
+      "磁盘序列号和 MAC 轮换",
+      "GPU ID 配置文件工具",
+      "兼容性扫描",
+      "验证检查清单",
+      "门户分步工作流",
+      "Discord 设置支持"
+    ]
+  }
+}

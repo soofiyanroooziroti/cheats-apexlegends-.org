@@ -1,0 +1,51 @@
+# Checkout → Zadeyo (302 at edge; Buy buttons use full Zadeyo URLs in HTML)
+/go/discord https://discord.com/invite/2gMnnaPWq 302
+/go/discord/ https://discord.com/invite/2gMnnaPWq 302
+/go/apex https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fapex-legends 302
+/go/apex/ https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fapex-legends 302
+/go/apex-legends https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fapex-legends 302
+/go/apex-legends/ https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fapex-legends 302
+/go/hwid-spoofer https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fhwid-spoofer 302
+/go/hwid-spoofer/ https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fhwid-spoofer 302
+
+# Localized /{locale}/go/* → /go/* (no SSR middleware on Workers static assets)
+/ja/go/* /go/:splat 302
+/zh-cn/go/* /go/:splat 302
+/es/go/* /go/:splat 302
+/ru/go/* /go/:splat 302
+/pt-br/go/* /go/:splat 302
+/de/go/* /go/:splat 302
+/fr/go/* /go/:splat 302
+/ko/go/* /go/:splat 302
+
+# Retired locale prefixes (no longer shipped)
+/it/* / 301
+/cs/* / 301
+/pl/* / 301
+
+# Legacy paths
+/blog /blog/ 301
+/about /about/ 301
+/contact /support/ 301
+/contact/ /support/ 301
+/support /support/ 301
+/privacy /privacy/ 301
+/terms /terms/ 301
+/faq /faq/ 301
+/cheats /products/apex-cheats/ 301
+/cheats/ /products/apex-cheats/ 301
+/blogs /blog/ 301
+/blogs/ /blog/ 301
+/reviews /forum/ 301
+/reviews/ /forum/ 301
+/refunds /terms/ 301
+/refunds/ /terms/ 301
+/features /products/apex-cheats/loader/#features 301
+/features/ /products/apex-cheats/loader/#features 301
+/products/apex-cheats /products/apex-cheats/ 301
+/products/apex-cheats/loader /products/apex-cheats/loader/ 301
+/products/apex-cheats/loader/ /products/apex-cheats/loader/ 301
+/products/apex-cheats/hwid-spoofer /products/apex-cheats/hwid-spoofer/ 301
+/products/apex-cheats/hwid-spoofer/ /products/apex-cheats/hwid-spoofer/ 301
+/products/apex-cheats/utilities /products/apex-cheats/utilities/ 301
+/products/apex-cheats/utilities/ /products/apex-cheats/utilities/ 301

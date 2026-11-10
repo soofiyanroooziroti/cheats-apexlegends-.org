@@ -1,0 +1,190 @@
+{
+  "categories": {
+    "General": "Общие обсуждения",
+    "Guides & Builds": "Руководства и сборки",
+    "Patch Talk": "Обсуждение обновлений",
+    "Community": "Сообщество"
+  },
+  "posts": {
+    "loader-stuck-after-cipher-patch": {
+      "title": "Loader зависает после патча Cipher",
+      "excerpt": "Season 31 вышел, и loader просто висит. Я сломал его или файл старый?",
+      "body": [
+        "йоу, вышел патч cipher, и мой loader просто крутится. вчера всё работало. я не трогал hvci или secure boot.",
+        "на странице статуса горел зеленый с прошлого патча. я попался или просто ждать новый файл? 😭"
+      ],
+      "flair": "Решено",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "Эта зеленая пометка была для старого клиента. После Cipher статус снова read. Если написано ждать — не запускайте повторно. Когда появится новый файл, возьмите его из портала и загрузите его. Ключ тот же. Не отключайте защитные фeaкции для принудительного запуска.",
+          "replies": [
+            {
+              "author": "WraithMain_jay",
+              "body": "новый файл появился. запустил клeaн. в пабликах работает на 100%. спасибо, бро"
+            }
+          ]
+        },
+        {
+          "author": "octane_otp",
+          "body": "тоже самое. проблема была в старом файле, а не в ключе. обновил портал, и всё открылось.",
+          "replies": []
+        }
+      ]
+    },
+    "refund-if-menu-does-not-launch": {
+      "title": "Возврат денег, если меню не запускается?",
+      "excerpt": "Перед покупкой: если оно не открывается на моем pc, вернут ли мне деньги?",
+      "body": "думы о ключе на 31 день. простой вопрос перед оплатой.\n\nесли меню не запускается на моем pc, это автоматический возврат? или я просто потеряю деньги. будь со мной рeaл.",
+      "flair": "Перед покупкой",
+      "comments": [
+        {
+          "author": "SupportStaff",
+          "body": "Покупка окончательная. Мы не делаем возвраты, если вы передумали, получили штраф на аккаунт или запустили софт, когда статус говорил «ждать». Если запуск не удался на поддерживаемом pc (Windows 10 или 11, HVCI, core isolation, TPM, и secure boot включен, актуальный файл с портала), напишите в поддержку с указанием почты заказа, версии Windows и точного текста loader. Если мы подтвердим вину с нашей стороны, мы сможем исправить проблему, заменить доступ или вернуть деньги. Это не гарантия возврата для каждого тикета.",
+          "replies": [
+            {
+              "author": "horizon_tea",
+              "body": "ок, это яснea. перед покупкой изучу страницу с условиями. спасибо за прямой ответ."
+            }
+          ]
+        },
+        {
+          "author": "pathy_clips",
+          "body": "сначала рead правила, реально. пометка статуса важна. не играйте на красном.",
+          "replies": []
+        }
+      ]
+    },
+    "boxes-eating-the-screen": {
+      "title": "Boxes eating my whole screen in a POI",
+      "excerpt": "Turned every visual on and now I cannot see the door. What do you actually leave on?",
+      "body": [
+        "first session i enabled box, skeleton, health, distance, weapon, loot. looked cool for 2 seconds then a building fight was unreadable.",
+        "what do you actually keep on so you can still see the model? i am lost ngl."
+      ],
+      "flair": "Solved",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Drop it to a box and a health bar for the fight. Leave loot labels off until you are on a bin. Distance is optional on rotates, not inside the building. Save that as one config so you are not clicking twelve toggles mid round.",
+          "replies": [
+            {
+              "author": "bangalore_bench",
+              "body": "box + health only. i can see heads again. working 100% 🔥"
+            }
+          ]
+        },
+        {
+          "author": "crypto_drone7",
+          "body": "loot on during the drop, off when i hear a door. that split helped me more than another color.",
+          "replies": []
+        }
+      ]
+    },
+    "new-logins-die-on-one-pc": {
+      "title": "New logins die on this PC only",
+      "excerpt": "Fresh accounts fail on my desktop and work on a laptop. Is that an ID ban?",
+      "body": [
+        "old account on my laptop still queues. brand new logins on this desktop die early, sometimes before a real match.",
+        "is that a confirmed id ban? do i buy the spoofer or is the menu supposed to fix the login?"
+      ],
+      "flair": "Question",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "That pattern is the machine, not one email. It is not a confirmed ID ban by itself. In most cases there is no ID ban. The menu does not change disk or network ids. The spoofer is a separate key for a fingerprint problem on a pc you own. It does not undo a penalty that already sits on one account, and it is not an easy bypass claim.",
+          "replies": [
+            {
+              "author": "loba_loot",
+              "body": "tried a second pc first like you said. laptop is fine, desktop is the weird one. not treating it like a magic undo. thanks."
+            }
+          ]
+        }
+      ]
+    },
+    "r301-spray-still-climbs": {
+      "title": "Spray still climbs on the R-301",
+      "excerpt": "No Recoil is on but the last half of the mag still walks up. Did I set it wrong?",
+      "body": [
+        "no recoil on, still the r-301 climbs after like half a mag. first bullets feel ok then it walks.",
+        "am i supposed to burst or is the slider just low? not trying to build a macro, just the menu option."
+      ],
+      "flair": "Solved",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "Shoot one mag at a wall with no mouse correction. Look at the opening, the middle, and the tail. A vertical slider shortens the climb. It does not erase a sideways walk at the end, so burst before the tail if it still slides. If the first shots drop under the crosshair, the slider is too high. This is not a jitter macro and not an adapter.",
+          "replies": [
+            {
+              "author": "gibby_bubble",
+              "body": "eased it off a notch and i burst the tail. beams feel normal now. working 100%."
+            }
+          ]
+        }
+      ]
+    },
+    "vod-showed-the-menu": {
+      "title": "Stream showed my menu on the VOD",
+      "excerpt": "Went live and chat saw the menu. Stream proof was on. What did I set wrong?",
+      "body": [
+        "stream proof on. i still saw the menu in my own recording. chat definitely saw it too. embarrassing.",
+        "scene is just the whole monitor because that was easier. is that why?"
+      ],
+      "flair": "Solved",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Yes. Display capture grabs the monitor, so viewers see what you see. Use game capture on the client window, record locally while still offline, and scrub the moment you open the menu before you go live. This does not cover a teammate recording their own pc.",
+          "replies": [
+            {
+              "author": "pathy_clips",
+              "body": "switched the source. local file is clean. working 100% before i hit go live next time."
+            }
+          ]
+        }
+      ]
+    },
+    "loot-text-on-the-first-bin": {
+      "title": "Loot text covering the first bin",
+      "excerpt": "Drop is a wall of labels. I just need the closest gun, not every attachment on the map.",
+      "body": [
+        "hot drop and the floor is just words. i cannot tell which bin is the gun in my room.",
+        "i do not need every hop-up in the next building. how are you using loot labels in the first minute?"
+      ],
+      "flair": "Solved",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Three stops. Closest weapon you can take without crossing open ground. Then shield or heals, whichever is nearer. Then the exit away from the other balloons. Anything still glowing after that stays on the floor. A label is not an order to run back.",
+          "replies": [
+            {
+              "author": "octane_otp",
+              "body": "did the 3 stop thing. actually left with a gun. working 100% 💀"
+            }
+          ]
+        }
+      ]
+    },
+    "does-lifetime-include-spoofer": {
+      "title": "Does lifetime include the spoofer?",
+      "excerpt": "Before I pay once: is the HWID tool inside the lifetime menu or a different checkout?",
+      "body": [
+        "about to grab lifetime on the menu. $150. does that also unlock the spoofer or is that another buy?",
+        "dont want to find out after checkout lol."
+      ],
+      "flair": "Pre-buy",
+      "comments": [
+        {
+          "author": "SupportStaff",
+          "body": "Lifetime and the 31 day key unlock the same menu modules. Lifetime does not include the spoofer. That is its own checkout. Buy the menu for visuals and aim. Buy the spoofer only if the problem is the pc, not the account.",
+          "replies": [
+            {
+              "author": "crypto_drone7",
+              "body": "bet. menu only for me then. clear."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

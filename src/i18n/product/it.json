@@ -1,0 +1,181 @@
+{
+  "steps": [
+    {
+      "title": "Verifica lo stato",
+      "desc": "Leggi la pagina dello stato dopo un aggiornamento di Apex Legends o Javelin prima dell'acquisto. VERDE significa che la nota indica il file da caricare. ROSSO significa di attendere."
+    },
+    {
+      "title": "Scegli un piano",
+      "desc": "$35 for 31 days o $150 lifetime. Il HWID spoofer utilizza un prezzo dedicato."
+    },
+    {
+      "title": "Pagamento sicuro",
+      "desc": "Completa l'acquisto dalla scheda del prodotto. La tua licenza si sblocca nel portale con consegna immediata."
+    },
+    {
+      "title": "Installa e verifica",
+      "desc": "Segui la guida di configurazione, carica un preset conservativo e prova in una modalità di gioco meno importante prima di usare il tuo profilo principale."
+    }
+  ],
+  "howToGet": "Come ottenere {name}",
+  "cheats": {
+    "groupNames": [
+      "Opzioni Aimbot",
+      "Opzioni visive giocatore",
+      "Opzioni visive mondo",
+      "Opzioni varie"
+    ],
+    "descs": [
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Progresso del disinnesco e indicazioni temporali quando il menu li mostra.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Nasconde abilità e trappole ESP mentre vengono tenute premute.",
+      "Elencato nel menu di loader per le build supportate.",
+      "Elencato nel menu di loader per le build supportate."
+    ],
+    "slides": [
+      {
+        "alt": "Screenshot del menu Player ESP",
+        "caption": "Opzioni visive giocatore",
+        "captionDesc": "Salute, scudo, agente, grado, box, skeleton e controlli della distanza."
+      },
+      {
+        "alt": "Screenshot del menu visivo del mondo",
+        "caption": "Opzioni visive mondo",
+        "captionDesc": "Abilità, trappole, timer della e personalizzazione per agente."
+      },
+      {
+        "alt": "Screenshot del menu Aimbot",
+        "caption": "Opzioni Aimbot",
+        "captionDesc": "FOV, smoothness, adesione, osso, filtro e overlay di disegno."
+      },
+      {
+        "alt": "Screenshot del menu Varie e config",
+        "caption": "Opzioni varie",
+        "captionDesc": "Tasto rapido per la modalità combattimento, dimensione del carattere e creazione o caricamento di config."
+      }
+    ],
+    "overview": {
+      "title": "Un menu Windows per Apex Legends",
+      "paragraphs": [
+        "Una singola licenza include Opzioni Aimbot, Opzioni visive giocatore, Opzioni visive mondo e Opzioni varie: lo stesso menu per ogni piano.",
+        "Leggi la pagina dello stato prima di avviare. $35 for 31 days o $150 lifetime."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Gruppi di menu inclusi"
+      },
+      {
+        "type": "p",
+        "text": "Quattro gruppi di menu in una sola licenza: Opzioni Aimbot, Opzioni visive giocatore, Opzioni visive mondo e Opzioni varie. Apri l'elenco delle funzioni in questa pagina per visualizzare ogni interruttore."
+      },
+      {
+        "type": "h2",
+        "text": "Piani"
+      },
+      {
+        "type": "p",
+        "text": "Il piano da 31 giorni è $35. Lifetime costa $150 una volta. Circa quattro rinnovi da 31 giorni a $35 equivalgono a lifetime."
+      }
+    ],
+    "goodToKnow": "Apex Legends e Javelin si aggiornano spesso. Leggi la pagina dello stato prima di avviare. VERDE significa che la nota elenca questo file. ROSSO significa attendi. Il comportamento dell'overlay può cambiare dopo una patch.",
+    "limitations": "I software di terze parti possono violare i termini del gioco e comportare sanzioni. L'utilizzo di questo software avviene a proprio rischio. La compatibilità può variare dopo un aggiornamento del gioco, di Javelin o di Windows. La funzione Streamproof non elimina tale rischio.",
+    "requirements": [
+      "HVCI ATTIVO · CORE ISOLATION ATTIVO · TPM ATTIVO · SECURE BOOT ATTIVO",
+      "Windows 10 o 11 su build supportate",
+      "Intel Core i5 o AMD Ryzen 5 o superiore",
+      "Internet stabile · client Apex Legends PC più recente",
+      "Client: client ufficiale Apex Legends PC"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer su Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Strumenti per impronte digitali hardware prima del riavvio."
+      },
+      {
+        "alt": "Rotazione dell'impronta digitale hardware Phoenix Satano HWID spoofer su Windows PC",
+        "caption": "Scheda Phoenix",
+        "captionDesc": "Rotazione ID disco, MAC e GPU."
+      },
+      {
+        "alt": "Branding Phoenix WH-Satano spoofer su Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Spazio di lavoro Spoofer utilizzato su ogni store."
+      }
+    ],
+    "overview": {
+      "title": "Flusso di ripristino HWID",
+      "paragraphs": [
+        "HWID Spoofer è una chiave separata per un flag hardware. Ruota gli identificatori di disco, MAC e GPU su un PC di tua proprietà. Non è inclusa nel menu.",
+        "$50 for 31 days o $150 lifetime. Non risolve una restrizione limitata all'account sulla stessa macchina."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Quando usarlo"
+      },
+      {
+        "type": "p",
+        "text": "Utilizzare quando i nuovi account falliscono su un PC ma funzionano altrove, non per i ban relativi al solo account. Abbinare a preset di cheat conservativi dopo la verifica."
+      },
+      {
+        "type": "h2",
+        "text": "Piani"
+      },
+      {
+        "type": "p",
+        "text": "$50 for 31 days o $150 lifetime"
+      }
+    ],
+    "goodToKnow": "Gli strumenti HWID modificano l'aspetto dell'impronta digitale del tuo PC. Non rimuovono una penalità limitata al solo account. Leggi le note del portale prima di avviare nuovamente Apex Legends.",
+    "limitations": "Lo spoofing comporta rischi tecnici e potrebbe violare i termini del gioco. I risultati variano in base al tipo di ban e alla configurazione dei driver. Utilizzare solo su sistemi di proprietà.",
+    "requirements": [
+      "Windows 10 o 11 a 64-bit con privilegi di amministratore.",
+      "Creare un punto di ripristino prima di eseguire gli strumenti hardware.",
+      "Connessione internet stabile per le fasi di attivazione e verifica."
+    ],
+    "features": [
+      "spoofer hardware con cleaner",
+      "Rotazione seriale disco e MAC",
+      "Strumenti profilo ID GPU",
+      "Scansione di compatibilità",
+      "Lista di controllo per la verifica",
+      "Flusso di lavoro dettagliato del portale",
+      "Supporto configurazione Discord"
+    ]
+  }
+}

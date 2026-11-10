@@ -1,0 +1,1387 @@
+{
+  "site": {
+    "name": "Apex cheats",
+    "domain": "cheatsapexlegends.org",
+    "title": "Apex cheats",
+    "description": "Windows PC上のApex Legends向けターゲティング、分隊オーバーレイ、マップ上の戦利品表示、プロフィールツール。USDの価格設定。",
+    "discord": "/go/apex/"
+  },
+  "nav": [
+    {
+      "href": "/",
+      "label": "ホーム"
+    },
+    {
+      "href": "/products/apex-cheats/",
+      "label": "プロダクト"
+    },
+    {
+      "href": "/products/apex-cheats/loader/#features",
+      "label": "Features"
+    },
+    {
+      "href": "/blog/",
+      "label": "ブログ"
+    },
+    {
+      "href": "/forum/",
+      "label": "フォーラム"
+    },
+    {
+      "href": "/faq/",
+      "label": "FAQ"
+    },
+    {
+      "href": "/support/",
+      "label": "サポート"
+    }
+  ],
+  "headerNavLabels": {
+    "home": "ホーム",
+    "products": "ストア",
+    "features": "Features",
+    "blog": "ブログ",
+    "forum": "フォーラム",
+    "faq": "FAQ",
+    "support": "ヘルプ"
+  },
+  "navMore": "その他",
+  "navShort": {
+    "home": "ホーム",
+    "products": "プロダクト",
+    "features": "Features",
+    "blog": "ブログ",
+    "forum": "フォーラム",
+    "faq": "FAQ",
+    "support": "サポート"
+  },
+  "hero": {
+    "status": "Apex Legends — read status before you inject",
+    "eyebrow": "Windows PC · ワールドワイド",
+    "titleLine1": "Apex cheats for Windows PC",
+    "titleLine2": "",
+    "subtitle": "These apex cheats ship Player ESP, Advanced Aimbot, Loot ESP, No Recoil, EA Javelin Bypass, and Stream Proof on one Windows license. $35 for 31 days or $150 lifetime.",
+    "ctaPrimary": "製品を見る",
+    "ctaDiscord": "今すぐ購入",
+    "modesLabel": "モジュール",
+    "modes": [
+      "Player ESP",
+      "Advanced Aimbot",
+      "Weapon ESP",
+      "Health Bar",
+      "Distance ESP",
+      "Box ESP",
+      "Skeleton ESP",
+      "Loot ESP",
+      "No Recoil",
+      "EA Javelin Bypass",
+      "Stream Proof",
+      "24/7 Support"
+    ],
+    "marqueeAria": "Features and platform support",
+    "metrics": [
+      {
+        "label": "Anti-cheat",
+        "strong": "EA Javelin"
+      },
+      {
+        "label": "プラットフォーム",
+        "strong": "Windows PC"
+      },
+      {
+        "label": "プラン",
+        "strong": "$35 and $150"
+      },
+      {
+        "label": "サポート",
+        "strong": "24/7"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Features",
+    "title": "1ライセンスで12個のモジュール",
+    "subtitle": "1つのライセンスですべての機能を利用できます。",
+    "subtitleLead": "",
+    "subtitleLinkLabel": "",
+    "subtitleTail": "",
+    "seeAllLabel": "すべてのfeaturesを見る",
+    "items": [
+      {
+        "title": "Player ESP",
+        "subtitle": "視界内のスクワッドと敵のlegendにラベルを表示します。"
+      },
+      {
+        "title": "Advanced Aimbot",
+        "subtitle": "SmoothエイムアシストとFOV、戦闘中の視線判定。"
+      },
+      {
+        "title": "Weapon ESP",
+        "subtitle": "突撃する前に敵のlegendがどのweaponを持っているか確認できます。"
+      },
+      {
+        "title": "Health Bar",
+        "subtitle": "移動中のターゲットの頭上にシールドとhealthバーを表示します。"
+      },
+      {
+        "title": "Distance ESP",
+        "subtitle": "eachマークされたプレイヤーまでの距離をメートル単位で表示します。"
+      },
+      {
+        "title": "Box ESP",
+        "subtitle": "障害物の向こうでもすばやく追跡できるlegendのコーナーボックス。"
+      },
+      {
+        "title": "Skeleton ESP",
+        "subtitle": "近距離での姿勢をreadoutで確認するための骨格ライン。"
+      },
+      {
+        "title": "Loot ESP",
+        "subtitle": "エリア移動中の地面のアイテムマーカーとティアフィルター。"
+      },
+      {
+        "title": "No Recoil",
+        "subtitle": "ARやSMGの連射を補助する反動制御アシスト。"
+      },
+      {
+        "title": "EA Javelin Bypass",
+        "subtitle": "ライブPCクライアント向けに構築されており、Javelinが有効な状態ではBANのリスクが残ります。"
+      },
+      {
+        "title": "Stream Proof",
+        "subtitle": "キャプチャアプリ向けのオーバーレイモードですが、すべての環境で動作が保証されるわけではありません。"
+      },
+      {
+        "title": "24/7 Support",
+        "subtitle": "loaderキー、決済、ポータルアクセスに関するDiscordサポート。"
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "選ばれる理由",
+    "title": "どのプランでも同じメニュー — アップデートはseasonに対応",
+    "subtitle": "1つのcheatと1つのHWID spoofer。メニューは$35 for 31 daysまたは$150 lifetime。HWID spooferは$50 for 31 daysまたは$150 lifetime。Javelinのもとではアカウントの処置が行われる可能性があります。",
+    "usLabel": "Apex cheats",
+    "otherLabel": "一般的なプロバイダー",
+    "rows": [
+      {
+        "title": "パッチ後のLoaderリフレッシュ",
+        "desc": "loaderを実行する前に、Apex LegendsまたはJavelinのクライアント変更後にcheatsapexlegends.orgを確認してください。"
+      },
+      {
+        "title": "エイムスライダーは個別に維持",
+        "desc": "FOV、smoothing、ボーン、および視認性チェックはindependentです。どの設定を変更したか把握できるよう、1つずつ調整してください。"
+      },
+      {
+        "title": "状況に合わせたセットアップ支援",
+        "desc": "サポートがWindows loader、保存されたプロファイル、およびメニューキーとspooferキーのどちらが必要かを案内します。"
+      },
+      {
+        "title": "2つのチェックアウト、2つのキー",
+        "desc": "ハックメニューとHWID spooferが同じカートに入ることはありません。メニューでのLifetimeにspooferはバンドルされません。"
+      },
+      {
+        "title": "両プラン共通のプロファイル",
+        "desc": "12個のモジュールすべてが1つのライセンスに含まれています。31日プランとlifetimeプランで同じloaderビルドが開きます。"
+      },
+      {
+        "title": "ハードウェアフラグにはspooferが必要",
+        "desc": "PCで新規アカウントの作成ができない場合、それはメニューキーにバンドルされたものではなく、spoofer製品の領域です。"
+      }
+    ],
+    "metrics": [
+      {
+        "value": "Javelin",
+        "title": "パッチ後の確認",
+        "desc": "インジェクトする前に、Apex LegendsまたはJavelinのリリース後にステータスラベルを再readしてください。"
+      },
+      {
+        "value": "2",
+        "title": "メニューのプラン",
+        "desc": "$35 for 31 daysまたは$150 lifetime。両方のティアで同じloaderが提供されます。"
+      },
+      {
+        "value": "2",
+        "title": "個別製品",
+        "desc": "Apex cheatsメニューとHWID spoofer。Eachにはそれぞれ独自のライセンスが付属します。"
+      }
+    ]
+  },
+  "setup": {
+    "eyebrow": "セットアップガイド",
+    "titleLead": "お支払いから最初の降下まで",
+    "titleHighlight": "たったの3ステップ",
+    "intro": "手順は、ステータス確認 → 決済 → ポータルloaderの流れになります。JavelinやApex Legendsのアップデート後は、ゲームを起動する前に必ずステータスページをご確認ください。",
+    "ctaPrimary": "製品を見る",
+    "ctaSecondary": "セットアップFAQ",
+    "ctaPrimaryHref": "/products/apex-cheats/",
+    "ctaSecondaryHref": "/faq/",
+    "statusStrip": {
+      "aceStatusCta": "ステータスを確認",
+      "aceStatusHref": "/status/",
+      "perks": [
+        {
+          "icon": "instantDelivery",
+          "label": "即座に配信"
+        },
+        {
+          "icon": "support247",
+          "label": "24/7サポート"
+        },
+        {
+          "icon": "refresh",
+          "label": "Lifetimeアップデート"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "step": "ステップ 1",
+        "title": "ポータルアクセスとloaderのダウンロード",
+        "desc": "決済を完了し、オペレーターポータルにログインして、ダッシュボードから現在のWindows loaderを取得します。"
+      },
+      {
+        "step": "ステップ 2",
+        "title": "モジュールのロードと調整",
+        "desc": "loaderを起動し、Player ESP、エイム調整、ルートマーカー、ストeaムシールドなどのモジュールを1つずつ有効化します。"
+      },
+      {
+        "step": "ステップ 3",
+        "title": "ステータスを確認してプレイ",
+        "desc": "このビルドのステータスバナーが緑色になっていることを確認してから、Apex Legendsを起動します。"
+      }
+    ]
+  },
+  "compatibility": {
+    "eyebrow": "プラットフォーム対応",
+    "title": "最新のWindows環境向けに構築。",
+    "subtitle": "インジェクトする前に、Apex LegendsやJavelinの変更後はステータスページを再確認してください。",
+    "items": [
+      "Windows 10 & 11",
+      "Intel または AMD",
+      "HVCI 以降",
+      "Core isolation 以降",
+      "TPM 以降",
+      "Secure boot 以降",
+      "Discord対応",
+      "Configセーブ"
+    ]
+  },
+  "cheats": {
+    "eyebrow": "ゲームチート",
+    "title": "Apex用ハックメニュー",
+    "subtitle": "ターゲット設定、分隊オーバーレイ、ワールド内戦利品、および各種プロファイルを1つのライセンスで利用可能。",
+    "viewAll": "詳細を見る",
+    "explore": "探索する",
+    "items": [
+      {
+        "badge": "稼働中",
+        "tier": "フルスイート",
+        "name": "Apex hack",
+        "title": "Apex hackメニュー",
+        "desc": "ターゲット制御、分隊のea、マップ上の戦利品、保存されたプロファイルスロットを備えたWindowsオーバーレイ。",
+        "features": [
+          "ボックスESP",
+          "No Recoil",
+          "ストリームプーフ"
+        ],
+        "more": 9,
+        "href": "/products/apex-cheats/loader/",
+        "variant": "popular"
+      }
+    ]
+  },
+  "products": {
+    "eyebrow": "プロダクト",
+    "title": "PC用Apex hack",
+    "subtitle": "Apex hack: $35 for 31 days または $150 lifetime。Apex spoofer: $50 for 31 days または $150 lifetime。",
+    "viewAll": "詳細を見る",
+    "get": "今すぐ購入",
+    "explore": "探索する",
+    "items": [
+      {
+        "badge": "稼働中",
+        "category": "HWID spoofer",
+        "title": "Apex spoofer",
+        "subtitle": "ロックされたハードウェア向けのApex spoofer",
+        "desc": "Apexでのハードウェアフラグ検出後、再びマッチに参加する前に、クリーナーでディスク、MAC、GPU識別子を更新するHWID spoofer。",
+        "features": [
+          "ディスク、MAC、およびGPU IDの更新",
+          "実行前のフィンガープリンティングスキャン",
+          "eacローテーション後のチェックリスト",
+          "セットアップヘルプ付きポータル手順"
+        ],
+        "more": 4,
+        "href": "/products/apex-cheats/hwid-spoofer/"
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "ブログ",
+    "title": "ガイドとアップデート",
+    "subtitle": "Seasonの変更点、オーバーレイの調整、Javelinパッチの解説、プランの比較。",
+    "latestTitle": "最新のApex Legendsガイド",
+    "latestSubtitle": "トピックで絞り込み、セットアップ手順、モジュールの詳細解説、パッチ配信日のリマインダーを確認できます。",
+    "filterAll": "すべての記事",
+    "sortLabel": "並び替え",
+    "sortNewest": "新しい順",
+    "sortOldest": "古い順",
+    "sortShortRead": "読む時間が短い順",
+    "sortLongRead": "読む時間が長い順",
+    "emptyFilter": "条件に一致する記事はありません。",
+    "emptyCatalog": "表示できるガイドはありません。トピックの絞り込みを変更するか、製品ページを開いてください。",
+    "viewAll": "すべての記事を見る",
+    "read": "読了",
+    "items": [],
+    "minRead": "分で読めます",
+    "filterByTopicAria": "トピックで記事を絞り込む",
+    "continueReadingAria": "続きを読む",
+    "tagLabels": {
+      "Review": "レビュー",
+      "Install": "インストール",
+      "Safety": "安全性",
+      "Plans": "プラン",
+      "Aim": "エイム",
+      "ESP": "ESP",
+      "Loot": "戦利品",
+      "Visuals": "ビジュアル",
+      "Camera": "カメラ",
+      "Guide": "ガイド"
+    }
+  },
+  "toolkit": {
+    "eyebrow": "ソフトウェア",
+    "title": "1つのライセンスで12個のモジュール",
+    "subtitle": "ホームページ、製品ページ、loader featureリストで同じ名前を使用します。",
+    "items": [
+      {
+        "num": "01",
+        "label": "Player ESP",
+        "title": "Player ESP",
+        "desc": "敵や分隊のレgendスをラベル付きで表示し、戦闘の状況を一目で把握できます。"
+      },
+      {
+        "num": "02",
+        "label": "高度な Aimbot",
+        "title": "高度な Aimbot",
+        "desc": "Smoothエイムアシスト。FOV機能と可視性チェックを備え、Apexの銃撃戦で有利に立ち回れます。"
+      },
+      {
+        "num": "03",
+        "label": "武器 ESP",
+        "title": "武器 ESP",
+        "desc": "敵を詰める前に、相手のレgendスがどの武器を持っているかを表示します。"
+      },
+      {
+        "num": "04",
+        "label": "体力バー",
+        "title": "体力バー",
+        "desc": "移動時や漁夫の利を狙う戦闘の際、ターゲットの頭上にシールドと体力バーを表示します。"
+      },
+      {
+        "num": "05",
+        "label": "距離 ESP",
+        "title": "距離 ESP",
+        "desc": "マークしたプレイヤーまでの距離（メートル）を表示し、BRやアリーナでのコールを容易にします。"
+      },
+      {
+        "num": "06",
+        "label": "ボックス ESP",
+        "title": "ボックス ESP",
+        "desc": "レgendスの周囲にボックスを表示し、windowsや遮蔽物の向こうでも素早く位置を把握できます。"
+      },
+      {
+        "num": "07",
+        "label": "Skeleton ESP",
+        "title": "Skeleton ESP",
+        "desc": "近距離戦で姿勢のreaドアウトが必要な場合に、骨格ラインを表示します。"
+      },
+      {
+        "num": "08",
+        "label": "ルート ESP",
+        "title": "ルート ESP",
+        "desc": "エリア移動の合間に、地面に落ちているアイテムのマーカーやティアフィルターを表示します。"
+      },
+      {
+        "num": "09",
+        "label": "No Recoil",
+        "title": "No Recoil",
+        "desc": "アサルトライフル、サブマシンガン、LMGでの持続射撃を補助する反動制御アシストです。"
+      },
+      {
+        "num": "10",
+        "label": "EA Javelin バイパス",
+        "title": "EA Javelin バイパス",
+        "desc": "Javelinが有効な状態のライブPCクライアント向けに構築されていますが、BANのリスクは常につきまといます。"
+      },
+      {
+        "num": "11",
+        "label": "ストreaムプルーフ",
+        "title": "ストreaムプルーフ",
+        "desc": "キャプチャアプリ向けのオーバーレイモードですが、すべての環境での動作を保証するものではありません。"
+      },
+      {
+        "num": "12",
+        "label": "24/7 サポート",
+        "title": "24/7 サポート",
+        "desc": "loaderキー、決済、ポータルアクセスに関するDiscordサポートを提供します。"
+      }
+    ]
+  },
+  "workflow": {
+    "eyebrow": "ご利用の流れ",
+    "badge": "4つの簡単なステップ",
+    "titleBefore": "ステータスバナーから",
+    "titleHighlight": "保存されたconfigまで。",
+    "subtitle": "ホームページのステータス確認から決済までの短い道のりです。",
+    "ctaLabel": "製品を見る",
+    "ctaHref": "/products/apex-cheats/",
+    "ctaSecondary": "セットアップFAQ",
+    "ctaSecondaryHref": "/faq/",
+    "items": [
+      {
+        "num": "01",
+        "phase": "購入前",
+        "title": "Readステータスバナー",
+        "desc": "緑色はロード可能なファイルを示します。赤色は一時停止を意味します。Apex LegendsまたはJavelinのアップデート後に再度確認してください。"
+      },
+      {
+        "num": "02",
+        "phase": "決済",
+        "title": "製品を選ぶ",
+        "desc": "メニュー: $35および$150。HWID Spoofer: $50および$150。キーはそれぞれ異なります。"
+      },
+      {
+        "num": "03",
+        "phase": "Loader",
+        "title": "ダウンロードと起動",
+        "desc": "ポータルからビルドを取得します。HVCI、core isolation、TPM、secure bootを有効に維持してください。"
+      },
+      {
+        "num": "04",
+        "phase": "ゲーム内",
+        "title": "configを保存する",
+        "desc": "視野や戦利品の表示がしっくりきたら、その他タブからプロファイルを保存します。"
+      }
+    ]
+  },
+  "fieldNotes": {
+    "eyebrow": "現場からのメモ",
+    "title": "Windows PC上のApex Legends向けに調整済み。",
+    "items": [
+      {
+        "num": "01",
+        "title": "パッチ当日の習慣",
+        "desc": "Javelinやクライアント更新の後は必ずステータスページを開いてください。昨日の緑色バナーが今日のビルドとは限りません。"
+      },
+      {
+        "num": "02",
+        "title": "設定は1つずつ変更",
+        "desc": "FOV、smooth、または最大距離を個別に調整することで、挙動の違和感や画面の乱れの原因を特定できます。"
+      },
+      {
+        "num": "03",
+        "title": "キーは別々に管理",
+        "desc": "メニューの決済とspooferの決済は統合されません。一方の製品のLifetimeで他方がアンロックされることはありません。"
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "サポート",
+    "title": "Apex cheats サポート",
+    "subtitle": "ご購入前またはご購入後に必要なサポートをお知らせください。",
+    "channels": [
+      {
+        "icon": "users",
+        "title": "ご購入前の質問",
+        "desc": "ハックメニューや HWID spoofer について決済前にご確認ください。",
+        "linkLabel": "チェックアウトを開始",
+        "href": "/go/apex/"
+      },
+      {
+        "icon": "messageCircle",
+        "title": "コミュニティフォーラム",
+        "desc": "Loader のセットアップ、エイム調整、オーバーレイ、プラン選び（開発者マーク付き回答あり）。",
+        "linkLabel": "フォーラムを開く",
+        "href": "/forum/"
+      },
+      {
+        "icon": "navFaq",
+        "title": "よくある質問を読む",
+        "desc": "互換性、BAN、インストール順序について（ご購入前）。",
+        "linkLabel": "FAQをすべて見る",
+        "href": "/faq/"
+      },
+      {
+        "icon": "clock",
+        "title": "ライブオペレーター",
+        "desc": "Discord スタッフが24時間体制で待機しています。",
+        "linkLabel": "お問い合わせページを開く",
+        "href": "/support/"
+      }
+    ],
+    "ticketTitle": "チケットに含める内容",
+    "ticketItems": [
+      {
+        "title": "注文時のメールアドレス",
+        "desc": "cheatsapexlegends.org での決済時に使用したメールアドレス。"
+      },
+      {
+        "title": "プラットフォーム",
+        "desc": "Windows 10 または 11、および HVCI、core isolation、TPM、secure boot が有効のままかどうか。"
+      },
+      {
+        "title": "エラーの詳細",
+        "desc": "loader エラーのテキストを要約せずそのまま貼り付けてください。"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Clear answers before you pay.",
+    "subtitle": "Hardware, bans, and access—without marketing fluff.",
+    "items": [
+      {
+        "id": "status",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "How do I know the loader matches today’s Apex Legends client?",
+        "a": "Open cheatsapexlegends.org/status after any client or Javelin change. Treat yesterday’s GREEN note as stale—do not inject until today’s label lists your build.",
+        "aHtml": "クライアントやJavelinの変更後は、常に<a href=\"/status/\">ステータ</a>を開いてください。昨日の「GREEN」表記は古いものとして扱い、本日のラベルに自分のビルドが表示されるまでインジェクションしないでください。"
+      },
+      {
+        "id": "after-buy",
+        "topic": "setup",
+        "icon": "faqAfterBuy",
+        "q": "What arrives in the portal after checkout?",
+        "a": "You get the Windows loader for the SKU you paid for. Tune Player ESP, aim, and loot tabs, then save a profile. Keep HVCI, core isolation, TPM, and secure boot enabled."
+      },
+      {
+        "id": "ban-risk",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "Is a ban still possible while using the menu?",
+        "a": "Yes. Javelin can flag accounts even on conservative presets. This site does not promise a clean session."
+      },
+      {
+        "id": "hwid-ban-risk",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "Hardware flag vs account ban—what is which?",
+        "a": "When only new logins fail on one tower but work elsewhere, suspect a hardware flag. That is what the separate <a href=\"/products/apex-cheats/hwid-spoofer/\">HWID Spoofer</a> key is for. Account-only penalties are not fixed by spoofing, and lifetime on <a href=\"/products/apex-cheats/loader/\">the menu</a> never bundles the spoofer."
+      },
+      {
+        "id": "platforms",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "What machine do I need before I buy?",
+        "a": "Windows 10 or 11 64-bit with HVCI, core isolation, TPM, and secure boot enabled, plus the current Apex Legends PC client. Consoles, macOS, and Linux are out of scope."
+      },
+      {
+        "id": "license-move",
+        "topic": "products",
+        "icon": "faqLicenseMove",
+        "q": "Can I transfer my license to a friend’s PC?",
+        "a": "Email support from the purchase address. Keys are not free-floating transfers—persistent hardware blocks need the spoofer checkout, not a courtesy move."
+      },
+      {
+        "id": "products-page",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "Which products share one cart?",
+        "a": "None. <a href=\"/products/apex-cheats/loader/\">the menu</a> and the <a href=\"/products/apex-cheats/hwid-spoofer/\">HWID Spoofer</a> are separate line items on the <a href=\"/products/apex-cheats/\">products page</a>. The menu is $35 for 31 days or $150 lifetime. The HWID spoofer is $50 for 31 days or $150 lifetime."
+      },
+      {
+        "id": "plans-same-price",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "Does menu lifetime cover the HWID spoofer?",
+        "a": "No. A $150 lifetime key is only for the Apex hack menu. Spoofer lifetime is its own $150 checkout, with a $50 monthly option. Shorter menu time does not roll into lifetime credit.",
+        "scopes": [
+          "loader",
+          "hwid-spoofer"
+        ]
+      },
+      {
+        "id": "player-esp",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "What should I expect from Player ESP squads?",
+        "a": "Tagged legends show names, teams, and rough position in your FOV. Add Distance ESP when rotating third parties; trim label count if fights get noisy.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "advanced-aimbot",
+        "topic": "esp",
+        "icon": "faqExternalLoader",
+        "q": "First-night Advanced Aimbot settings?",
+        "a": "Keep FOV tight, smoothing high, and visibility checks on. Log a few firing-range drills before ranked, then widen FOV only if tracking feels sluggish.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "weapon-esp",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "When does Weapon ESP pay off?",
+        "a": "It prints the opponent’s gun above their box so you know whether to slide in or hold range. Disable it if you already run full skeleton and box clutter.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "health-bar",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "How should I use Health Bar in ring fights?",
+        "a": "Bars stack shield pips and health on tagged players. Drop skeleton thickness or raise distance cutoffs when multiple teams collapse in one POI.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "loot-esp",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Loot ESP during zone crunch—worth it?",
+        "a": "Yes for death boxes and ground swaps between rotations. Tier filters stop grey guns from covering enemies during endgame scans.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "no-recoil",
+        "topic": "esp",
+        "icon": "faqExternalLoader",
+        "q": "No Recoil vs manual control?",
+        "a": "The module trims vertical climb on sustained beams. It will not fix whiffed flicks—dial aimbot first, then add light recoil assist for AR/LMG sprays.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "javelin-bypass",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "What is EA Javelin Bypass on cheatsapexlegends.org?",
+        "a": "It means builds are checked against live Javelin before the status note goes GREEN. RED still means wait. It is engineering fit, not a ban waiver.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "stream-proof",
+        "topic": "esp",
+        "icon": "faqExternalLoader",
+        "q": "Will Stream Proof hide overlays on stream?",
+        "a": "It hides menu and ESP from common capture paths while you see them locally. GPU driver, dual-PC, and OBS scene setups still need a private test.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "support-247",
+        "topic": "products",
+        "icon": "faqAfterBuy",
+        "q": "Fastest way to reach 24/7 Support?",
+        "a": "Use the Discord invite on the support page with order email, product (menu vs spoofer), and a screenshot of any loader error text.",
+        "scopes": [
+          "loader",
+          "hwid-spoofer"
+        ]
+      },
+      {
+        "id": "spoofer-scope",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "Buy the HWID spoofer when…",
+        "a": "Choose <a href=\"/products/apex-cheats/hwid-spoofer/\">HWID Spoofer</a> if brand-new accounts lock to one desktop but succeed on a laptop. It will not lift an account-only sanction on the same iron.",
+        "scopes": [
+          "hwid-spoofer"
+        ]
+      },
+      {
+        "id": "not-dma",
+        "topic": "products",
+        "icon": "faqExternalLoader",
+        "q": "Do I need a DMA board for this key?",
+        "a": "No. Checkout delivers a software loader for your own Windows box. DMA hardware is a different SKU and is not included here.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "blog-default-1",
+        "topic": "blog",
+        "icon": "faqBlogDefault1",
+        "q": "Do blog posts override the product page list?",
+        "a": "Guides walk through ideas and link back to <a href=\"/products/apex-cheats/loader/\">the menu</a>. Module names on that product card beat anything written in an article."
+      },
+      {
+        "id": "blog-default-2",
+        "topic": "blog",
+        "icon": "faqBlogDefault2",
+        "q": "Article steps fail—what should I send support?",
+        "a": "Paste the guide title, your receipt email, and the loader message verbatim. Screenshots beat paraphrasing."
+      },
+      {
+        "id": "blog-default-3",
+        "topic": "blog",
+        "icon": "faqBlogDefault3",
+        "q": "Are tutorial sliders  after a Javelin push?",
+        "a": "Assume presets age overnight. Read status, then import your saved profile instead of transcribing numbers from the post."
+      },
+      {
+        "id": "blog-plan-start",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "31-day or lifetime for a first purchase?",
+        "a": "Pick 31 days to sample one SKU. The menu is $35 for 31 days or $150 lifetime. The HWID spoofer is $50 for 31 days or $150 lifetime. Credits from a short plan never apply to lifetime, and lifetime on one SKU never unlocks the others."
+      },
+      {
+        "id": "blog-plan-upgrade",
+        "topic": "plans",
+        "icon": "faqLicenseMove",
+        "q": "Can I turn a 31-day key into lifetime later?",
+        "a": "Lifetime is a fresh checkout on the same product. Prior $35 or $50 payments are not discounted toward the $150 lifetime price."
+      },
+      {
+        "id": "blog-plan-expire",
+        "topic": "plans",
+        "icon": "faqAfterBuy",
+        "q": "My 31-day window ended—now what?",
+        "a": "Access stops at day 31 unless you buy another window or lifetime on that exact product. Lifetime never auto-renews and keys do not hop between products."
+      },
+      {
+        "id": "blog-plan-support",
+        "topic": "plans",
+        "icon": "faqBlogDefault2",
+        "q": "Refunds if I bought the wrong plan?",
+        "a": "Sales complete at checkout. Bans, buyer’s remorse, or playing on an outdated status note are not refundable. We only issue fixes or refunds when we verify a defect on our end—see terms.",
+        "aHtml": "決済完了後の返金はできません。BAN、購入後の後悔、古いステータス表記でのプレイに対する返金も対応外となります。不具合が当方側で確認できた場合のみ、修正または返金対応を行っております。詳細は<a href=\"/terms/\">利用規約</a>をご確認ください。"
+      }
+    ],
+    "filterTopics": {
+      "all": "すべて",
+      "plans": "プラン",
+      "esp": "Features",
+      "scripts": "スクリプト",
+      "safety": "セキュリティ",
+      "products": "製品",
+      "blog": "ブログ",
+      "setup": "セットアップ"
+    }
+  },
+  "footer": {
+    "tagline": "Apex cheats と HWID spoofer（Windows PC 向け）。cheatsapexlegends.org",
+    "explore": "探索",
+    "exploreLinks": [
+      {
+        "href": "/products/apex-cheats/loader/#features",
+        "label": "Feature overview",
+        "ariaLabel": "Features"
+      },
+      {
+        "href": "/products/apex-cheats/loader/",
+        "label": "Apex hack menu",
+        "ariaLabel": "Apex hack menu"
+      },
+      {
+        "href": "/products/apex-cheats/",
+        "label": "すべての製品",
+        "ariaLabel": "Products"
+      },
+      {
+        "href": "/blog/",
+        "label": "Read patch guides",
+        "ariaLabel": "Blog"
+      },
+      {
+        "href": "/faq/",
+        "label": "購入前よくある質問",
+        "ariaLabel": "FAQ"
+      }
+    ],
+    "support": "サポート",
+    "legal": "法的事項",
+    "moreSites": "その他のサイト",
+    "privacy": "Privacy Policy",
+    "terms": "利用規約",
+    "about": "概要",
+    "resourceLinks": [
+      {
+        "label": "ブログアーカイブ",
+        "ariaLabel": "Blog"
+      },
+      {
+        "label": "Apex hack",
+        "ariaLabel": "Apex hack"
+      },
+      {
+        "label": "製品とユーティリティ",
+        "ariaLabel": "Products"
+      }
+    ]
+  },
+  "legalPages": {
+    "about": {
+      "title": "当ストアについて",
+      "description": "cheatsapexlegends.orgでは、セットアップの注意事項やJavelinに関する正直なリスク説明とともに、Apex LegendsのハックメニューおよびHWID spooferを販売しています。",
+      "sections": [
+        {
+          "heading": "私たちについて",
+          "paragraphs": [
+            "cheatsapexlegends.orgでは、Apex Legends向けのWindowsメニューと、単体で動作するHWID spooferを提供しています。このメニューには、スクワッドオーバーレイ、ルートの手がかり、skeletonライン、体力・シールドバー、エイム調整、およびオプションのstreamproofレイヤーが含まれます。",
+            "メニューは$35 for 31 daysまたは$150 lifetimeです。HWID spooferは$50 for 31 daysまたは$150 lifetimeです。lifetimeのメニューキーには、spooferのライセンスは含まれません。",
+            "当サイトの製品名は製品の説明を目的としたものであり、ゲームのパブリッシャーによるend承認を示すものではありません。納品はWindows 10または11向けのポータルダウンロードとなります。HVCI、core isolation、TPM、secure bootを有効に保ち、サイトがライブクライアントと一致している時のみロードしてください。"
+          ]
+        },
+        {
+          "heading": "公開内容",
+          "paragraphs": [
+            "[[1番目のリンク](/products/apex-cheats/loader/))のページには、モジュール名とPCの要件（Windows 10または11、Intel Core i5またはAMD Ryzen 5クラスのハードウェア、HVCI、core isolation、TPM、secure bootを有効にした状態）が記載されています。[製品ページ](/products/apex-cheats/))では、メニューと[HWID Spoofer（/products/apex-cheats/hwid-spoofer/).）を比較しています。",
+            "[ブログ](/blog/))では、オーバーレイの調整、Javelinのパッチ日、およびメニューの代わりにspooferのinseadが必要になるハードウェアフラグの発生時期について取り上げています。[フォーラム](/forum/))では、開発者からのマーク付き返信を含め、同じトピックがホストされています。支払いの前に[利用規約](/terms/))をお読みください。BANを含め、返金はいたしかねます。",
+            "EA Javelin Anticheatは引き続きアカウントに対してペナルティを課す可能性があります。次のパッチ以降の動作保証はいたしかねます。インジェクションを行う前に、クライアントのアップデート後にこのサイトを再度ご確認ください。現在のバージョンとしてリストに載っていないビルドの場合は、loaderを閉じたたままにしてください。",
+            "ホームページのステータスに関する注意書きには、公開されているloaderがクライアントと一致しているかどうかが記載されています。これはJavelinがソフトウェアを無視するという約束ではありません。不明な点がある場合は、オフラインのままで、キューに参加する前に関連ガイドをお読みeaください。"
+          ]
+        },
+        {
+          "heading": "サポート",
+          "paragraphs": [
+            "Loaderの不具合、ライセンスの移行、請求に関するご質問は、[サポートページ](/support/).)からお問い合わせください。注文時のメールアドレス、Windowsのバージョン、正確なloaderの出力を必ず含めてください。他所のゲームのチャットで言われたからといって、HVCI、core isolation、TPM、secure bootを無効化しないでください。"
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "プライバシーポリシー",
+      "description": "cheatsapexlegends.orgにおけるアクセス解析、クッキー、および連絡先データの取り扱いについて。",
+      "sections": [
+        {
+          "heading": "収集する情報",
+          "paragraphs": [
+            "有効にされている場合、Google Analyticsを通じて、ページビュー、デバイスの種類、ブラウザ、おおよその地域などの一般的なウェブアクセス解析データを収集する場合があります。決済およびライセンスの配信は外部のチェックアウトページで行われます。cheatsapexlegends.orgでは支払いカードのデータを保存しません。"
+          ]
+        },
+        {
+          "heading": "データの使用方法",
+          "paragraphs": [
+            "アクセス解析により、どのガイドや製品ページが訪問者の役に立っているかを把握し、コンテンツの改善やリンク切れの修正を行います。サポートチケットには、チケットがクローズされるまで、お客様のメールアドレスと送信されたメッセージが保存される場合があります。"
+          ]
+        },
+        {
+          "heading": "クッキー",
+          "paragraphs": [
+            "アクセス解析に必要な最小限のクッキーを使用しています。ブラウザの設定でクッキーをブロックすることも可能で、その場合でもサイトの主要ページは問題なく読み込まれます。"
+          ]
+        },
+        {
+          "heading": "サポート",
+          "paragraphs": [
+            "プライバシーに関するご質問は、サポートページまでお願いいたします。購入および返金のルールについては、利用規約をご確認ください。"
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "利用規約",
+      "description": "cheatsapexlegends.orgで販売される商品の購入、ライセンス、返金、および利用に関する規約です。",
+      "sections": [
+        {
+          "heading": "合意",
+          "paragraphs": [
+            "最終更新日：2026年10月。cheatsapexlegends.orgを閲覧または当サイトの商品を購入することにより、本利用規約およびプライバシーポリシーに同意したものとみなされます。"
+          ]
+        },
+        {
+          "heading": "ご購入内容について",
+          "paragraphs": [
+            "当店ではApexのメニューおよびSpooferを販売しています。メニューは日極または月極です。Spooferは日極または月極です。各商品は個別のライセンスとなります。",
+            "商品ページの機能リストは、購入時点の内容を反映しています。ゲームまたはEasy Anti-Cheatのアップデートに伴い、モジュールが変更される場合があります。メニューのキーにはSpooferは含まれていません。"
+          ]
+        },
+        {
+          "heading": "決済と納品",
+          "paragraphs": [
+            "お支払いおよびライセンスの納品は外部の決済ページで行われます。cheatsapexlegends.orgではカード情報の処理や保存は行いません。",
+            "購入後、注文時のポータルリンクを使用して、Apexを起動する前に現在のビルドをダウンロードしてください。Windows Defender、セキュリティ、HVCI、および仮想化を有効にしたままにしてください。"
+          ]
+        },
+        {
+          "heading": "ライセンスの利用",
+          "paragraphs": [
+            "ライセンスは個人利用を目的としています。ファイル、ポータルへのログイン情報、またはキーを共有しないでください。ハードウェアIDのロックには、別途Spooferの購入が必要です。"
+          ]
+        },
+        {
+          "heading": "返金とご購入について",
+          "paragraphs": [
+            "すべての販売はチェックアウト時に完了します。お客様都合による返品、アカウントのBAN、ランクペナルティ、セットアップ注意事項の無視、またはサイトが古い状態でのロードに起因する問題に対する返金はいたしかねます。",
+            "対応環境（Windows 10または11でSecure Boot、HVCI、仮想化、Core Isolationが有効、かつ最新のポータルローダーを使用）において商品が動作しない場合は、注文時のメールアドレス、Windowsバージョン、および正確なエラーメッセージを添えてサポートまでご連絡ください。",
+            "当方側の不具合を確認した場合、修正、代替アクセスの提供、または部分的な返金を行う場合があります。すべてのリクエストに対して承認が保証されるわけではありません。"
+          ]
+        },
+        {
+          "heading": "可用性とリスク",
+          "paragraphs": [
+            "Apex Legends用のサードパーティ製ツールは、ゲームやEasy Anti-Cheatのアップデート時に動作しなくなることがあります。アカウントへの処分の可能性を含む、すべてのリスクをお客様ご自身で負担するものとします。",
+            "セッションごとにホームページのステータスバナーをご確認ください。パッチ後にモジュールがオフラインまたは調整中の間は、メインアカウントでマッチに参加しないでください。"
+          ]
+        },
+        {
+          "heading": "規約の変更",
+          "paragraphs": [
+            "当社は本規約を改訂することがあります。「最終更新日」は変更内容を反映しています。アップデート後も継続して利用される場合は、新しい規約に同意したものとみなされます。"
+          ]
+        },
+        {
+          "heading": "サポート",
+          "paragraphs": [
+            "規約、請求、または技術的なヘルプについては、サポートページをご利用ください。サイトデータの取り扱いについてはプライバシーポリシーをご確認ください。"
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "Apex cheats サポート",
+      "description": "Loader、HWID spoofer、およびcheatsapexlegends.orgの決済に関するヘルプ。"
+    }
+  },
+  "productCatalog": {
+    "searchHeading": "製品とプランを見る",
+    "utilityCategory": "ユーティリティ",
+    "buyLoader": "loaderを購入",
+    "buyHwidSpoofer": "HWID spooferを購入"
+  },
+  "utilitiesPage": {
+    "title": "HWIDユーティリティ",
+    "subtitle": "HWID spooferは、1台のPC上でハードウェアフラグが新規アカウントをブロックしている場合に単体で動作するチェックアウト製品です。",
+    "breadcrumb": "HWIDユーティリティ",
+    "tableAria": "ユーティリティの比較",
+    "columnUtility": "ユーティリティ",
+    "columnBestFor": "最適な用途",
+    "columnProductPage": "製品ページ",
+    "includesLabel": "内容物：",
+    "backToProducts": "製品一覧に戻る",
+    "viewCategory": "{category}を表示",
+    "viewDetailsFallback": "詳細",
+    "schemaName": "HWIDユーティリティ",
+    "useCases": {
+      "hwid-spoofer": "新しいApexアカウントを作成する前に、新しいPCやBAN後のハードウェアフラグに対してPCのフィンガープリントを変更します。"
+    }
+  },
+  "sectionSearch": {
+    "blogHeading": "トピック別にガイドを絞り込む",
+    "supportHeading": "ヘルプのトピックを見る"
+  },
+  "ui": {
+    "skipLink": "メインコンテンツへスキップ",
+    "browseCheats": "今すぐ試す",
+    "browseCheatsMobile": "チェックアウトを開始",
+    "homeAria": "Apex cheats ホーム",
+    "checkoutAria": "チェックアウトを開始",
+    "discordAria": "Apex cheats を購入",
+    "menuOpen": "メニューを開く",
+    "menuClose": "メニューを閉じる",
+    "themeLight": "ライトモードに切り替え",
+    "themeDark": "ダークモードに切り替え",
+    "searchPlaceholder": "製品、ガイド、よくある質問をsearch…",
+    "searchEmpty": "入力してサイトをsearchします。",
+    "searchNoResults": "結果がありません。別のキーワードをお試しください。",
+    "searchCloseAria": "searchを閉じる",
+    "searchTitle": "search",
+    "searchOpenAria": "サイトをsearch",
+    "contactSupport": "サポートに連絡",
+    "searchResultsAria": "search結果",
+    "searchHintNavigate": "移動",
+    "searchHintOpen": "開く",
+    "searchHintClose": "閉じる",
+    "searchKeyboardEnter": "Enter",
+    "searchKeyboardEsc": "Esc",
+    "primaryNavAria": "メイン",
+    "mobileNavAria": "モバイル",
+    "shareNavAria": "このページを共有",
+    "shareOnX": "Xで共有",
+    "shareOnFacebook": "Facebookで共有",
+    "shareOnReddit": "Redditで共有",
+    "prevImage": "前の画像",
+    "nextImage": "次の画像",
+    "heroSlidesAria": "ヒーローースライド",
+    "slideLabel": "スライド {n}",
+    "prevScreenshot": "前のスクリーンショット",
+    "nextScreenshot": "次のスクリーンショット",
+    "loading": "読み込み中"
+  },
+  "language": {
+    "label": "言語",
+    "selectAria": "サイトの言語を選択"
+  },
+  "exploreSection": {
+    "eyebrow": "探索",
+    "title": "サイト内のすべてへ、ワンクリックで",
+    "titleAccent": "アクセス",
+    "subtitle": "メニューを探し回ることなく、プロダクト、パッチノート、ガイド、ヘルプに直接ジャンプできます。",
+    "badgeProduct": "プロダクト",
+    "badgeActive": "アクティブ",
+    "cards": {
+      "cheats": {
+        "title": "Apex hack",
+        "desc": "12のモジュール（Player ESP、アドバンスド Aimbot、ルート ESP、ストeaムプルーフなど）が1つのWindowsライセンスに。"
+      },
+      "spoofer": {
+        "title": "HWID Spoofer",
+        "desc": "マシンがフラグ判定を受けた後のハードウェアプロファイルローテーション。"
+      },
+      "plans": {
+        "title": "プラン",
+        "desc": "メニュー: $35 または $150 lifetime。HWID spoofer: $50 for 31 days または $150 lifetime（別々のキー）。"
+      },
+      "features": {
+        "title": "機ea",
+        "desc": "loaderの機eaリストにある12のモジュール。"
+      },
+      "status": {
+        "title": "ステータス",
+        "desc": "起動前の緑または赤の表示、およびJavelinのアップデートリマインダー。"
+      },
+      "faq": {
+        "title": "よくある質問",
+        "desc": "プラン、セットアップ、Javelinのリスク、プロダクトについて。"
+      },
+      "support": {
+        "title": "サポート",
+        "desc": "Loader、チェックアウト、ポータルのヘルプ。"
+      },
+      "blog": {
+        "title": "ブログ",
+        "desc": "エイム、ESP、パッチ日に関するガイド。"
+      },
+      "mainGuide": {
+        "title": "Apex hacksガイド",
+        "desc": "Loader、オーバーレイ、config、そしてJavelin——マッチに参加する前に確認すべきチェインの仕組み。"
+      },
+      "forum": {
+        "title": "フォーラム",
+        "desc": "開発者からの返信マーク付きのスeaド。"
+      }
+    }
+  },
+  "pricing": {
+    "checkout": "お支払い",
+    "purchaseOption": "購入オプション",
+    "selectSubscription": "サブスクリプションを選択",
+    "bestValue": "一番お得",
+    "savePrefix": "割引",
+    "total": "合計",
+    "buyNow": "今すぐ購入",
+    "oneMonth": "31 days",
+    "threeMonths": "31 days",
+    "lifetime": "Lifetime",
+    "mostPopular": "人気No.1",
+    "plusMore": "他 +N 件",
+    "monthlySuffix": "",
+    "threeMonthSuffix": " / 3ヶ月",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 days間のアクセス権 · チェックアウト時に更新",
+    "threeMonthPlanNote": "31 days間のアクセス権",
+    "lifetimePlanNote": "一回払い · 自動更新なし",
+    "plansSameFeaturesNote": "どのプランでも機能は同じです。異なるのは利用期間のみとなります。",
+    "selectPlanAria": "プランの期間を選択"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "ページが見つかりません",
+    "description": "お探しのURLは存在しないか、移動した可能性があります。ホームページに戻るか、製品一覧をご確認ください。",
+    "metaDescription": "cheatsapexlegends.orgでお探しのページが見つかりませんでした。",
+    "metaTitleSuffix": "ページが見つかりません",
+    "backHome": "ホームに戻る",
+    "viewProducts": "製品を見る",
+    "openForum": "フォーラムを開く"
+  },
+  "status": {
+    "eyebrow": "パッチノート",
+    "title": "ロード前のステータス確認",
+    "subtitle": "緑色は現在のファイルがロード可能であることを示します。赤色は待機を意味します。",
+    "pageDesc": "シーズン31が開始され、EA Javelin Anticheatは2026年9月29日のPCにEasy Anti-Cheatに置き換わりました。クライアント、ランクマッチ、またはJavelinのアップデート後は、起動前にこのページを再確認してください。緑色は現在のファイルがリストされていることを示し、赤色は待機を意味します。これらのノートはハードウェアIDBANの確定情報ではなく、ファイルが簡単に回避できることを主張するものではありません。ほとんどの場合、ハードウェアIDBANはありません。",
+    "breadcrumb": "ステータス",
+    "aceReminderLabel": "Javelin リマインダー",
+    "aceReminder": "シーズン31またはJavelinのアップデート後は、cheatsapexlegends.orgを再確認してください。Cipherパッチ前のノートは現在のビルドのものではありません。",
+    "recentTitle": "最近のアップデート",
+    "activeLinePrefix": "最終確認",
+    "activeLineActive": "稼働中",
+    "activeLineUpdated": "更新日時: {date}",
+    "storeLineup": "ストアラインナップ",
+    "latestLabel": "最新",
+    "updates": [
+      {
+        "id": "ランク暗号",
+        "title": "Cipherパッチ後のランクマッチのペナルティ強化",
+        "icon": "アラート",
+        "when": "2026年11月4日",
+        "summary": "Season 31のサイファーパッチの後、Respawnは906のアカウントを最大365日間停止しました（end）。この事例は、ランクマッチのエントリーコストをスキップするマッチメイキングの不具合利用に関するものでした。その波及によるものはアカウントの停止であり、IDの永久BANが確定したわけではありません。ほとんどの場合、IDのBANはありません。"
+      },
+      {
+        "id": "season-31",
+        "title": "Season 31 (ライブサーバー)",
+        "icon": "マップハック",
+        "when": "2026年11月3日",
+        "summary": "Season 31では、ストロングホールド（部隊が制圧できる戦利品バンカー）、ヘビー弾薬を使用するアキムボ・ウィングマン、全方位のドローンスキャンができるクリプトの改修、ダイアモンド帯以上での試合前のレジェンドBANが追加されました。このようなクライアントの変更があると、古いバージョンのパッチノートは役に立たなくなります。読み込む前に、このページを再度ご確認ください。"
+      },
+      {
+        "id": "javelin-引き渡し",
+        "title": "PC アンチチeaトがEA Javelinに移動しました",
+        "icon": "シールド",
+        "when": "2026年9月29日",
+        "summary": "Respawn は PC に Easy Anti-Cheat を EA Javelin Anticheat に置き換えました。EA はこれをカーネルレベルのチeaトやその他のサードパーティ製ソフトウェアを対象としたものと説明しており、99% を超える精度を挙げています。その数値は彼らの主張です。これは確認された ID バンではなく、ファイルが ea 簡単にかわすという主張でもありません。ほとんどの場合、ID バンはありません。ここでの緑色のラベルは、依然として現在のファイル チェックにすぎません。"
+      },
+      {
+        "id": "アダプターマクロ禁止",
+        "title": "アダプターおよび反動スクリプトは禁止されています",
+        "icon": "ザップ",
+        "when": "2026年3月4日 – 7月9日",
+        "summary": "外部入力アダプター (Cronus, XIM, Titan, Strikepack) および反動軽減スクリプト (ジッターマクロやRCフィルター) は、PCおよびコンソールにおけるパブリッシャーの規約に違反しています。それらのツールに関する報告は、不正行為のフラグとなります。それらは確認されたIDバンではありません。ほとんどの場合、IDバンはありません。"
+      },
+      {
+        "id": "windows-ベースライン",
+        "title": "Windows セキュリティベースライン",
+        "icon": "設定",
+        "when": "2026",
+        "summary": "サポートされているビルドでは、HVCI、core isolation、TPM、secure bootを有効にしたままにします。loaderのためにこれらをオフにすることは、REDステータスラベルの修正ではなく、一般的なサポート障害です。"
+      },
+      {
+        "id": "ステータスラベル",
+        "title": "ステータスラベル",
+        "icon": "シールド",
+        "when": "2026年11月8日",
+        "summary": "GREEN means このノートにはロードする現在のファイルがリストされていることを示します。RED means 待機。起動する前に、Apex LegendsまたはJavelinのアップデートの後にこのページをReadしてください。ラベルは未検出の主張ではありません。"
+      },
+      {
+        "id": "メニューカバー",
+        "title": "メニュー内容",
+        "icon": "マップハック",
+        "when": "2026年11月8日",
+        "summary": "公開されているメニューには、Player ESP、アドバンスド Aimbot、Weapon ESP、Health Bar、ディスタンス ESP、ボックス ESP、Skeleton ESP、ルート ESP、No Recoil、EA Javelin Bypass、ストeamプルーフ、および24/7サポートがリストされています。バイパスの行はモジュール名であり、easilyバイパスするという主張ではなく、確認済みのIDバンでもありません。ほとんどの場合、IDバンはありません。"
+      },
+      {
+        "id": "計画変更なし",
+        "title": "メニューの予定",
+        "icon": "タグ",
+        "when": "2026年11月8日",
+        "summary": "31日間およびlifetimeのキーは同じモジュールリストのロックを解除します。メニューのLifetimeにはHWID spooferは含まれていません。"
+      }
+    ]
+  },
+  "forum": {
+    "eyebrow": "コミュニティ",
+    "title": "フォーラム：セットアップ、リスク、プラン",
+    "subtitle": "サードパーティのリスク、Javelinパッチノート、スクワッドオーバーレイ、およびHWID spooferに関するスレッド。開発者からの返信には印が付いています。",
+    "breadcrumb": "フォーラム",
+    "postsAria": "コミュニティの投稿",
+    "sortAria": "投稿の並び替え",
+    "searchPlaceholder": "ディスカッションを検索",
+    "searchAria": "ディスカッションを検索",
+    "voteAria": "ディスカッションの投票",
+    "fromGuide": "ガイドより：",
+    "comments": "コメント",
+    "readDiscussion": "ディスカッションを読む",
+    "readGuide": "ガイドを読む",
+    "basedOn": "ベース：",
+    "paginationAria": "ディスカッションのページ",
+    "previousPage": "前へ",
+    "nextPage": "次へ",
+    "exploreGuides": "ガイドを見る",
+    "sortPopular": "人気",
+    "sortLatest": "最新",
+    "sortTop": "最も議論された",
+    "filterAria": "トピックでディスカッションを絞り込み",
+    "allTopics": "すべてのトピック",
+    "discussionOne": "ディスカッション",
+    "discussionMany": "ディスカッション",
+    "emptyFilter": "一致するディスカッションがありません。別の検索ワードやトピックをお試しください。",
+    "previous": "前へ",
+    "next": "次へ",
+    "sidebarAboutTitle": "フォーラム",
+    "sidebarAboutCopy": "サードパーティのリスク、Javelinパッチノート、モジュールのトグル、およびHWID spooferに関するスレッド。開発者からの返信には印が付いています。",
+    "sidebarTopics": "トピック",
+    "sidebarExploreGuides": "すべてのガイドを見る",
+    "sidebarCommunities": "コミュニティ",
+    "sidebarBrowseQa": "関連スレッドを見る",
+    "sidebarBrowseAll": "すべてのコミュニティを見る",
+    "sidebarGuidelines": "コミュニティガイドライン",
+    "guideline1": "友好的で建設的に保つ",
+    "guideline2": "トピックを維持し、コンテキストを追加する",
+    "guideline3": "ネタバレや機密コンテンツにマークを付ける",
+    "sidebarReadGuidelines": "ガイドライン全文を読む",
+    "sidebarFootAbout": "概要 · ガイドライン · Privacy · 利用規約",
+    "upvoteAria": "このディスカッションに投票する",
+    "downvoteUnavailable": "低評価は利用できません",
+    "showingRange": "{total} 件中 {from}～{to} 件を表示",
+    "zeroDiscussions": "0件のディスカッション",
+    "developerFlair": "開発者",
+    "points": "ポイント",
+    "previewDiscussion": "ディスカッションをプレビュー",
+    "postingUnavailable": "ここでは投稿と投票を利用できません",
+    "commentsTitle": "コメント",
+    "commentsSubtitle": "開発者の返信にはマークが付いています",
+    "detailInTopic": "このトピック内",
+    "detailBrowse": "ディスカッションを閲覧",
+    "detailMoreTitle": "その他のディスカッション",
+    "detailViewAll": "すべてのディスカッションを表示",
+    "colThread": "Thread",
+    "colReplies": "返信",
+    "replyOne": "返信",
+    "colVotes": "投票",
+    "colLastReply": "最後の返信",
+    "closedThread": "終了済み",
+    "noRepliesYet": "まだ返信はありません 👀"
+  },
+  "readingTools": {
+    "copyLink": "リンクをコピー",
+    "backToTop": "トップへ戻る",
+    "copied": "コピーしました"
+  },
+  "blogArticle": {
+    "viewProducts": "製品を見る",
+    "moreArticles": "その他の記事",
+    "imagePlaceholder": "画像プレースホルダー",
+    "breadcrumbBlog": "ブログ"
+  },
+  "breadcrumbs": {
+    "home": "ホーム",
+    "products": "製品",
+    "blog": "ブログ",
+    "forum": "フォーラム",
+    "faq": "FAQ",
+    "status": "ステータス"
+  },
+  "faqPage": {
+    "eyebrow": "ヘルプセンター",
+    "title": "プラン、Javelin、セットアップに関するFAQ",
+    "subtitle": "プラン、オーバーレイやターゲティングのオプション、HWID spoofer、Javelinアップデート後の確認事項について。",
+    "schemaName": "FAQ — プラン、製品、セットアップ",
+    "schemaDescription": "メニュー、HWID spoofer、Javelinのリスク、cheatsapexlegends.orgでの決済に関する回答。"
+  },
+  "siteFaqSection": {
+    "allTopicsEyebrow": "すべてのトピック",
+    "allTopicsTitle": "カテゴリから探す",
+    "allTopicsSubtitle": "プラン、ビジュアル、loader、spoofer、セットアップについて。",
+    "contextualEyebrow": "FAQ",
+    "contextualTitle": "このページに関する質問",
+    "contextualSubtitle": "お読みの内容に関する回答です。すべてのトピックはFAQページをご覧ください。"
+  },
+  "catalog": {
+    "featuresPageEyebrow": "機能",
+    "featuresPageTitle": "Apex Legends向けのApex hack機能",
+    "featuresPageDesc": "Windows PCクライアント用の1つのライセンスに12個のモジュールを搭載。メニュー内すべての項目に関する名称と簡単な説明です。",
+    "shopDeckTitle": "Apex Legends向けのApex hack機能",
+    "shopDeckDesc": "要件バッジと12個のモジュール。詳細な説明については機能リストをご確認ください。",
+    "shopViewAllFeatures": "すべての機能を見る",
+    "viewDetails": "詳細を見る",
+    "buyNow": "今すぐ購入",
+    "mostPopular": "最も人気",
+    "popular": "人気",
+    "plusMore": "他 +{count} 件",
+    "oneMonth": "31 days",
+    "threeMonths": "31 days",
+    "lifetime": "Lifetime",
+    "monthlySuffix": "",
+    "threeMonthSuffix": " / 3ヶ月",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 daysのアクセス権・チェックアウト時に更新",
+    "threeMonthPlanNote": "31 daysのアクセス権",
+    "lifetimePlanNote": "一括払い・自動更新なし",
+    "plansSameFeaturesNote": "どのプランでも機能は共通で、アクセス期間のみ異なります。",
+    "selectPlanAria": "プラン期間を選択",
+    "utilityLabel": "ユーティリティ",
+    "experienceEyebrow": "使用感",
+    "inTheClient": "クライアント内・購入後",
+    "experienceSubtitle": "{name}の上のスクリーンショットをご確認ください。以下は各eacレイヤーの意味と、購入後のアクセス手順の解説です。",
+    "utilityExperienceSubtitle": "{name}の上のスクリーンショットをご確認ください。プレビューでは、ハードウェアワークフローの一部と購入後のアクセス手順について説明しています。",
+    "inGameLayers": "ゲーム内レイヤー",
+    "utilityPreviewLayers": "製品プレビュー",
+    "layerLabel": "レイヤー {label}",
+    "previewLabel": "プレビュー",
+    "accessLabel": "アクセス権"
+  },
+  "productUi": {
+    "detailsAria": "製品詳細",
+    "overview": "概要",
+    "systemRequirements": "システム要件",
+    "goodToKnow": "注意事項",
+    "limitations": "重要な制限事項",
+    "completeFeatureList": "すべてのfeatureリスト",
+    "includedCapabilities": "含まれる機能",
+    "totalFeatures": "合計 {count} 個",
+    "popularBadge": "人気",
+    "limitedBadge": "限定",
+    "gameBadge": "Apex Legends",
+    "platformBadge": "Windows",
+    "systemReqPanel": {
+      "title": "システム要件",
+      "security": [
+        "HVCI 有効",
+        "CORE ISOLATION 有効",
+        "TPM 有効",
+        "SECURE BOOT 有効"
+      ],
+      "operatingSystemLabel": "オペレーティングシステム",
+      "operatingSystemValue": "Windows 10 および 11",
+      "specs": [
+        {
+          "label": "クライアント",
+          "value": "最新の Apex Legends PC クライアント"
+        }
+      ],
+      "cloudDmaTitle": "ステータスラベル",
+      "cloudDmaDesc": "緑はロードするファイルが記載されていることを意味します。赤は待機を意味します。Javelin アップデート後はステータスページをご確認ください。",
+      "cloudDmaNote": ""
+    }
+  },
+  "comparePlans": {
+    "eyebrow": "比較",
+    "title": "すべてのプランを比較",
+    "subtitle": "each ティアに含まれる内容の並べての比較。",
+    "tableAria": "すべてのプランを比較",
+    "featureColumn": "Feature",
+    "included": "含まれています",
+    "notIncluded": "含まれていません"
+  },
+  "whyCompare": {
+    "tableAria": "このストアと一般的なプロバイダーの比較",
+    "featureColumn": "Feature",
+    "metricsAria": "プラットフォームの指標",
+    "statusDeliveryAria": "稼働状況と配信"
+  },
+  "searchResultTypes": {
+    "product": "プロダクト",
+    "blog": "ブログ",
+    "forum": "フォーラム",
+    "faq": "よくある質問",
+    "status": "ステータス",
+    "support": "サポート",
+    "page": "ページ"
+  },
+  "blogSidebar": {
+    "ariaLabel": "記事サイドバー",
+    "inThisArticle": "この記事の内容",
+    "relatedGuides": "関連ガイド",
+    "ourProducts": "私たちのプロダクト",
+    "productCheats": "メニュー",
+    "allProducts": "すべてのプロダクト",
+    "hwidSpoofer": "HWID Spoofer",
+    "tocAria": "目次",
+    "tocFallbackLabel": "記事の先頭",
+    "quickFactsTitle": "クイックファクト",
+    "quickFactsAntiCheat": "EA Javelin Anticheat",
+    "quickFactsPlatform": "Windows PC",
+    "quickFactsPlans": "メニュー $35 / $150 · Spoofer $50 / $150",
+    "quickFactsSupport": "24/7 Discordサポート",
+    "quickFactsCheckStatus": "ステータスを確認",
+    "quickFactsViewProduct": "Apex hackを表示",
+    "utilityGuides": "HWID spooferガイド",
+    "moreGuides": "その他のガイド"
+  }
+}

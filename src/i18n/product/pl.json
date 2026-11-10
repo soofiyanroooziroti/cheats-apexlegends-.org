@@ -1,0 +1,181 @@
+{
+  "steps": [
+    {
+      "title": "Sprawdź status",
+      "desc": "Sprawdź stronę statusu po aktualizacji Apex Legends lub Javelin przed zakupem. KOLOR ZIELONY oznacza, że notatka wskazuje plik do załadowania. KOLOR CZERWONY oznacza, że należy zaczekać."
+    },
+    {
+      "title": "Wybierz plan",
+      "desc": "$35 for 31 days lub $150 lifetime. Wariant HWID spoofer posiada własną cenę."
+    },
+    {
+      "title": "Bezpieczna płatność",
+      "desc": "Sfinalizuj zakup za pomocą karty produktu. Twoja licencja zostanie odblokowana w portalu z natychmiastową dostawą."
+    },
+    {
+      "title": "Zainstaluj i zweryfikuj",
+      "desc": "Postępuj zgodnie z instrukcją konfiguracji, wgraj zachowawczy preset i przetestuj go w mniej ryzykownej kolejce, zanim użyjesz swojego głównego profilu."
+    }
+  ],
+  "howToGet": "Jak zdobyć {name}",
+  "cheats": {
+    "groupNames": [
+      "Opcje Aimbot",
+      "Opcje wizualne gracza",
+      "Opcje wizualne świata",
+      "Opcje różne"
+    ],
+    "descs": [
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Postęp rozbrajania i odczyty czasu, gdy menu je udostępnia.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Ukrywa umiejętności i pułapki ESP podczas przytrzymania.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji.",
+      "Wymienione w menu loader dla obsługiwanych kompilacji."
+    ],
+    "slides": [
+      {
+        "alt": "Zrzut ekranu menu Player ESP",
+        "caption": "Opcje wizualne gracza",
+        "captionDesc": "Zdrowie, tarcza, legend, ranga, box, skeleton i kontrola dystansu."
+      },
+      {
+        "alt": "Zrzut ekranu menu wizualnego świata",
+        "caption": "Opcje wizualne świata",
+        "captionDesc": "Umiejętności, pułapki, timery spike'a oraz dostosowywanie dla każdego agenta."
+      },
+      {
+        "alt": "Zrzut ekranu menu Aimbot",
+        "caption": "Opcje Aimbot",
+        "captionDesc": "FOV, smooth, przyciąganie, kości, filtr i nakładki rysowania."
+      },
+      {
+        "alt": "Zrzut ekranu menu opcji różnych i config",
+        "caption": "Opcje różne",
+        "captionDesc": "Skrót klawiszowy trybu walki, rozmiar czcionki oraz tworzenie lub wczytywanie config."
+      }
+    ],
+    "overview": {
+      "title": "Menu Windows dla Apex Legends",
+      "paragraphs": [
+        "Jedna licencja obejmuje opcje Aimbot, opcje wizualne gracza, opcje wizualne świata oraz opcje różne – to samo menu w każdym planie.",
+        "Sprawdź stronę statusu przed uruchomieniem. $35 for 31 days lub $150 lifetime."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Zawarte grupy menu"
+      },
+      {
+        "type": "p",
+        "text": "Cztery grupy menu w ramach jednej licencji: opcje Aimbot, opcje wizualne gracza, opcje wizualne świata oraz opcje różne. Otwórz listę funkcji na tej stronie, aby poznać każdą opcję."
+      },
+      {
+        "type": "h2",
+        "text": "Plany"
+      },
+      {
+        "type": "p",
+        "text": "Plan 31-dniowy to $35. Lifetime kosztuje $150 jednorazowo. Około cztery odnowienia 31-dniowe po $35 dają kwotę lifetime."
+      }
+    ],
+    "goodToKnow": "Apex Legends i Javelin aktualizują się często. Przeczytaj stronę statusu przed uruchomieniem. ZIELONY oznacza, że uwaga wymienia ten plik. CZERWONY oznacza, że należy poczekać. Zachowanie nakładki może ulec zmianie po łatce.",
+    "limitations": "Oprogramowanie firm trzecich może naruszać regulamin gry i prowadzić do blokad. Korzystasz z tego oprogramowania na własną odpowiedzialność. Zgodność może ulec zmianie po aktualizacji gry, Javelin lub Windows. Funkcja streamproof nie usuwa tego ryzyka.",
+    "requirements": [
+      "HVCI WŁ. · CORE ISOLATION WŁ. · TPM WŁ. · SECURE BOOT WŁ.",
+      "Windows 10 lub 11 w obsługiwanych wersjach",
+      "Intel Core i5 lub AMD Ryzen 5 lub lepszy",
+      "Stabilny internet · najnowszy klient Apex Legends PC",
+      "Klient: oficjalny klient Apex Legends PC"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer na Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Narzędzia odcisku palca sprzętu przed ponownym uruchomieniem."
+      },
+      {
+        "alt": "Rotacja odcisku palca sprzętu Phoenix Satano HWID spoofer na Windows PC",
+        "caption": "Płyta Phoenix",
+        "captionDesc": "Rotacja dysku, adresu MAC i ID karty graficznej."
+      },
+      {
+        "alt": "Branding Phoenix WH-Satano spoofer na Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Przestrzeń robocza Spoofer używana w każdym sklepie."
+      }
+    ],
+    "overview": {
+      "title": "Przepływ pracy odzyskiwania HWID",
+      "paragraphs": [
+        "HWID Spoofer to oddzielny klucz dla flagi sprzętowej. Rotuje identyfikatory dysku, adresu MAC i karty graficznej na posiadanym przez Ciebie PC. Nie jest wliczony w cenę menu.",
+        "$50 for 31 days lub $150 lifetime. Nie naprawia ograniczenia przypisanego wyłącznie do konta na tej samej maszynie."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Kiedy tego używać"
+      },
+      {
+        "type": "p",
+        "text": "Użyj, gdy nowe konta nie działają na jednym PC, ale działają gdzie indziej – nie dotyczy to banów przypisanych wyłącznie do konta. Po weryfikacji połącz z konserwatywnymi presetami cheatów."
+      },
+      {
+        "type": "h2",
+        "text": "Plany"
+      },
+      {
+        "type": "p",
+        "text": "$50 for 31 days lub $150 lifetime"
+      }
+    ],
+    "goodToKnow": "Narzędzia HWID zmieniają sposób, w jaki wyświetla się odcisk palca Twojego PC. Nie usuwają one kary przypisanej wyłącznie do konta. Przeczytaj uwagi na portalu przed ponownym uruchomieniem Apex Legends.",
+    "limitations": "Spoofing niesie za sobą ryzyko techniczne i może naruszać warunki gry. Wyniki różnią się w zależności od typu bana i konfiguracji sterowników. Używaj tylko na systemach, których jesteś właścicielem.",
+    "requirements": [
+      "Windows 10 lub 11 64-bit z uprawnieniami administratora.",
+      "Utwórz punkt przywracania przed uruchomieniem narzędzi sprzętowych.",
+      "Stabilny internet do aktywacji i kroków weryfikacji."
+    ],
+    "features": [
+      "Sprzętowy spoofer z cleanerem",
+      "Rotacja numeru seryjnego dysku i adresu MAC",
+      "Narzędzia profilu ID karty graficznej",
+      "Skan kompatybilności",
+      "Lista kontrolna weryfikacji",
+      "Przepływ pracy krok po kroku w portalu",
+      "Wsparcie konfiguracji Discord"
+    ]
+  }
+}

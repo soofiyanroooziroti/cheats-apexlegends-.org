@@ -1,0 +1,193 @@
+{
+  "categories": {
+    "General": "General",
+    "Guides & Builds": "Guías y Builds",
+    "Patch Talk": "Charlas de Parches",
+    "Community": "Comunidad"
+  },
+  "posts": {
+    "loader-stuck-after-cipher-patch": {
+      "title": "Loader stuck after the Cipher patch",
+      "excerpt": "Season 31 dropped and the loader just sits there. Did I brick it or is the file old?",
+      "body": [
+        "yo cipher patch hit and my loader just spins. was fine yesterday. i did not touch hvci or secure boot.",
+        "status page still said green from before the patch. am i cooked or do i just wait for a new file? 😭"
+      ],
+      "flair": "Resuelto",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "That green note was for the old client. After Cipher, read status again. If it says wait, do not keep launching. When it lists a new file, grab it from the portal and load that one. Same key. Do not turn security features off to force it.",
+          "replies": [
+            {
+              "author": "WraithMain_jay",
+              "body": "new file was up. launched clean. working 100% in pubs. thanks king"
+            }
+          ]
+        },
+        {
+          "author": "octane_otp",
+          "body": "same. old file was the problem not the key. refreshed portal and it opened.",
+          "replies": []
+        }
+      ]
+    },
+    "refund-if-menu-does-not-launch": {
+      "title": "Refund if the menu does not launch?",
+      "excerpt": "Before I buy: if it does not open on my pc do I get my money back?",
+      "body": [
+        "thinking about the 31 day key. simple question before i pay.",
+        "if the menu does not launch on my pc, is that an auto refund? or do i just lose the money. be real with me."
+      ],
+      "flair": "Preventa",
+      "comments": [
+        {
+          "author": "SupportStaff",
+          "body": "Checkout is final. We do not refund because you changed your mind, got an account penalty, or loaded while status said wait. If it fails on a supported pc (Windows 10 or 11, HVCI, core isolation, TPM, and secure boot left on, current portal file), email support with the order email, Windows version, and the exact loader text. If we confirm the fault is on our side we can fix it, replace access, or refund. That is not a yes for every ticket.",
+          "replies": [
+            {
+              "author": "horizon_tea",
+              "body": "ok that is clear. i will check the terms page before i buy. appreciate the straight answer."
+            }
+          ]
+        },
+        {
+          "author": "pathy_clips",
+          "body": "read terms first fr. the status note matters. do not queue on red.",
+          "replies": []
+        }
+      ]
+    },
+    "boxes-eating-the-screen": {
+      "title": "Cajas eating toda mi pantalla en un PDI",
+      "excerpt": "Activé todos los visuales y ahora no veo la puerta. ¿Qué dejas realmente leave?",
+      "body": [
+        "primera sesión activé box, skeleton, health, distance, weapon, loot. se veía bien 2 segundos luego una pelea en edificio era ilegible.",
+        "¿qué mantienes realmente activado para seguir viendo el modelo? la verdad estoy perdido."
+      ],
+      "flair": "Resuelto",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Bájalo a caja y barra de health para la pelea. Leave las etiquetas de botín apagadas hasta que estés en un contenedor. La distancia es opcional en rotaciones, no dentro del edificio. Guarda eso como un config para no estar haciendo clic en doce interruptores a mitad de ronda.",
+          "replies": [
+            {
+              "author": "bangalore_bench",
+              "body": "caja + health solamente. puedo ver heads otra vez. funcionando 100% 🔥"
+            }
+          ]
+        },
+        {
+          "author": "crypto_drone7",
+          "body": "botín activado durante la caída, apagado cuando hearo una puerta. esa división me ayudó más que otro color.",
+          "replies": []
+        }
+      ]
+    },
+    "new-logins-die-on-one-pc": {
+      "title": "Los nuevos inicios de sesión mueren solo en este PC",
+      "excerpt": "Las cuentas nuevas fallan en mi escritorio y funcionan en una laptop. ¿Es eso un baneo de ID?",
+      "body": [
+        "la cuenta vieja en mi laptop sigue en cola. inicios de sesión nuevos en este escritorio mueren early, a veces antes de una partida real.",
+        "¿es eso un baneo de ID confirmado? ¿compro el spoofer o se supone que el menú arregla el inicio de sesión?"
+      ],
+      "flair": "Pregunta",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "Ese patrón es la máquina, no un correo. No es un baneo de ID confirmado por sí solo. En la mayoría de los casos no hay baneo de ID. El menú no cambia los ID de disco o red. El spoofer es una clave separada para un problema de huella digital en un pc que posees. No deshace una penalización que yaea está en una cuenta, y no es una afirmación de bypass de easy.",
+          "replies": [
+            {
+              "author": "loba_loot",
+              "body": "probé un segundo pc primero como dijiste. la laptop está bien, el escritorio es el extraño. no lo treate como un deshacer mágico. gracias."
+            }
+          ]
+        }
+      ]
+    },
+    "r301-spray-still-climbs": {
+      "title": "El retroceso sigue subiendo en la R-301",
+      "excerpt": "No Recoil está activado pero la última mitad del cargador sigue subiendo. ¿Lo configuré mal?",
+      "body": [
+        "no recoil activado, aún así la r-301 sube después de medio cargador. los primeros tiros se sienten bien luego camina.",
+        "¿se supone que debo disparar en ráfaga o el control deslizante está muy bajo? no intento construir un macro, solo la opción del menú."
+      ],
+      "flair": "Resuelto",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "Dispara un cargador a una pared sin corrección de mouse. Mira la apertura, el medio y la cola. Un control deslizante vertical acorta la subida. No borra una caminata lateral al end, así que dispara en ráfaga antes de la cola si todavía se desliza. Si los primeros tiros caen debajo de la retícula, el control deslizante está muy alto. Esto no es un macro de jitter ni un adaptador.",
+          "replies": [
+            {
+              "author": "gibby_bubble",
+              "body": "Lo bajea un nivel y disparo la cola en ráfaga. Las beams se sienten normales ahora. funcionando 100%."
+            }
+          ]
+        }
+      ]
+    },
+    "vod-showed-the-menu": {
+      "title": "Stream mostró mi menú en el VOD",
+      "excerpt": "Hice directo y el chat vio el menú. El modo oculto para stream estaba activado. ¿Qué configuré mal?",
+      "body": [
+        "modo oculto para stream activado. aun así vi el menú en mi propia grabación. el chat definitivamente lo vio también. qué vergüenza.",
+        "la escena es solo todo el monitor porque eso era más fácilea. ¿es por eso?"
+      ],
+      "flair": "Resuelto",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Sí. La captura de pantalla captura el monitor, por lo que los espectadores ven lo que tú ves. Usa la captura de juego en la ventana del cliente, graba localmente mientras sigues sin conexión y revisa el momento en que abres el menú antes de salir en directo. Esto no cubre que un compaearo de equipo grabe su propia pc.",
+          "replies": [
+            {
+              "author": "pathy_clips",
+              "body": "cambié la fuente. el archivo local está limpioea. funcionando al 100% antes de darle a transmitir la próxima vez."
+            }
+          ]
+        }
+      ]
+    },
+    "loot-text-on-the-first-bin": {
+      "title": "Texto de botín cubriendo el primer contenedor",
+      "excerpt": "Al caer hay una pared de etiquetas. Solo necesito el arma más cercana, no cada accesorio en el mapa.",
+      "body": [
+        "caída caliente y el suelo son solo palabras. no puedo distinguir en qué contenedor está el arma de mi habitación.",
+        "no necesito cada accesorio en el siguiente edificio. ¿cómo usas las etiquetas de botín en el primer minuto?"
+      ],
+      "flair": "Resuelto",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Tres paradas. El arma más cercanaea que puedas tomar sin cruzar terreno abierto. Luego escudo o curaeas, lo que esté más cercaea. Luego la salida lejos de los otros globos. Cualquier cosa que siga brillando después de eso se queda en el suelo. Una etiqueta no es una orden para regresar corriendo.",
+          "replies": [
+            {
+              "author": "octane_otp",
+              "body": "hice lo de las 3 paradas. de verdad salí con un arma. funcionando al 100% 💀"
+            }
+          ]
+        }
+      ]
+    },
+    "does-lifetime-include-spoofer": {
+      "title": "¿lifetime incluye el spoofer?",
+      "excerpt": "Antes de pagar una vez: ¿la herramienta HWID está dentro del menú de lifetime o es otra compra?",
+      "body": [
+        "a punto de adquirir lifetime en el menú. $150. ¿eso también desbloquea el spoofer o es otra compra?",
+        "no quiero enterarme después de pagar jajaja."
+      ],
+      "flair": "Precompra",
+      "comments": [
+        {
+          "author": "SupportStaff",
+          "body": "Lifetime y la clave de 31 días desbloquean los mismos módulos del menú. Lifetime no incluye el spoofer. Esa es una compra independiente. Compra el menú para visuales y aim. Compra el spoofer solo si el problema es el pc, no la cuenta.",
+          "replies": [
+            {
+              "author": "crypto_drone7",
+              "body": "entendido. menú solo para mí entonces. claroea."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

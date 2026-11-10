@@ -1,0 +1,64 @@
+---
+import { getLocaleFromAstro, getTranslations } from '../i18n';
+const locale = getLocaleFromAstro(Astro);
+const t = getTranslations(locale);
+import '../styles/product-cheat-page.css';
+import { getProductPages } from '../data/products';
+import { cheatTierIcons, productCategoryIcons } from '../data/sectionIcons';
+import SectionHeader from './SectionHeader.astro';
+import CatalogCard from './CatalogCard.astro';
+import { productPath } from '../utils/path';
+
+const productPages = getProductPages(locale);
+const s = t.products;
+
+/** Same visible feature rows on both homepage product cards. */
+const PRODUCTS_SECTION_FEATURE_COUNT = 3;
+
+function cardIcon(product: (typeof productPages)[number]) {
+  if (product.kind === 'tier') {
+    return cheatTierIcons[product.name] ?? 'crosshair';
+  }
+  return productCategoryIcons[product.category ?? ''] ?? 'package';
+}
+
+function cardLabel(product: (typeof productPages)[number]) {
+  if (product.kind === 'tier') {
+    return product.tier ?? product.name;
+  }
+  return product.category ?? 'Utility';
+}
+
+function teaserMore(product: (typeof productPages)[number]) {
+  return Math.max(0, product.features.length - PRODUCTS_SECTION_FEATURE_COUNT);
+}
+---
+
+<section id="products" class="py-16 md:py-24" aria-labelledby="products-title">
+  <div class="mx-auto max-w-6xl px-5">
+    <SectionHeader eyebrow={s.eyebrow} title={s.title} desc={s.subtitle} titleId="products-title" />
+
+  <div class="products-section__grid">
+      {
+        productPages.map((product) => (
+          <CatalogCard
+            class="catalog-card--products-section"
+            label={cardLabel(product)}
+            title={product.title}
+            href={productPath(product.slug, locale)}
+            buyUrl={product.buyUrl}
+            productSlug={product.slug}
+            features={product.features}
+            more={teaserMore(product)}
+            icon={cardIcon(product)}
+            badge={product.badge}
+            variant={product.variant}
+            featured={product.slug === 'loader'}
+            buyLabel={product.slug === 'hwid-spoofer' ? 'Buy the HWID spoofer' : 'Buy the loader'}
+            maxFeatures={PRODUCTS_SECTION_FEATURE_COUNT}
+          />
+        ))
+      }
+    </div>
+  </div>
+</section>

@@ -1,0 +1,181 @@
+{
+  "steps": [
+    {
+      "title": "Verificar estado",
+      "desc": "Lee la página de estado después de una actualización de Apex Legends o Javelin antes de comprar. VERDE significa que la nota indica el archivo a cargar. ROJO significa esperar."
+    },
+    {
+      "title": "Elegir un plan",
+      "desc": "$35 for 31 days o $150 lifetime. El HWID spoofer utiliza su propio precio."
+    },
+    {
+      "title": "Pago seguro",
+      "desc": "Completa el pago desde la tarjeta del producto. Tu licencia se desbloquea en el portal con entrega instantánea."
+    },
+    {
+      "title": "Instalar y verificar",
+      "desc": "Sigue la guía de configuración, carga un ajuste preestablecido conservador y prueba en una lista de partidas de menor riesgo antes de usar tu perfil principal."
+    }
+  ],
+  "howToGet": "Cómo conseguir {name}",
+  "cheats": {
+    "groupNames": [
+      "Opciones de Aimbot",
+      "Opciones visuales de jugadores",
+      "Opciones visuales del mundo",
+      "Opciones varias"
+    ],
+    "descs": [
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Progreso de desactivación y lecturas de tiempo cuando el menú los expone.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Oculta la habilidad y la trampa ESP mientras se mantiene presionada.",
+      "Se muestra en el menú de loader para las versiones compatibles.",
+      "Se muestra en el menú de loader para las versiones compatibles."
+    ],
+    "slides": [
+      {
+        "alt": "Captura de pantalla del menú Player ESP",
+        "caption": "Opciones visuales de jugadores",
+        "captionDesc": "Controles de vida, escudo, agente, rango, box, skeleton y distancia."
+      },
+      {
+        "alt": "Captura de pantalla del menú visual del mundo",
+        "caption": "Opciones visuales del mundo",
+        "captionDesc": "Habilidades, trampas, temporizadores de la y personalización por agente."
+      },
+      {
+        "alt": "Captura de pantalla del menú Aimbot",
+        "caption": "Opciones de Aimbot",
+        "captionDesc": "FOV, nivel de smooth, adherencia, hueso, filtro y superposiciones de dibujo."
+      },
+      {
+        "alt": "Captura de pantalla del menú Varios y config",
+        "caption": "Opciones varias",
+        "captionDesc": "Tecla de acceso rápido para el modo de combate, tamaño de fuente y creación o carga de config."
+      }
+    ],
+    "overview": {
+      "title": "Un menú de Windows para Apex Legends",
+      "paragraphs": [
+        "Una sola licencia incluye Opciones de Aimbot, Opciones visuales de jugadores, Opciones visuales del mundo y Opciones varias; el mismo menú en todos los planes.",
+        "Consulta la página de estado antes de cargar. $35 for 31 days o $150 lifetime."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Grupos de menús incluidos"
+      },
+      {
+        "type": "p",
+        "text": "Cuatro grupos de menús en una sola licencia: Opciones de Aimbot, Opciones visuales de jugadores, Opciones visuales del mundo y Opciones varias. Abre la lista de características en esta página para ver cada opción."
+      },
+      {
+        "type": "h2",
+        "text": "Planes"
+      },
+      {
+        "type": "p",
+        "text": "El plan de 31 días es $35. Lifetime cuesta $150 una vez. Alrededor de cuatro renovaciones de 31 días a $35 equivalen a lifetime."
+      }
+    ],
+    "goodToKnow": "Apex Legends y Javelin se actualizan con frecuencia. Consulta la página de estado antes de cargar. VERDE significa que la nota incluye este archivo. ROJO significa esperar. El comportamiento de las superposiciones puede cambiar después de un parche.",
+    "limitations": "El software de terceros puede infringir los términos del juego y provocar suspensiones. Utilizas este software bajo tu propio riesgo. La compatibilidad puede cambiar tras una actualización del juego, de Javelin o de Windows. La función Streamproof no elimina ese riesgo.",
+    "requirements": [
+      "HVCI ACTIVADO · CORE ISOLATION ACTIVADO · TPM ACTIVADO · SECURE BOOT ACTIVADO",
+      "Windows 10 o 11 en versiones compatibles",
+      "Intel Core i5 o AMD Ryzen 5 o superior",
+      "Internet estable · cliente de Apex Legends PC más reciente",
+      "Cliente: cliente oficial de Apex Legends PC"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer en Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Herramientas de huella digital de hardware antes de reiniciar."
+      },
+      {
+        "alt": "Rotación de huella digital de hardware Phoenix Satano HWID spoofer en Windows PC",
+        "caption": "Placa Phoenix",
+        "captionDesc": "Rotación de ID de disco, MAC y GPU."
+      },
+      {
+        "alt": "Marca Phoenix WH-Satano spoofer en Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Espacio de trabajo Spoofer utilizado en todas las tiendas."
+      }
+    ],
+    "overview": {
+      "title": "Flujo de recuperación de HWID",
+      "paragraphs": [
+        "HWID Spoofer es una clave separada para un marcador de hardware. Rota los identificadores de disco, MAC y GPU en un PC de tu propiedad. No está incluido con el menú.",
+        "$50 for 31 days o $150 lifetime. No soluciona una restricción exclusiva de cuenta en la misma máquina."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Cuándo usarlo"
+      },
+      {
+        "type": "p",
+        "text": "Úsalo cuando las cuentas nuevas fallen en un PC pero funcionen en otra parte, no para baneos exclusivos de cuenta. Combínalo con configuraciones conservadoras de cheats tras la verificación."
+      },
+      {
+        "type": "h2",
+        "text": "Planes"
+      },
+      {
+        "type": "p",
+        "text": "$50 for 31 days o $150 lifetime"
+      }
+    ],
+    "goodToKnow": "Las herramientas de HWID cambian cómo aparece la huella digital de tu PC. No eliminan una sanción exclusiva de cuenta. Lee las notas del portal antes de volver a iniciar Apex Legends.",
+    "limitations": "El uso de HWID Spoofer conlleva riesgos técnicos y puede violar los términos del juego. Los resultados varían según el tipo de baneo y la configuración del controlador. Úsalo solo en sistemas de tu propiedad.",
+    "requirements": [
+      "Windows 10 u 11 de 64 bits con permisos de administrador.",
+      "Crea un punto de restauración antes de ejecutar herramientas de hardware.",
+      "Internet estable para la activación y los pasos de verificación."
+    ],
+    "features": [
+      "spoofer de hardware con limpiador",
+      "Rotación de número de serie de disco y MAC",
+      "Herramientas de perfil de ID de GPU",
+      "Análisis de compatibilidad",
+      "Lista de verificación",
+      "Flujo paso a paso del portal",
+      "Soporte de configuración de Discord"
+    ]
+  }
+}

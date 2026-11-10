@@ -1,0 +1,181 @@
+{
+  "steps": [
+    {
+      "title": "Kontrola stavu",
+      "desc": "Před nákupem zkontrolujte stránku stavu po aktualizaci Apex Legends nebo Javelin. ZELENÁ znamená, že poznámka uvádí soubor k načtení. ČERVENÁ znamená počkat."
+    },
+    {
+      "title": "Výběr plánu",
+      "desc": "$35 for 31 days nebo $150 lifetime. Položka HWID spoofer využívá vlastní cenu."
+    },
+    {
+      "title": "Zabezpečená platba",
+      "desc": "Dokončete platbu z produktové karty. Vaše licence se odemkne v portálu s okamžitým doručením."
+    },
+    {
+      "title": "Instalace a ověření",
+      "desc": "Postupujte podle průvodce nastavením, načtěte konzervativní předvolbu a otestujte ji v méně rizikovém herním režimu, než použijete svůj hlavní profil."
+    }
+  ],
+  "howToGet": "Jak získat {name}",
+  "cheats": {
+    "groupNames": [
+      "Aimbot Možnosti",
+      "Vizuální možnosti hráčů",
+      "Vizuální možnosti světa",
+      "Různé možnosti"
+    ],
+    "descs": [
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Průběh a časové údaje, když je nabídka zpřístupní.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Skrývá schopnosti a pasti ESP při držení.",
+      "Uvedeno v nabídce loader pro podporované sestavy.",
+      "Uvedeno v nabídce loader pro podporované sestavy."
+    ],
+    "slides": [
+      {
+        "alt": "Snímek obrazovky nabídky Player ESP",
+        "caption": "Vizuální možnosti hráčů",
+        "captionDesc": "Zdraví, štít, legend, hodnost, box, skeleton a ovládání vzdálenosti."
+      },
+      {
+        "alt": "Snímek obrazovky vizuálních možností světa",
+        "caption": "Vizuální možnosti světa",
+        "captionDesc": "Schopnosti, pasti, časovače a přizpůsobení pro každého agenta."
+      },
+      {
+        "alt": "Snímek obrazovky nabídky Aimbot",
+        "caption": "Možnosti Aimbot",
+        "captionDesc": "FOV, smoothost, přilnavost, kost, filtr a vykreslování overlayů."
+      },
+      {
+        "alt": "Snímek obrazovky nabídky Různé a config",
+        "caption": "Různé možnosti",
+        "captionDesc": "Klávesová zkratka bojového režimu, velikost písma a vytvoření nebo načtení config."
+      }
+    ],
+    "overview": {
+      "title": "Nabídka Windows pro Apex Legends",
+      "paragraphs": [
+        "Jedna licence pokrývá možnosti Aimbot, vizuální možnosti hráčů, vizuální možnosti světa a různé možnosti – stejná nabídka u každého plánu.",
+        "Před spuštěním si přečtěte stránku stavu. $35 for 31 days nebo $150 lifetime."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Zahrnuté skupiny v nabídce"
+      },
+      {
+        "type": "p",
+        "text": "Čtyři skupiny v jedné licenci: možnosti Aimbot, vizuální možnosti hráčů, vizuální možnosti světa a různé možnosti. Otevřete seznam funkcí na této stránce pro každý přepínač."
+      },
+      {
+        "type": "h2",
+        "text": "Plány"
+      },
+      {
+        "type": "p",
+        "text": "31denní plán je $35. Lifetime je $150 jednorázově. Asi čtyři 31denní obnovení za $35 se rovnají lifetime."
+      }
+    ],
+    "goodToKnow": "Apex Legends a Javelin se často aktualizují. Před spuštěním si přečtěte stránku stavu. ZELENÁ znamená, že poznámka uvádí tento soubor. ČERVENÁ znamená počkat. Chování overlay se může po záplatě změnit.",
+    "limitations": "Software třetích stran může porušovat podmínky hry a vést k banům. Tento software používáte na vlastní nebezpečí. Kompatibilita se může změnit po aktualizaci hry, Javelin nebo Windows. Streamproof toto riziko neodstraňuje.",
+    "requirements": [
+      "HVCI ZAPNUTÉ · CORE ISOLATION ZAPNUTÉ · TPM ZAPNUTÉ · SECURE BOOT ZAPNUTÉ",
+      "Windows 10 nebo 11 na podporovaných sestavách",
+      "Intel Core i5 nebo AMD Ryzen 5 nebo lepší",
+      "Stabilní internet · nejnovější klient Apex Legends PC",
+      "Klient: oficiální klient Apex Legends PC"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer na Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Nástroje pro otisk hardwaru před opětovným spuštěním."
+      },
+      {
+        "alt": "Phoenix Satano HWID spoofer rotace otisku hardwaru na Windows PC",
+        "caption": "Phoenix board",
+        "captionDesc": "Rotace ID disku, MAC a GPU."
+      },
+      {
+        "alt": "Phoenix WH-Satano spoofer branding na Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Spoofer pracovní prostředí používané v každém obchodě."
+      }
+    ],
+    "overview": {
+      "title": "Postup obnovení HWID",
+      "paragraphs": [
+        "HWID Spoofer je samostatný klíč pro příznak hardwaru. Rotuje identifikátory disku, MAC a GPU na PC, kterou vlastníte. Není součástí menu.",
+        "$50 for 31 days nebo $150 lifetime. Neodstraňuje omezení pouze pro účet na stejném zařízení."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Kdy jej použít"
+      },
+      {
+        "type": "p",
+        "text": "Použijte, když nové účty selhávají na jednom PC, ale fungují jinde – neplatí pro zákazy pouze pro účty. Po ověření spárujte s konzervativními předvolbami."
+      },
+      {
+        "type": "h2",
+        "text": "Plány"
+      },
+      {
+        "type": "p",
+        "text": "$50 for 31 days nebo $150 lifetime"
+      }
+    ],
+    "goodToKnow": "Nástroje HWID mění, jak vypadá otisk vašeho PC. Neodstraňují postihy platné pouze pro účet. Než znovu spustíte Apex Legends, přečtěte si poznámky na portálu.",
+    "limitations": "Používání spooferu obnáší technická rizika a může porušovat podmínky hry. Výsledky se liší podle typu zákazu a nastavení ovladačů. Používejte pouze na systémech, které vlastníte.",
+    "requirements": [
+      "Windows 10 nebo 11 64-bit s oprávněním správce.",
+      "Před spuštěním nástrojů pro hardware vytvořte bod obnovení.",
+      "Stabilní připojení k internetu pro kroky aktivace a ověření."
+    ],
+    "features": [
+      "Hardware spoofer s čističem",
+      "Rotace sériového čísla disku a MAC",
+      "Nástroje profilu ID GPU",
+      "Kontrola kompatibility",
+      "Seznam pro ověření",
+      "Pracovní postup krok za krokem na portálu",
+      "Podpora nastavení Discord"
+    ]
+  }
+}

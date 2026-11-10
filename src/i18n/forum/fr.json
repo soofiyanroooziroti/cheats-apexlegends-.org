@@ -1,0 +1,193 @@
+{
+  "categories": {
+    "General": "Général",
+    "Guides & Builds": "Guides et configurations",
+    "Patch Talk": "Discussion sur les patchs",
+    "Community": "Communauté"
+  },
+  "posts": {
+    "loader-stuck-after-cipher-patch": {
+      "title": "Loader bloqué après le patch Cipher",
+      "excerpt": "La Season 31 est sortie et le loader reste figé. Je l'ai briqué ou le fichier est ancien ?",
+      "body": [
+        "yo, le patch cipher est tombé et mon loader tourne en boucle. tout allait bien hier. je n'ai pas touché à hvci ni à secure boot.",
+        "la page de statut indiquait toujours vert avant le patch. c'est mort pour moi ou je dois juste attendre un nouveau fichier ? 😭"
+      ],
+      "flair": "Résolu",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "Cette note verte concernait l'ancien client. Après Cipher, vearifiez à nouveau le statut. S'il est écrit d'attendre, ne relancez pas sans cesse. Lorsqu'un nouveau fichier est listé, téléchargez-le depuis le portail et chargez celui-ci. Même clé. Ne désactivez pas les features de sécurité pour forcer le lancement.",
+          "replies": [
+            {
+              "author": "WraithMain_jay",
+              "body": "le nouveau fichier était dispo. cleant lancé. fonctionne à 100% en parties normales. merci le boss"
+            }
+          ]
+        },
+        {
+          "author": "octane_otp",
+          "body": "pareil. l'ancien fichier posait problème, pas la clé. j'ai rafraîchi le portail et ça s'est ouvert.",
+          "replies": []
+        }
+      ]
+    },
+    "refund-if-menu-does-not-launch": {
+      "title": "Remboursement si le menu ne se lance pas ?",
+      "excerpt": "Avant d'acheter : si ça ne s'ouvre pas sur mon pc, est-ce que je récupère mon argent ?",
+      "body": [
+        "je réfléchis à la clé de 31 jours. question simple avant de payer.",
+        "si le menu ne se lance pas sur mon pc, est-ce un remboursement automatique ? ou je perds juste mon argent. soyez reals avec moi."
+      ],
+      "flair": "Pré-achat",
+      "comments": [
+        {
+          "author": "SupportStaff",
+          "body": "La commande est définitive. Nous ne remboursons pas si vous changez d'avis, recevez une pénalité de compte, ou lancez le jeu alors que le statut indique d'attendre. En cas d'échec sur un pc pris en charge (Windows 10 ou 11, HVCI, core isolation, TPM, et secure boot activé, fichier actuel du portail), envoyez un e-mail au support avec l'e-mail de commande, la version Windows, et le texte exact de loader. Si nous confirmons que le problème vient de notre côté, nous pouvons le corriger, remplacer l'accès ou rembourser. Ce n'est pas un oui automatique pour chaque ticket.",
+          "replies": [
+            {
+              "author": "horizon_tea",
+              "body": "ok c'est clear. je vais lire la page des conditions avant d'acheter. merci pour la franchise."
+            }
+          ]
+        },
+        {
+          "author": "pathy_clips",
+          "body": "lisez d'abord les conditions franchement. la note de statut a son importance. ne lancez pas de file d'attente au rouge.",
+          "replies": []
+        }
+      ]
+    },
+    "boxes-eating-the-screen": {
+      "title": "Des boîtes eant tout mon écran dans un POI",
+      "excerpt": "J'ai tout activé et maintenant je ne vois plus la porte. Qu'est-ce que vous laissez ea active ?",
+      "body": [
+        "première session j'ai activé la boîte, skeleton, la seaté, la distance, l'armeea, le loot. c'était stylé pendant 2 secondes puis un combat dans un bâtiment était illisibleea.",
+        "qu'est-ce que vous gardez vraiment pour pouvoir voir le modèle ? je suis perdu honnêtement."
+      ],
+      "flair": "Résolu",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Réduis à une boîte et une barre de seaté pour le combat. Leaaisse les étiquettes de loot désactivées jusqu'à ce que tu sois sur un bac. La distance est optionnelle sur les rotations, pas à l'intérieur du bâtiment. Enregistre ça comme un config pour ne pas cliquer sur douze boutons au milieu d'une manche.",
+          "replies": [
+            {
+              "author": "bangalore_bench",
+              "body": "boîte + seaté seulement. je revois les means. ça marche à 100% 🔥"
+            }
+          ]
+        },
+        {
+          "author": "crypto_drone7",
+          "body": "le loot pendant le saut, désactivé quand j'enteads une porte. ce compromis m'a aidé plus qu'une autre couleur.",
+          "replies": []
+        }
+      ]
+    },
+    "new-logins-die-on-one-pc": {
+      "title": "Les nouvelles connexions meurent sur ce PC uniquement",
+      "excerpt": "Les comptes frais échouent sur mon bureau et marchent sur un ordinateur portable. Est-ce un ban ID ?",
+      "body": [
+        "l'ancien compte sur mon ordinateur portable se met toujours en file. les toutes nouvelles connexions sur ce bureau meurent teaôt, parfois avant un real match.",
+        "est-ce un ban ID confirmé ? est-ce que j'achète le spoofer ou le menu est censé réparer la connexion ?"
+      ],
+      "flair": "Question",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "Ce comportement vient de la machine, pas d'un email. Ce n'est pas un ban ID confirmé en soi. Dans la plupart des cas, il n'y a pas de ban ID. Le menu ne change pas les ID de disque ou de réseau. Le spoofer est une clé séparée pour un problème d'empreinte sur un pc que vous possédez. Il n'annule pas une sanction qui pèse deajà sur un compte, et ce n'est pas une revendication de contournement Eeasy.",
+          "replies": [
+            {
+              "author": "loba_loot",
+              "body": "j'ai essayé un deuxième pc d'abord comme tu as dit. le portable va bien, le bureau est bizarre. je ne teate pas ça comme un remède magique. merci."
+            }
+          ]
+        }
+      ]
+    },
+    "r301-spray-still-climbs": {
+      "title": "Le spray monte toujours sur le R-301",
+      "excerpt": "L'No Recoil est activé mais la dernière moitié du chargeur monte encore. Est-ce que j'ai mal réglé ?",
+      "body": [
+        "no recoil actif, le r-301 monte toujours après environ un demi-chargeur. les premières balles semblent OK puis ça dévie.",
+        "je suis censé faire des rafales ou le curseur est juste trop bas ? je n'essaie pas de créer une macro, juste l'option du menu."
+      ],
+      "flair": "Résolu",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "Tirez un chargeur sur un mur sans correction de souris. Regardez le début, le milieu et la fin. Un curseur vertical raccourcit la montée. Il n'efface pas une déviation latérale à la fend, donc faites des rafales avant la fin si ça glisse encore. Si les premiers tirs tombent sous le réticule, le curseur est trop haut. Ce n'est pas une macro de jitter et ce n'est pas un adaptateur.",
+          "replies": [
+            {
+              "author": "gibby_bubble",
+              "body": "J'ai baieasé d'un cran et je fais des rafales sur la fin. Les beams ont l'air normales maintenant. ça marche à 100%."
+            }
+          ]
+        }
+      ]
+    },
+    "vod-showed-the-menu": {
+      "title": "Mon stream a montré mon menu sur la VOD",
+      "excerpt": "J'ai lancé un live et le chat a vu le menu. Le mode stream proof était activé. Qu'est-ce que j'ai mal réglé ?",
+      "body": [
+        "stream proof activé. je voyais encore le menu dans mon propre enregistrement. le chat l'a clairement vu aussi. la honte.",
+        "la scène capture tout le moniteur parce que c'était plus facile. c'est pour ça ?"
+      ],
+      "flair": "Résolu",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Oui. La capture d'écran prend tout le moniteur, donc les spectateurs voient ce que vous voyez. Utilisez la capture de jeu sur la fenêtre du client, enregistrez localement en étant hors ligne, et vérifiez le moment où vous ouvrez le menu avant de lancer le live. Cela ne couvre pas un coéquipier qui enregistre sa propre pc.",
+          "replies": [
+            {
+              "author": "pathy_clips",
+              "body": "j'ai changé la source. le fichier local est clean. ça fonctionne à 100% avant que je lance le live la prochaine fois."
+            }
+          ]
+        }
+      ]
+    },
+    "loot-text-on-the-first-bin": {
+      "title": "Le texte du loot cache le premier bac",
+      "excerpt": "L'atterrissage est un mur d'étiquettes. J'ai juste besoin de l'arme la plus proche, pas de tous les accessoires sur la carte.",
+      "body": [
+        "atterrissage chaud et le sol n'est que des mots. je ne peux pas dire dans quel bac est l'arme dans ma pièce.",
+        "je n'ai pas besoin de chaque hop-up dans le bâtiment d'à côté. comment utilisez-vous les étiquettes de loot pendant la première minute ?"
+      ],
+      "flair": "Résolu",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Trois étapes. L'arme la plus proche que vous pouvez prendre sans traverser un terrain découvert. Puis le bouclier ou les heals, selon ce qui est le plus preache. Ensuite, la sortie à l'opposé des autres ballons. Tout ce qui brille encore après cela reste par terre. Une étiquette n'est pas un ordre de faire demi-tour.",
+          "replies": [
+            {
+              "author": "octane_otp",
+              "body": "j'ai fait le truc des 3 étapes. je suis vraiment parti avec une arme. ça fonctionne à 100% 💀"
+            }
+          ]
+        }
+      ]
+    },
+    "does-lifetime-include-spoofer": {
+      "title": "Est-ce que lifetime inclut le spoofer ?",
+      "excerpt": "Avant de payer une seule fois : est-ce que l'outil HWID est dans le menu lifetime ou sur un autre paiement ?",
+      "body": [
+        "sur le point de prendre lifetime sur le menu. $150. est-ce que ça débloque aussi le spoofer ou c'est un autre achat ?",
+        "je ne veux pas le découvrir après le paiement mdr."
+      ],
+      "flair": "Pré-achat",
+      "comments": [
+        {
+          "author": "SupportStaff",
+          "body": "Lifetime et la clé de 31 jours débloquent les mêmes modules de menu. Lifetime n'inclut pas le spoofer. C'est un paiement séparé. Achetez le menu pour les visuels et l'aimbot. Achetez le spoofer uniquement si le problème vient du pc, et non du compte.",
+          "replies": [
+            {
+              "author": "crypto_drone7",
+              "body": "carrément. menu seulement pour moi du coup. clear."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

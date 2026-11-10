@@ -1,0 +1,193 @@
+{
+  "categories": {
+    "General": "综合讨论",
+    "Guides & Builds": "指南与配置",
+    "Patch Talk": "补丁讨论",
+    "Community": "社区"
+  },
+  "posts": {
+    "loader-stuck-after-cipher-patch": {
+      "title": "Loader 在 Cipher 补丁后卡住",
+      "excerpt": "Season 31 更新了，但 loader 只是停在那不动。我是把系统弄成砖了还是文件太旧了？",
+      "body": [
+        "兄弟们，Cipher 补丁一出我的 loader 就转个不停。昨天还好好的。我没碰 hvci 或 secure boot。",
+        "状态页面在补丁前显示还是绿色的。我是彻底凉了还是只能等新文件？😭"
+      ],
+      "flair": "已解决",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "那个绿色提示是针对旧客户端的。Cipher 更新后，请再次检查 read 状态。如果显示等待，请不要一直尝试启动。当列出新文件时，从门户下载并加载那个。密钥相同。不要为了强行运行而关闭安全功ea。",
+          "replies": [
+            {
+              "author": "WraithMain_jay",
+              "body": "新文件已经有了。启动了 clean。在普通匹配中 100% 可用。谢啦，老哥"
+            }
+          ]
+        },
+        {
+          "author": "octane_otp",
+          "body": "一样。是旧文件的问题，不是密钥的问题。刷新门户后就打开了。",
+          "replies": []
+        }
+      ]
+    },
+    "refund-if-menu-does-not-launch": {
+      "title": "菜单无法启动可以退款吗？",
+      "excerpt": "购买前问一下：如果在我的 pc 上打不开，能退钱吗？",
+      "body": [
+        "在考虑 31 天的密钥。付款前问个简单的问题。",
+        "如果菜单在我的 pc 上无法启动，会自动退款吗？还是钱就白花了。跟我说实话。"
+      ],
+      "flair": "购买前咨询",
+      "comments": [
+        {
+          "author": "SupportStaff",
+          "body": "结账后概不退款。我们不会因为你改变主意、账号受到处罚，或者在状态显示等待时加载而退款。如果它在受支持的 pc（Windows 10 或 11，HVCI，core isolation，TPM，且secure boot保持开启，当前门户文件）上失败，请通过订单邮箱发送邮件给客服，附上 Windows 版本和准确的 loader 文本。如果我们确认问题出在我们这边，我们可以修复、更换权限或退款。但这并不意味着每个工单都会同意退款。",
+          "replies": [
+            {
+              "author": "horizon_tea",
+              "body": "好吧，这很 clear。我买之前会去看看条款页面。感谢爽快的回答。"
+            }
+          ]
+        },
+        {
+          "author": "pathy_clips",
+          "body": "老哥，先 read 条款。状态提示很重要。红灯时千万别排队。",
+          "replies": []
+        }
+      ]
+    },
+    "boxes-eating-the-screen": {
+      "title": "方框 ea 占满了我在兴趣点 (POI) 的整个屏幕",
+      "excerpt": "把所有视觉效果都打开了，现在我看不到门了。你究竟靠什么leave生活？",
+      "body": [
+        "first session i enabled box, skeleton, health, distance, weapon, loot. looked cool for 2 seconds then a building fight was unreadable.",
+        "你到底留下了什么，才能还能看到这个模型？说实话我有点迷茫。"
+      ],
+      "flair": "已解决",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "把它放入一个盒子中，并为战斗准备一个health血条。Leave战利品标签保持关闭，直到你走到一个垃圾桶旁。转移时的距离是可选的，但在建筑内部则不然。把它保存为一个config，这样你就不用在回合中点击十二个开关了。",
+          "replies": [
+            {
+              "author": "班加罗尔长椅",
+              "body": "box + health 仅限。我又可以看到 heads 了。100% 运作中 🔥"
+            }
+          ]
+        },
+        {
+          "author": "crypto_drone7",
+          "body": "跳伞时开启拾取，听到门响时关闭。这种分工对我的帮助比换个颜色更大。",
+          "replies": []
+        }
+      ]
+    },
+    "new-logins-die-on-one-pc": {
+      "title": "新的登录在此 PC 上失效",
+      "excerpt": "新账号在我的台式机上注册失败，但在笔记本上却能成功。这是设备ID被封了吗？",
+      "body": [
+        "我笔记本电脑上的旧账号仍然在排队。这台台式机上的全新登录却很早就死掉了 early，有时甚至在 real 比赛之前。",
+        "那是确认的机器码封禁吗？我是买 spoofer 还是菜单应该能修复登录问题？"
+      ],
+      "flair": "问题",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "那个模式是机器本身，而不是单封电子邮件。它本身并不是已确认的ID封禁。在大多数情况下，并不存在ID封禁。该菜单不会更改磁盘或网络ID。spoofer 是您拥有的 pc 上指纹问题的一个单独密钥。它无法撤消已经存在于某一个账号上的处罚，它也不是一个简便的绕过声明。",
+          "replies": [
+            {
+              "author": "罗芭战利品",
+              "body": "按你说的先试了第二个 pc。笔记本电脑没问题，台式机才是奇怪的那台。没把它当成什么神奇的撤销功能。谢谢。"
+            }
+          ]
+        }
+      ]
+    },
+    "r301-spray-still-climbs": {
+      "title": "R-301 的弹道仍然在上飘",
+      "excerpt": "No Recoil已开启，但弹匣的后半部分仍然会向上飘。是我设置错了吗？",
+      "body": [
+        "no recoil 开启，打完大半个弹匣后 r-301 依然会上飘。前几发感觉还好，然后开始偏移。",
+        "我是应该爆发还是滑块只是调得很低？不是想做一个宏，只是想用菜单选项。"
+      ],
+      "flair": "已解决",
+      "comments": [
+        {
+          "author": "ApexDev_K",
+          "body": "开一梭子弹打在墙上，不要开启鼠标修正。观察弹孔的开头、中间和结尾。垂直滑动条可以缩短上扬距离。它无法消除end处的左右横移，因此如果仍有滑动，请在结尾前进行点射。如果前几发子弹落在准星下方，说明滑动条调得太高了。这不是抖动宏，也不是转换器。",
+          "replies": [
+            {
+              "author": "gibby_bubble",
+              "body": "eased it off a notch and i burst the tail. beams feel normal now. working 100%."
+            }
+          ]
+        }
+      ]
+    },
+    "vod-showed-the-menu": {
+      "title": "Stream showed my menu on the VOD",
+      "excerpt": "Went live and chat saw the menu. Stream proof was on. What did I set wrong?",
+      "body": [
+        "stream proof on. i still saw the menu in my own recording. chat definitely saw it too. embarrassing.",
+        "scene is just the whole monitor because that was easier. is that why?"
+      ],
+      "flair": "已解决",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Yes. Display capture grabs the monitor, so viewers see what you see. Use game capture on the client window, record locally while still offline, and scrub the moment you open the menu before you go live. This does not cover a teammate recording their own pc.",
+          "replies": [
+            {
+              "author": "pathy_clips",
+              "body": "switched the source. local file is clean. working 100% before i hit go live next time."
+            }
+          ]
+        }
+      ]
+    },
+    "loot-text-on-the-first-bin": {
+      "title": "Loot text covering the first bin",
+      "excerpt": "Drop is a wall of labels. I just need the closest gun, not every attachment on the map.",
+      "body": [
+        "hot drop and the floor is just words. i cannot tell which bin is the gun in my room.",
+        "i do not need every hop-up in the next building. how are you using loot labels in the first minute?"
+      ],
+      "flair": "已解决",
+      "comments": [
+        {
+          "author": "SiteMod_Nia",
+          "body": "Three stops. Closest weapon you can take without crossing open ground. Then shield or heals, whichever is nearer. Then the exit away from the other balloons. Anything still glowing after that stays on the floor. A label is not an order to run back.",
+          "replies": [
+            {
+              "author": "octane_otp",
+              "body": "did the 3 stop thing. actually left with a gun. working 100% 💀"
+            }
+          ]
+        }
+      ]
+    },
+    "does-lifetime-include-spoofer": {
+      "title": "Does lifetime include the spoofer?",
+      "excerpt": "Before I pay once: is the HWID tool inside the lifetime menu or a different checkout?",
+      "body": [
+        "about to grab lifetime on the menu. $150. does that also unlock the spoofer or is that another buy?",
+        "dont want to find out after checkout lol."
+      ],
+      "flair": "购买前",
+      "comments": [
+        {
+          "author": "SupportStaff",
+          "body": "Lifetime and the 31 day key unlock the same menu modules. Lifetime does not include the spoofer. That is its own checkout. Buy the menu for visuals and aim. Buy the spoofer only if the problem is the pc, not the account.",
+          "replies": [
+            {
+              "author": "crypto_drone7",
+              "body": "bet. menu only for me then. clear."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

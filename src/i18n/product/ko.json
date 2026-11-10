@@ -1,0 +1,154 @@
+{
+  "steps": [
+    {
+      "title": "Check status",
+      "desc": "Read the status page after an Apex Legends or Javelin update before you buy. GREEN means the note lists the file to load. RED means wait."
+    },
+    {
+      "title": "Pick a plan",
+      "desc": "$35 for 31 days or $150 lifetime. The HWID spoofer uses its own price."
+    },
+    {
+      "title": "Secure checkout",
+      "desc": "Complete checkout from the product card. Your license unlocks in the portal with instant delivery."
+    },
+    {
+      "title": "Install & verify",
+      "desc": "Follow the setup guide, load a conservative preset, and test in a lower-stakes playlist before you use your main profile."
+    }
+  ],
+  "howToGet": "How to get {name}",
+  "cheats": {
+    "groupNames": [
+      "Menu modules"
+    ],
+    "descs": [
+      "Enemy and squad legends with labels while you scan a fight.",
+      "Smooth aim assist with FOV and visibility checks for Apex gunfights.",
+      "Shows which weapon a legend is holding before you push.",
+      "Shield and health bars above targets during rotates and third-parties.",
+      "Meters to each marked player for range calls in BR and Arenas.",
+      "Corner boxes on legends for quick tracking through windows and cover.",
+      "Bone lines when you need posture readouts at close range.",
+      "Ground loot markers and tier filters between zone pulls.",
+      "Recoil helpers for sustained fire with ARs, SMGs, and LMGs.",
+      "Built for the live PC client with Javelin active; ban risk remains.",
+      "Overlay mode aimed at capture apps—not a guarantee on every setup.",
+      "Discord help for loader keys, checkout, and portal access."
+    ],
+    "slides": [
+      {
+        "alt": "Player overlay modules in the Apex hack menu",
+        "caption": "Player overlays",
+        "captionDesc": "Player ESP, Box ESP, Skeleton ESP, Health Bar, and Distance ESP."
+      },
+      {
+        "alt": "Weapon and loot ESP in the Apex hack menu",
+        "caption": "Weapons and loot",
+        "captionDesc": "Weapon ESP and Loot ESP."
+      },
+      {
+        "alt": "Aimbot and recoil modules in the Apex hack menu",
+        "caption": "Aim control",
+        "captionDesc": "Advanced Aimbot and No Recoil."
+      },
+      {
+        "alt": "Bypass, stream proof, and support in the Apex hack menu",
+        "caption": "Safety and support",
+        "captionDesc": "EA Javelin Bypass, Stream Proof, and 24/7 Support."
+      }
+    ],
+    "overview": {
+      "title": "A Windows menu for Apex Legends",
+      "paragraphs": [
+        "One license covers Player ESP, Advanced Aimbot, Weapon ESP, Health Bar, Distance ESP, Box ESP, Skeleton ESP, Loot ESP, No Recoil, EA Javelin Bypass, Stream Proof, and 24/7 Support on every plan.",
+        "Read the status page before you load. $35 for 31 days or $150 lifetime."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Modules included"
+      },
+      {
+        "type": "p",
+        "text": "Twelve modules on one license. Open the feature list on this page for every name and short note."
+      },
+      {
+        "type": "h2",
+        "text": "Plans"
+      },
+      {
+        "type": "p",
+        "text": "The 31-day plan is $35. Lifetime is $150 once. About four 31-day renewals at $35 equal lifetime."
+      }
+    ],
+    "goodToKnow": "Apex Legends and EA Javelin Anticheat update often. Read the status page before you load. GREEN means the note lists this file. RED means wait. Overlay behavior can change after a patch.",
+    "limitations": "Third-party software can violate game terms and lead to bans. You use this software at your own risk. Compatibility can change after a game, anti-cheat, or Windows update. Streamproof does not remove that risk.",
+    "requirements": [
+      "HVCI ON · CORE ISOLATION ON · TPM ON · SECURE BOOT ON",
+      "Windows 10 and 11",
+      "Latest Apex Legends PC client"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer for Apex Legends on Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Hardware profile rotation before you relaunch Apex Legends."
+      },
+      {
+        "alt": "Phoenix Satano HWID spoofer hardware fingerprint rotation on Windows PC",
+        "caption": "HWID rotation",
+        "captionDesc": "Disk serials, MAC addresses, and GPU ID rotation workflow."
+      },
+      {
+        "alt": "Phoenix WH-Satano spoofer branding for Apex Legends on Windows PC",
+        "caption": "Phoenix WH-Satano",
+        "captionDesc": "Spoofer build with portal cleaner and compatibility checks."
+      }
+    ],
+    "overview": {
+      "title": "HWID recovery workflow",
+      "paragraphs": [
+        "HWID Spoofer is a separate key for a hardware flag. It rotates disk, MAC, and GPU identifiers on a PC you own. It is not included with the menu.",
+        "$50 for 31 days or $150 lifetime. It does not fix an account-only restriction on the same machine."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "When to use it"
+      },
+      {
+        "type": "p",
+        "text": "Use when fresh accounts fail on one PC but work elsewhere—not for account-only bans. Pair with conservative cheat presets after verification."
+      },
+      {
+        "type": "h2",
+        "text": "Plans"
+      },
+      {
+        "type": "p",
+        "text": "$50 for 31 days or $150 lifetime"
+      }
+    ],
+    "goodToKnow": "HWID tools change how your PC fingerprint appears. They do not clear an account-only penalty. Read the portal notes before you launch Apex Legends again.",
+    "limitations": "Spoofing carries technical risk and may violate game terms. Results vary by ban type and driver setup. Use only on systems you own.",
+    "requirements": [
+      "Windows 10 or 11 64-bit with administrator rights.",
+      "Create a restore point before running hardware tools.",
+      "Stable internet for activation and verification steps."
+    ],
+    "features": [
+      "Hardware spoofer with cleaner",
+      "Disk serial and MAC rotation",
+      "GPU ID profile tools",
+      "Compatibility scan",
+      "Verification checklist",
+      "Portal step-by-step workflow",
+      "Discord setup support"
+    ]
+  }
+}

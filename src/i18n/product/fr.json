@@ -1,0 +1,181 @@
+{
+  "steps": [
+    {
+      "title": "Vérifier le statut",
+      "desc": "Consultez la page de statut après une mise à jour Apex Legends ou Javelin avant d'acheter. VERT signifie que la note indique le fichier à charger. ROUGE signifie de patienter."
+    },
+    {
+      "title": "Choisir une formule",
+      "desc": "$35 for 31 days ou $150 lifetime. Le HWID spoofer utilise son propre tarif."
+    },
+    {
+      "title": "Paiement sécurisé",
+      "desc": "Finalisez l'achat depuis la carte produit. Votre licence se débloque dans le portail avec une livraison instantanée."
+    },
+    {
+      "title": "Installer et vérifier",
+      "desc": "Suivez le guide d'installation, chargez un préréglage conservateur et testez dans une liste de lecture à moindre risque avant d'utiliser votre profil principal."
+    }
+  ],
+  "howToGet": "Comment obtenir {name}",
+  "cheats": {
+    "groupNames": [
+      "Options Aimbot",
+      "Options visuelles du joueur",
+      "Options visuelles du monde",
+      "Options diverses"
+    ],
+    "descs": [
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Progression de désamorçage et affichage du temps lorsque le menu les expose.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Masque les compétences et les pièges ESP lorsqu'ils sont maintenus.",
+      "Répertorié sur le menu loader pour les versions prises en charge.",
+      "Répertorié sur le menu loader pour les versions prises en charge."
+    ],
+    "slides": [
+      {
+        "alt": "Capture d'écran du menu Player ESP",
+        "caption": "Options visuelles du joueur",
+        "captionDesc": "Santé, bouclier, legend, rang, box, skeleton et contrôles de distance."
+      },
+      {
+        "alt": "Capture d'écran du menu visuel du monde",
+        "caption": "Options visuelles du monde",
+        "captionDesc": "Compétences, pièges, minuteurs de et personnalisation par legend."
+      },
+      {
+        "alt": "Capture d'écran du menu Aimbot",
+        "caption": "Options Aimbot",
+        "captionDesc": "FOV, smooth, adhérence, os, filtre et calques d'affichage."
+      },
+      {
+        "alt": "Capture d'écran du menu Divers et config",
+        "caption": "Options diverses",
+        "captionDesc": "Raccourci du mode combat, taille de police et création ou chargement de config."
+      }
+    ],
+    "overview": {
+      "title": "Un menu Windows pour Apex Legends",
+      "paragraphs": [
+        "Une seule licence couvre les options Aimbot, les options visuelles du joueur, les options visuelles du monde et les options diverses — le même menu pour chaque formule.",
+        "Consultez la page d'état avant de charger. $35 for 31 days ou $150 lifetime."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Groupes de menus inclus"
+      },
+      {
+        "type": "p",
+        "text": "Quatre groupes de menus sur une seule licence : options Aimbot, options visuelles du joueur, options visuelles du monde et options diverses. Ouvrez la liste des fonctionnalités sur cette page pour voir chaque option."
+      },
+      {
+        "type": "h2",
+        "text": "Formules"
+      },
+      {
+        "type": "p",
+        "text": "La formule de 31 jours est $35. Lifetime est $150 en une fois. Environ quatre renouvellements de 31 jours à $35 équivalent à lifetime."
+      }
+    ],
+    "goodToKnow": "Apex Legends et Javelin sont mis à jour fréquemment. Consultez la page d'état avant de charger. VERT signifie que la note répertorie ce fichier. ROUGE signifie de patienter. Le comportement de l'overlay peut changer après une mise à jour.",
+    "limitations": "Les logiciels tiers peuvent enfreindre les conditions du jeu et entraîner des bannissements. Vous utilisez ce logiciel à vos propres risques. La compatibilité peut changer après une mise à jour du jeu, de Javelin ou de Windows. Le mode streamproof ne supprime pas ce risque.",
+    "requirements": [
+      "HVCI ACTIVÉ · CORE ISOLATION ACTIVÉ · TPM ACTIVÉ · SECURE BOOT ACTIVÉ",
+      "Windows 10 ou 11 sur les versions prises en charge",
+      "Intel Core i5 ou AMD Ryzen 5 ou supérieur",
+      "Internet stable · dernier client Apex Legends PC",
+      "Client : client officiel Apex Legends PC"
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "HWID spoofer sur Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Outils d'empreinte matérielle avant de relancer."
+      },
+      {
+        "alt": "Rotation de l'empreinte matérielle Phoenix Satano HWID spoofer sur Windows PC",
+        "caption": "Carte Phoenix",
+        "captionDesc": "Rotation des identifiants Disque, MAC et GPU."
+      },
+      {
+        "alt": "Image de marque Phoenix WH-Satano spoofer sur Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Espace de travail Spoofer utilisé sur chaque boutique."
+      }
+    ],
+    "overview": {
+      "title": "Flux de récupération HWID",
+      "paragraphs": [
+        "HWID Spoofer est une clé séparée pour un indicateur matériel. Elle fait pivoter les identifiants de disque, MAC et GPU sur un PC que vous possédez. Elle n'est pas incluse avec le menu.",
+        "$50 for 31 days ou $150 lifetime. Cela ne résout pas une restriction liée uniquement au compte sur la même machine."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Quand l'utiliser"
+      },
+      {
+        "type": "p",
+        "text": "À utiliser lorsque les nouveaux comptes échouent sur un PC mais fonctionnent ailleurs, et non pour les bannissements de compte uniquement. À associer à des préréglages de cheats conservateurs après vérification."
+      },
+      {
+        "type": "h2",
+        "text": "Forfaits"
+      },
+      {
+        "type": "p",
+        "text": "$50 for 31 days ou $150 lifetime"
+      }
+    ],
+    "goodToKnow": "Les outils HWID modifient l'apparence de l'empreinte de votre PC. Ils n'effacent pas une pénalité liée uniquement au compte. Lisez les notes du portail avant de relancer Apex Legends.",
+    "limitations": "Le spoofing comporte des risques techniques et peut enfreindre les conditions du jeu. Les résultats varient selon le type de bannissement et la configuration du pilote. À utiliser uniquement sur les systèmes que vous possédez.",
+    "requirements": [
+      "Windows 10 ou 11 64 bits avec des droits d'administrateur.",
+      "Créez un point de restauration avant d'exécuter les outils matériels.",
+      "Internet stable pour les étapes d'activation et de vérification."
+    ],
+    "features": [
+      "spoofer matériel avec nettoyeur",
+      "Rotation des numéros de série de disque et MAC",
+      "Outils de profil d'ID GPU",
+      "Analyse de compatibilité",
+      "Liste de contrôle de vérification",
+      "Flux de travail étape par étape du portail",
+      "Support d'installation Discord"
+    ]
+  }
+}

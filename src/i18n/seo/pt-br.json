@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Apex Legends Cheats | Apex Legends Cheats",
+    "description": "Apex Legends Cheats para Steam no Windows PC com aimbot, ESP, marcadores de veículos e radar. Compare o cheat, HWID spoofer e no cheatsapexlegends.org."
+  },
+  "pages": {
+    "/": {
+      "title": "Apex Legends Cheats para Windows PC | ESP, Aimbot e Preços",
+      "description": "Compare Apex Legends Cheats on Windows: ESP modules, aimbot settings, $35 and $150 plans, the live Status label, and setup notes before you load."
+    },
+    "/products/apex-cheats/": {
+      "title": "Apex Legends Hacks for PC | $35 and $150",
+      "description": "Cheats for Apex Legends no Steam: três produtos Windows compartilham $35 and $150. Loader, a ferramenta HWID e os recursos de conta são finalizados em etapas separadas."
+    },
+    "/products/apex-cheats/loader/": {
+      "title": "Steam Loader para Windows PC | Mira e Radar",
+      "description": "Twelve modules including Player ESP, Advanced Aimbot, and Loot ESP. $35 for 31 days or $150 lifetime."
+    },
+    "/products/apex-cheats/hwid-spoofer/": {
+      "title": "HWID Spoofer para Apex Legends Windows de Hardware Flags",
+      "description": "HWID spoofer for a hardware flag. $50 for 31 days or $150 lifetime. It does not clear an account-only penalty."
+    },
+    "/products/apex-cheats/utilities/": {
+      "title": "Compare a Ferramenta e o Utilitário de Apelação de Conta HWID",
+      "description": "Veja qual utilitário do Windows se encaixa em um sinal de hardware e qual se encaixa em uma apelação de conta. Ambas são finalizações de compra separadas do Apex Legends loader."
+    },
+    "/blog/": {
+      "title": "Apex Legends PC Guias de Mira, ESP, Saque, Menu e Javelin",
+      "description": "Original notes on custom-game toggles, Javelin and VAC, x-ray overlays, Reddit claims, and the $35 and $150 plans."
+    },
+    "/forum/": {
+      "title": "Apex Legends Fórum da Comunidade: Configuração, Objetivo e Planos",
+      "description": "Tópicos do fórum sobre Apex Legends loader, opções de mira e ESP, planos de $35 and $150, e dias de patch de Javelin. As respostas dos desenvolvedores estão marcadas."
+    },
+    "/faq/": {
+      "title": "FAQ – Planos, Configuração e Risco Javelin Antes do Pagamento",
+      "description": "Answers on the $35 and $150 plans, Javelin updates, Windows requirements, hardware flags, and how the three products differ."
+    },
+    "/support/": {
+      "title": "Apex Legends Suporte: Loader, Finalização de compra e HWID PC",
+      "description": "Loader, finalização de compra e ajuda do portal para as ferramentas Apex Legends, o HWID spoofer e recursos de conta. Inclua o e-mail do seu pedido e o loader exato."
+    },
+    "/about/": {
+      "title": "Sobre esta loja Apex Legends: entrega pelo portal, preços e riscos",
+      "description": "Loja: o que o cheatsapexlegends.org vende, como funcionam o checkout e a entrega no portal, e o risco de banimento ao usar ferramentas de terceiros no Apex Legends para Windows PC."
+    },
+    "/privacy/": {
+      "title": "Notas de privacidade para análise, cookies e dados de contato",
+      "description": "Como cheatsapexlegends.org lida com análises, cookies e dados de contato. Os números dos cartões de pagamento ficam no provedor de finalização de compra, e não nesta loja."
+    },
+    "/terms/": {
+      "title": "Termos de licença, reembolsos e regras de uso aceitável",
+      "description": "Termos de licença, uso aceitável e a regra de não reembolso para o loader, HWID spoofer e a recuperação de conta vendidos através de cheatsapexlegends.org."
+    },
+    "/status/": {
+      "title": "Apex Legends Status & Javelin Notas do Patch",
+      "description": "Notas de atualização para o Windows loader. Verifique o status após cada atualização do Javelin antes de iniciar o Apex Legends no Steam."
+    }
+  }
+}

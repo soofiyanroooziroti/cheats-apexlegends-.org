@@ -1,0 +1,1413 @@
+{
+  "site": {
+    "name": "Apex Legends Cheats",
+    "domain": "cheatsapexlegends.org",
+    "title": "Apex Legends Cheats",
+    "description": "Možnosti Aimbot, Vizuální možnosti hráčů, Vizuální možnosti světa a Různé možnosti pro Apex Legends na Windows PC. Ceny USD.",
+    "discord": "/go/apex/"
+  },
+  "nav": [
+    {
+      "href": "/",
+      "label": "Domů"
+    },
+    {
+      "href": "/products/apex-cheats/",
+      "label": "Produkty"
+    },
+    {
+      "href": "/products/apex-cheats/loader/#features",
+      "label": "Funkce"
+    },
+    {
+      "href": "/blog/",
+      "label": "Blog"
+    },
+    {
+      "href": "/forum/",
+      "label": "Fórum"
+    },
+    {
+      "href": "/faq/",
+      "label": "FAQ"
+    },
+    {
+      "href": "/support/",
+      "label": "Podpora"
+    }
+  ],
+  "headerNavLabels": {
+    "home": "Domů",
+    "products": "Obchod",
+    "features": "Funkce",
+    "blog": "Blog",
+    "forum": "Fórum",
+    "faq": "FAQ",
+    "support": "Nápověda"
+  },
+  "navMore": "Více",
+  "navShort": {
+    "home": "Domů",
+    "products": "Produkty",
+    "features": "Funkce",
+    "blog": "Blog",
+    "forum": "Fórum",
+    "faq": "FAQ",
+    "support": "Podpora"
+  },
+  "hero": {
+    "status": "Apex Legends — read status before you inject",
+    "eyebrow": "Windows PC · Worldwide",
+    "titleLine1": "Apex cheats for Windows PC",
+    "titleLine2": "",
+    "subtitle": "These apex cheats bundle squad overlays, map loot cues, aim tuning, and saved profiles on one Windows license. $35 for 31 days or $150 lifetime.",
+    "ctaPrimary": "View products",
+    "ctaDiscord": "Buy now",
+    "modesLabel": "Modules",
+    "modes": [
+      "Player ESP",
+      "Advanced Aimbot",
+      "Loot ESP",
+      "No Recoil"
+    ],
+    "marqueeAria": "Features and platform support",
+    "metrics": [
+      {
+        "label": "Anti-cheat",
+        "strong": "EA Javelin"
+      },
+      {
+        "label": "Platform",
+        "strong": "Windows PC"
+      },
+      {
+        "label": "Plans",
+        "strong": "$35 and $150"
+      },
+      {
+        "label": "Support",
+        "strong": "24/7"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Features",
+    "title": "Twelve modules on one Apex hack license",
+    "subtitle": "Same list on the products page and the loader feature section.",
+    "subtitleLead": "Same list on the products page and the ",
+    "subtitleLinkLabel": "loader feature section",
+    "subtitleTail": ".",
+    "seeAllLabel": "See all features",
+    "items": [
+      {
+        "title": "Player ESP",
+        "subtitle": "Squad and enemy legends with labels in your line of sight."
+      },
+      {
+        "title": "Advanced Aimbot",
+        "subtitle": "Smooth aim assist with FOV and visibility checks in gunfights."
+      },
+      {
+        "title": "Weapon ESP",
+        "subtitle": "See which weapon a legend is holding before you push."
+      },
+      {
+        "title": "Health Bar",
+        "subtitle": "Shield and health bars above targets during rotates."
+      },
+      {
+        "title": "Distance ESP",
+        "subtitle": "Meters to each marked player for range calls."
+      },
+      {
+        "title": "Box ESP",
+        "subtitle": "Corner boxes on legends for quick tracking through cover."
+      },
+      {
+        "title": "Skeleton ESP",
+        "subtitle": "Bone lines when you need posture readouts up close."
+      },
+      {
+        "title": "Loot ESP",
+        "subtitle": "Ground loot markers and tier filters between zone pulls."
+      },
+      {
+        "title": "No Recoil",
+        "subtitle": "Recoil helpers for sustained fire with ARs and SMGs."
+      },
+      {
+        "title": "EA Javelin Bypass",
+        "subtitle": "Built for the live PC client with Javelin active—ban risk remains."
+      },
+      {
+        "title": "Stream Proof",
+        "subtitle": "Overlay mode aimed at capture apps; not guaranteed on every setup."
+      },
+      {
+        "title": "24/7 Support",
+        "subtitle": "Discord help for loader keys, checkout, and portal access."
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "Why us",
+    "title": "One menu on every plan — updates track the season",
+    "subtitle": "One cheat and one HWID spoofer. The menu is $35 for 31 days or $150 lifetime. The HWID spoofer is $50 for 31 days or $150 lifetime. Account action is still possible under Javelin.",
+    "usLabel": "Apex cheats",
+    "otherLabel": "Typical provider",
+    "rows": [
+      {
+        "title": "Loader refresh after patches",
+        "desc": "Visit cheatsapexlegends.org after an Apex Legends or Javelin client change before you run the loader."
+      },
+      {
+        "title": "Aim sliders stay separate",
+        "desc": "FOV, smoothing, bone, and visibility check are independent. Adjust one knob so you know what moved."
+      },
+      {
+        "title": "Setup help that matches the case",
+        "desc": "Support walks through the Windows loader, saved profiles, and whether you need the menu key or the spoofer key."
+      },
+      {
+        "title": "Two checkouts, two keys",
+        "desc": "The hack menu and the HWID spoofer never share a cart. Lifetime on the menu does not bundle the spoofer."
+      },
+      {
+        "title": "Profiles on both plans",
+        "desc": "All twelve modules sit on one license. The 31-day and lifetime tiers open the same loader build."
+      },
+      {
+        "title": "Hardware flags need the spoofer",
+        "desc": "When a PC cannot register fresh accounts, that is the spoofer product—not something bundled with the menu key."
+      }
+    ],
+    "metrics": [
+      {
+        "value": "Javelin",
+        "title": "Check after a patch",
+        "desc": "Re-read the status label after Apex Legends or Javelin ships before you inject."
+      },
+      {
+        "value": "2",
+        "title": "Plans on the menu",
+        "desc": "$35 for 31 days or $150 lifetime. The same loader on both tiers."
+      },
+      {
+        "value": "2",
+        "title": "Separate products",
+        "desc": "Apex cheats menu and HWID spoofer. Each ships its own license."
+      }
+    ]
+  },
+  "setup": {
+    "eyebrow": "Setup guide",
+    "titleLead": "From payment to your first drop in",
+    "titleHighlight": "three quick steps",
+    "intro": "Flow is status → checkout → portal loader. Scan the status page after Javelin or an Apex Legends update before you open the game.",
+    "ctaPrimary": "View products",
+    "ctaSecondary": "Setup FAQ",
+    "ctaPrimaryHref": "/products/apex-cheats/",
+    "ctaSecondaryHref": "/faq/",
+    "statusStrip": {
+      "aceStatusCta": "Check status",
+      "aceStatusHref": "/status/",
+      "perks": [
+        {
+          "icon": "instantDelivery",
+          "label": "Instant delivery"
+        },
+        {
+          "icon": "support247",
+          "label": "24/7 support"
+        },
+        {
+          "icon": "refresh",
+          "label": "Lifetime updates"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "step": "Step 1",
+        "title": "Portal access and loader download",
+        "desc": "Finish checkout, sign into the operator portal, and grab the current Windows loader from your dashboard."
+      },
+      {
+        "step": "Step 2",
+        "title": "Load and tune modules",
+        "desc": "Start the loader, then enable Player ESP, aim tuning, loot markers, and stream proof one module at a time."
+      },
+      {
+        "step": "Step 3",
+        "title": "Confirm status, then play",
+        "desc": "Make sure the status banner reads GREEN for this build, then launch Apex Legends."
+      }
+    ]
+  },
+  "compatibility": {
+    "eyebrow": "Platform support",
+    "title": "Built for modern Windows rigs.",
+    "subtitle": "Revisit the status page after Apex Legends or Javelin changes before you inject.",
+    "items": [
+      "Windows 10 & 11",
+      "Intel or AMD",
+      "HVCI on",
+      "Core isolation on",
+      "TPM on",
+      "Secure boot on",
+      "Discord support",
+      "Config save"
+    ]
+  },
+  "cheats": {
+    "eyebrow": "Game cheat",
+    "title": "Hack menu for Apex",
+    "subtitle": "Targeting, squad overlays, world loot, and misc profiles on one license.",
+    "viewAll": "View details",
+    "explore": "Explore",
+    "items": [
+      {
+        "badge": "Active",
+        "tier": "Full suite",
+        "name": "Apex hack",
+        "title": "Apex hack menu",
+        "desc": "Windows overlay with targeting controls, squad readouts, loot on the map, and saved profile slots.",
+        "features": [
+          "Player ESP",
+          "Advanced Aimbot",
+          "Loot ESP",
+          "No Recoil"
+        ],
+        "more": 0,
+        "href": "/products/apex-cheats/loader/",
+        "variant": "popular"
+      }
+    ]
+  },
+  "products": {
+    "eyebrow": "Products",
+    "title": "Apex hack for PC",
+    "subtitle": "Apex hack: $35 for 31 days or $150 lifetime. Apex spoofer: $50 for 31 days or $150 lifetime.",
+    "viewAll": "View details",
+    "get": "Buy now",
+    "explore": "Explore",
+    "items": [
+      {
+        "badge": "Active",
+        "category": "HWID spoofer",
+        "title": "Apex spoofer",
+        "subtitle": "Apex spoofer for locked hardware",
+        "desc": "HWID spoofer with cleaner—refresh disk, MAC, and GPU identifiers before you queue again after a hardware flag on Apex.",
+        "features": [
+          "Disk, MAC, and GPU ID refresh",
+          "Fingerprint scan before you run",
+          "Checklist after each rotation",
+          "Portal steps with setup help"
+        ],
+        "more": 4,
+        "href": "/products/apex-cheats/hwid-spoofer/"
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Návody a aktualizace",
+    "subtitle": "Poznámky k vlastním hrám, návody pro ESP a aimbot, srovnání Javelin a odpovědi na otázky ohledně cen.",
+    "latestTitle": "Nejnovější návody pro Apex Legends",
+    "latestSubtitle": "Filtrujte podle tématu nebo řaďte a najděte návody na nastavení, podrobné rozbory funkcí a poznámky k patchům.",
+    "filterAll": "Všechny články",
+    "sortLabel": "Řadit podle",
+    "sortNewest": "Od nejnovějších",
+    "sortOldest": "Od nejstarších",
+    "sortShortRead": "Nejkratší čtení",
+    "sortLongRead": "Nejdelší čtení",
+    "emptyFilter": "Tohuto filtru neodpovídají žádné články.",
+    "emptyCatalog": "V tomto zobrazení nejsou uvedeny žádné návody. Otevřete filtr témat nebo stránku produktu.",
+    "viewAll": "Zobrazit všechny články",
+    "read": "Číst",
+    "items": [],
+    "minRead": "min čtení",
+    "filterByTopicAria": "Filtrovat články podle tématu",
+    "continueReadingAria": "Pokračovat ve čtení",
+    "tagLabels": {
+      "Review": "Recenze",
+      "Install": "Instalace",
+      "Safety": "Zabezpečení",
+      "Plans": "Plány",
+      "Aim": "Míření",
+      "ESP": "ESP",
+      "Loot": "Kořist",
+      "Visuals": "Vizuály",
+      "Camera": "Kamera",
+      "Guide": "Návod"
+    }
+  },
+  "toolkit": {
+    "eyebrow": "Software",
+    "title": "Twelve modules on one license",
+    "subtitle": "Same names on the homepage, product page, and loader feature list.",
+    "items": [
+      {
+        "num": "01",
+        "label": "Player ESP",
+        "title": "Player ESP",
+        "desc": "Enemy and squad legends with labels while you scan a fight."
+      },
+      {
+        "num": "02",
+        "label": "Advanced Aimbot",
+        "title": "Advanced Aimbot",
+        "desc": "Smooth aim assist with FOV and visibility checks for Apex gunfights."
+      },
+      {
+        "num": "03",
+        "label": "Weapon ESP",
+        "title": "Weapon ESP",
+        "desc": "Shows which weapon a legend is holding before you push."
+      },
+      {
+        "num": "04",
+        "label": "Health Bar",
+        "title": "Health Bar",
+        "desc": "Shield and health bars above targets during rotates and third-parties."
+      },
+      {
+        "num": "05",
+        "label": "Distance ESP",
+        "title": "Distance ESP",
+        "desc": "Meters to each marked player for range calls in BR and Arenas."
+      },
+      {
+        "num": "06",
+        "label": "Box ESP",
+        "title": "Box ESP",
+        "desc": "Corner boxes on legends for quick tracking through windows and cover."
+      },
+      {
+        "num": "07",
+        "label": "Skeleton ESP",
+        "title": "Skeleton ESP",
+        "desc": "Bone lines when you need posture readouts at close range."
+      },
+      {
+        "num": "08",
+        "label": "Loot ESP",
+        "title": "Loot ESP",
+        "desc": "Ground loot markers and tier filters between zone pulls."
+      },
+      {
+        "num": "09",
+        "label": "No Recoil",
+        "title": "No Recoil",
+        "desc": "Recoil helpers for sustained fire with ARs, SMGs, and LMGs."
+      },
+      {
+        "num": "10",
+        "label": "EA Javelin Bypass",
+        "title": "EA Javelin Bypass",
+        "desc": "Built for the live PC client with Javelin active; ban risk remains."
+      },
+      {
+        "num": "11",
+        "label": "Stream Proof",
+        "title": "Stream Proof",
+        "desc": "Overlay mode aimed at capture apps—not a guarantee on every setup."
+      },
+      {
+        "num": "12",
+        "label": "24/7 Support",
+        "title": "24/7 Support",
+        "desc": "Discord help for loader keys, checkout, and portal access."
+      }
+    ]
+  },
+  "workflow": {
+    "eyebrow": "Jak to funguje",
+    "badge": "4 jednoduché kroky",
+    "titleBefore": "Od kontroly stavu po",
+    "titleHighlight": "uložený profil.",
+    "subtitle": "Přímá cesta od štítku stavu k pokladně.",
+    "ctaLabel": "Zobrazit produkty",
+    "ctaHref": "/products/apex-cheats/",
+    "ctaSecondary": "Často kladené dotazy k nastavení",
+    "ctaSecondaryHref": "/faq/",
+    "items": [
+      {
+        "num": "01",
+        "phase": "Před nákupem",
+        "title": "Přečtěte si štítek stavu",
+        "desc": "ZELENÁ znamená, že poznámka uvádí soubor k načtení. ČERVENÁ znamená počkat. Přečtěte si to po aktualizaci Apex Legends nebo Javelin."
+      },
+      {
+        "num": "02",
+        "phase": "Pokladna",
+        "title": "Vyberte produkt",
+        "desc": "Nabídka: $35 a $150. HWID Spoofer: $50 a $150. Samostatné klíče."
+      },
+      {
+        "num": "03",
+        "phase": "Loader",
+        "title": "Spustit a configurovat",
+        "desc": "Stáhněte si z portálu. Nechte zapnuté HVCI, core isolation, TPM a secure boot."
+      },
+      {
+        "num": "04",
+        "phase": "Ve hře",
+        "title": "Uložte si profil",
+        "desc": "Když vám kužel střelby a štítky ESP připadají v pořádku, uložte config."
+      }
+    ]
+  },
+  "fieldNotes": {
+    "eyebrow": "Poznámky z terénu",
+    "title": "Vytvořeno pro Apex Legends na Windows PC.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Kontrola v den patche",
+        "desc": "Přečtěte si stránku stavu po aktualizaci Javelin nebo klienta. Včerejší banner není aktuální sestavení."
+      },
+      {
+        "num": "02",
+        "title": "Jeden posuvník po druhém",
+        "desc": "Měňte FOV, smooth nebo vzdálenost samostatně, abyste věděli, které nastavení způsobilo trhnutí nebo nepořádek."
+      },
+      {
+        "num": "03",
+        "title": "Samostatné produkty",
+        "desc": "Cheaty pro Apex Legends a HWID spoofer mají samostatnou pokladnu. Lifetime u jednoho neodemkne druhý."
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "Podpora",
+    "title": "Podpora pro Apex Legends",
+    "subtitle": "Dejte nám vědět, jak vám můžeme pomoci.",
+    "channels": [
+      {
+        "icon": "users",
+        "title": "Chat před nákupem",
+        "desc": "Zeptejte se na cheat nebo na spoofer ještě před zaplacením.",
+        "linkLabel": "Zahájit nákup",
+        "href": "/go/apex/"
+      },
+      {
+        "icon": "messageCircle",
+        "title": "Komunitní fórum",
+        "desc": "Nastavení, aim, ESP a dotazy ohledně tarifů s označenými odpověďmi vývojářů.",
+        "linkLabel": "Otevřít fórum",
+        "href": "/forum/"
+      },
+      {
+        "icon": "navFaq",
+        "title": "Přečtěte si FAQ",
+        "desc": "Kompatibilita, bany a nastavení – ještě než nakoupíte.",
+        "linkLabel": "Zobrazit všechny FAQ",
+        "href": "/faq/"
+      },
+      {
+        "icon": "clock",
+        "title": "Živí operátoři",
+        "desc": "Discord technici ve službě 24/7.",
+        "linkLabel": "Otevřít stránku kontaktu",
+        "href": "/support/"
+      }
+    ],
+    "ticketTitle": "Zahrňte do svého ticketu",
+    "ticketItems": [
+      {
+        "title": "E-mail objednávky",
+        "desc": "Adresa použitá při platbě na cheatsapexlegends.org."
+      },
+      {
+        "title": "Platforma",
+        "desc": "Windows 10 nebo 11 a zda jsou HVCI, core isolation, TPM a secure boot zapnuté."
+      },
+      {
+        "title": "Podrobnosti o chybě",
+        "desc": "Přesná zpráva loader, žádná vlastní formulace."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Clear answers before you pay.",
+    "subtitle": "Hardware, bans, and access—without marketing fluff.",
+    "items": [
+      {
+        "id": "status",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "Where do I check if the loader is current?",
+        "a": "Read cheatsapexlegends.org after an Apex Legends or Javelin update. A banner from yesterday is not a current build. Leave the loader closed until the page matches this client."
+      },
+      {
+        "id": "season-3",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "Apex Legends just patched. When do I open the loader?",
+        "a": "Read the status page after that client build, and after every hotfix, before you launch. A saved config from an older build is not a current check. A ban is still possible.",
+        "aHtml": "Read the <a href=\"/status/\">status page</a> after that client build, and after every hotfix, before you launch. A saved config from an older build is not a current check. A ban is still possible."
+      },
+      {
+        "id": "after-buy",
+        "topic": "setup",
+        "icon": "faqAfterBuy",
+        "q": "What happens after I buy?",
+        "a": "Checkout opens the portal with the loader for the product you paid for. Save a config after you tune it. HVCI, core isolation, TPM, and secure boot stay on."
+      },
+      {
+        "id": "ban-risk",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "Can I get banned?",
+        "a": "Yes. EA Javelin can act on the account. Nothing on this site is a guarantee that a session stays clean."
+      },
+      {
+        "id": "hwid-ban-risk",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "What is an HWID flag, and does the cheat key fix it?",
+        "a": "A hardware flag follows the PC. New accounts can fail on that machine and work on another. That is the <a href=\"/products/apex-cheats/hwid-spoofer/\">HWID Spoofer</a>, sold separately. It does not undo an account-only restriction, and lifetime on <a href=\"/products/apex-cheats/loader/\">the menu</a> does not include it."
+      },
+      {
+        "id": "platforms",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "Which PCs are supported?",
+        "a": "Windows 10 and 11 with HVCI, core isolation, TPM, and secure boot on. Use the latest Apex Legends PC client. macOS and Linux are not supported."
+      },
+      {
+        "id": "license-move",
+        "topic": "products",
+        "icon": "faqLicenseMove",
+        "q": "Can I move a key to another PC?",
+        "a": "Open support with the order email. A machine that fails new accounts is an HWID Spoofer purchase, not a free move of the cheat key."
+      },
+      {
+        "id": "products-page",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "What is for sale?",
+        "a": "<a href=\"/products/apex-cheats/loader/\">the menu</a> and the <a href=\"/products/apex-cheats/hwid-spoofer/\">HWID Spoofer</a> are listed on the <a href=\"/products/apex-cheats/\">products page</a>. The menu is $35 for 31 days or $150 lifetime. The HWID spoofer is $50 for 31 days or $150 lifetime. They are separate checkouts."
+      },
+      {
+        "id": "plans-same-price",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "Does $150 lifetime include the spoofer?",
+        "a": "No. Lifetime on the Apex hack menu is that product only. The HWID spoofer is a separate key with its own $50 and $150 plans. A shorter plan does not promise a credit toward lifetime.",
+        "scopes": [
+          "loader",
+          "hwid-spoofer"
+        ]
+      },
+      {
+        "id": "player-esp",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "What does Player ESP show in Apex Legends?",
+        "a": "Player ESP marks enemy and squad legends with labels in your view. Pair it with Distance ESP or Box ESP if the screen feels crowded.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "advanced-aimbot",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "How do I tune Advanced Aimbot?",
+        "a": "Start with a low FOV and higher smoothness, then add Weapon ESP so you know what range the fight is at. Visible checks stay on until you know how the preset behaves.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "weapon-esp",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Why use Weapon ESP?",
+        "a": "Weapon ESP shows the gun a legend is holding before you commit to a push—useful when teams swap between close and long fights.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "health-bar",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "Do Health Bar and shield readouts stack?",
+        "a": "Health Bar shows shield and health together on marked legends. Turn down Distance ESP if bars overlap during end circles.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "loot-esp",
+        "topic": "esp",
+        "icon": "faqWhatIsEsp",
+        "q": "How does Loot ESP help between zones?",
+        "a": "Loot ESP highlights ground gear and tier filters so you can sprint from cover to upgrades without guessing what is on the floor.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "no-recoil",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "What does No Recoil change?",
+        "a": "No Recoil eases kick on ARs, SMGs, and LMGs. It does not replace crosshair placement—tune it after Advanced Aimbot feels stable.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "javelin-bypass",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "What does EA Javelin Bypass mean?",
+        "a": "The loader is built to run with EA Javelin active on the Apex Legends PC client. It is not a guarantee against bans or flags—read the status page after each update.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "stream-proof",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Is Stream Proof safe for every broadcast setup?",
+        "a": "Stream Proof targets common capture apps. Results still vary by GPU, overlay stack, and OBS settings—test offline before you go live.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "support-247",
+        "topic": "products",
+        "icon": "faqAfterBuy",
+        "q": "How do I reach 24/7 Support?",
+        "a": "Use the Discord link from checkout or the support page. Include your order email and whether the issue is the menu or the HWID spoofer.",
+        "scopes": [
+          "loader",
+          "hwid-spoofer"
+        ]
+      },
+      {
+        "id": "spoofer-scope",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "When is the HWID spoofer the right buy?",
+        "a": "Use <a href=\"/products/apex-cheats/hwid-spoofer/\">HWID Spoofer</a> when a new account fails on one PC and works on another. It does not fix an account-only restriction on the same machine.",
+        "scopes": [
+          "hwid-spoofer"
+        ]
+      },
+      {
+        "id": "not-dma",
+        "topic": "scripts",
+        "icon": "faqExternalLoader",
+        "q": "Is this a DMA card?",
+        "a": "No. The Apex hack is a Windows loader from checkout. A DMA device is a different product and is not what this key delivers.",
+        "scopes": [
+          "loader"
+        ]
+      },
+      {
+        "id": "blog-default-1",
+        "topic": "blog",
+        "icon": "faqBlogDefault1",
+        "q": "Are blog guides official product documentation?",
+        "a": "Articles explain workflows and link to <a href=\"/products/apex-cheats/loader/\">the menu</a>. The feature list on that page is the checkout source of truth."
+      },
+      {
+        "id": "blog-default-2",
+        "topic": "blog",
+        "icon": "faqBlogDefault2",
+        "q": "Need help applying this guide?",
+        "a": "Open support with your order email and the article title. Include the exact loader text if something fails."
+      },
+      {
+        "id": "blog-default-3",
+        "topic": "blog",
+        "icon": "faqBlogDefault3",
+        "q": "Will settings in this article work next patch?",
+        "a": "Re-check after every Apex Legends or Javelin update. Reload a saved config instead of copying old slider values from a post."
+      },
+      {
+        "id": "blog-plan-start",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "Which plan should I start with?",
+        "a": "Start with the 31-day key if you want to try one product before paying once. The menu is $35 for 31 days or $150 lifetime. The HWID spoofer is $50 for 31 days or $150 lifetime. A shorter plan does not include a credit toward lifetime, and a lifetime key on one product does not include the others."
+      },
+      {
+        "id": "blog-plan-upgrade",
+        "topic": "plans",
+        "icon": "faqLicenseMove",
+        "q": "Can I upgrade a 31-day key to lifetime?",
+        "a": "There is no automatic upgrade. Lifetime is a separate checkout on the same product. The $35 or $50 you already paid is not credited toward the $150 lifetime price."
+      },
+      {
+        "id": "blog-plan-expire",
+        "topic": "plans",
+        "icon": "faqAfterBuy",
+        "q": "What happens when a plan expires?",
+        "a": "A 31-day key stops when that period ends. Buy another 31-day key or a lifetime key on that same product to keep access. Lifetime does not renew. An expired key does not move to a different product."
+      },
+      {
+        "id": "blog-plan-status",
+        "topic": "plans",
+        "icon": "faqStatus",
+        "q": "Where do I check the current loader status?",
+        "a": "Read the status page before you launch. Updated means the note was refreshed. It is not a claim that a session stays clean.",
+        "aHtml": "Read the <a href=\"/status/\">status page</a> before you launch. Updated means the note was refreshed. It is not a claim that a session stays clean."
+      },
+      {
+        "id": "blog-plan-windows",
+        "topic": "plans",
+        "icon": "faqPlatforms",
+        "q": "Which Windows versions are supported?",
+        "a": "Windows 10 and 11 with HVCI, core isolation, TPM, and secure boot on. Use the latest Apex Legends PC client."
+      },
+      {
+        "id": "blog-plan-support",
+        "topic": "plans",
+        "icon": "faqBlogDefault2",
+        "q": "How do support and refunds work?",
+        "a": "Open support with your order email. Sales are final once checkout completes. Change-of-mind purchases, account bans, and launches while the status page is not current are not refunded. A fix or refund is only when we confirm a fault on our side. The rules are in the terms.",
+        "aHtml": "Open <a href=\"/support/\">support</a> with your order email. Sales are final once checkout completes. Change-of-mind purchases, account bans, and launches while the status page is not current are not refunded. A fix or refund is only when we confirm a fault on our side. The rules are in the <a href=\"/terms/\">terms</a>."
+      }
+    ],
+    "filterTopics": {
+      "all": "All",
+      "plans": "Plans",
+      "esp": "ESP",
+      "scripts": "Scripts",
+      "safety": "Safety",
+      "products": "Products",
+      "blog": "Blog",
+      "setup": "Setup"
+    }
+  },
+  "footer": {
+    "tagline": "Apex Legends Cheats and HWID spoofer for Windows PC. cheatsapexlegends.org",
+    "explore": "Prozkoumat",
+    "exploreLinks": [
+      {
+        "href": "/products/apex-cheats/loader/#features",
+        "label": "Přehled funkcí",
+        "ariaLabel": "Funkce"
+      },
+      {
+        "href": "/products/apex-cheats/loader/",
+        "label": "Cheats for Apex Legends",
+        "ariaLabel": "Cheats for Apex Legends"
+      },
+      {
+        "href": "/products/apex-cheats/",
+        "label": "Všechny produkty",
+        "ariaLabel": "Produkty"
+      },
+      {
+        "href": "/blog/",
+        "label": "Přečíst průvodce aktualizacemi",
+        "ariaLabel": "Blog"
+      },
+      {
+        "href": "/faq/",
+        "label": "Časté dotazy před nákupem",
+        "ariaLabel": "FAQ"
+      }
+    ],
+    "support": "Podpora",
+    "legal": "Právní informace",
+    "moreSites": "Další weby",
+    "privacy": "Zásady ochravacy soukromí",
+    "terms": "Obchodní podmínky",
+    "about": "O nás",
+    "resourceLinks": [
+      {
+        "label": "Archiv blogu",
+        "ariaLabel": "Blog"
+      },
+      {
+        "label": "Cheats for Apex Legends",
+        "ariaLabel": "Cheats for Apex Legends"
+      },
+      {
+        "label": "Produkty a nástroje",
+        "ariaLabel": "Produkty"
+      }
+    ]
+  },
+  "legalPages": {
+    "about": {
+      "title": "O tomto obchodě",
+      "description": "cheatsapexlegends.org nabízí menu Apex Legends a HWID spoofer včetně pokynů k nastavení a upřímného popisu rizika banu.",
+      "sections": [
+        {
+          "heading": "Kdo jsme",
+          "paragraphs": [
+            "cheatsapexlegends.org prodává menu Windows pro Apex Legends a HWID spoofer. Menu obsahuje: player ESP, ESP, skeleton ESP, health ESP, Distance ESP, aimbot a streamproof overlay.",
+            "Menu je $35 for 31 days nebo $150 lifetime. HWID spoofer je $50 for 31 days nebo $150 lifetime. Klíč lifetime k menu nezahrnuje spoofer.",
+            "Názvy produktů na těchto stránkách označují to, co prodáváme. Nejedná se o tvrzení, že vydavatel hry endoruje tento software. Doručení probíhá formou stažení přes portál pro Windows 10 nebo 11. Nechte zapnuté HVCI, core isolation, TPM a secure boot a loader otevírejte pouze tehdy, když stránka odpovídá aktuálnímu klientovi."
+          ]
+        },
+        {
+          "heading": "Co publikujeme",
+          "paragraphs": [
+            "Na [stránce menu](/products/apex-cheats/loader/)) najdete názvy modulů a požadavky na PC: Windows 10 nebo 11, procesor Intel Core i5 nebo AMD Ryzen 5 a lepší, se zapnutým HVCI, core isolation, TPM a secure boot. Na [stránce produktů](/products/apex-cheats/)) můžete porovnat menu a [HWID Spoofer](/products/apex-cheats/hwid-spoofer/).).",
+            "Návody na [blogu](/blog/)) pokrývají player ESP, aimbot, přepínače pro vlastní hry, srovnání Javelin a VAC a situace, kdy je hardwarový příznak nutno zakoupit zvlášť od menu. [Fórum](/forum/)) slouží k těm samým dotazům, přičemž odpovědi vývojářů jsou označeny v(/na) vlákně. Před nákupem si přečtěte [podmínky](/terms/)). Prodeje jsou konečné, včetně banů.",
+            "Javelin může stále zasáhnout proti účtu. Nic zde nezaručuje, že relace zůstane čistá po příští záplatě. Zkontrolujte tyto stránky po aktualizaci klienta, než otevřete loader. Pokud stránka neodpovídá dané verzi, software nezapínejte.",
+            "Poznámky ke stavu na domovské stránce uvádějí, zda publikovaná verze stále odpovídá klientovi. Nejsou slibem, že Javelin bude software ignorovat. Pokud si nejste jistí, nechte loader zavřené a před dalším spuštěním matchmakingu si přečtěte odpovídající návod na blogu."
+          ]
+        },
+        {
+          "heading": "Podpora",
+          "paragraphs": [
+            "Chyby Loader, klíč, který nereaguje, a dotazy k platbě řešte přes [stránku podpory](/support/).). Uveďte e-mail z objednávky, verzi Windows a přesný text loader. Nevypínejte HVCI, core isolation, TPM nebo secure boot jen proto, že vám to někdo poradil v chatu jiné hry."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Zásady ochravacy soukromí",
+      "description": "Jak cheatsapexlegends.org nakládá s analytikou, soubory cookie a kontaktními údaji.",
+      "sections": [
+        {
+          "heading": "Informace, které shromažďujeme",
+          "paragraphs": [
+            "Prostřednictvím služby Google Analytics můžeme (pokud je povolena) shromažďovat standardní webové statistiky, jako jsou zobrazení stránek, typ zařízení, prohlížeč a přibližný region. Pokladna a doručování licencí probíhají na externích stránkách. Data platebních karet na cheatsapexlegends.org neukládáme."
+          ]
+        },
+        {
+          "heading": "Jak data používáme",
+          "paragraphs": [
+            "Analytika nám pomáhá pochopit, které návody a produktové stránky jsou užitečné, abychom mohli zlepšovat obsah a opravovat nefunkční odkazy. V ticetech podpory můžeme uchovávat e-mailovou adresu a obsah zprávy, dokud nebude problém vyřešen."
+          ]
+        },
+        {
+          "heading": "Soubory cookie",
+          "paragraphs": [
+            "Používáme minimální množství souborů cookie nezbytných pro analytiku. Soubory cookie můžete zablokovat v nastavení prohlížeče; hlavní obsah stránek zůstane dostupný i bez nich."
+          ]
+        },
+        {
+          "heading": "Podpora",
+          "paragraphs": [
+            "Ohledně dotazů k ochraně soukromí využijte možnosti na stránce Podpory. Pravidla nákupu a vrácení peněz naleznete v našich Obchodních podmínkách."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Podmínky použití",
+      "description": "Podmínky nákupu, licencí, vrácení peněz a používání produktů prodávaných na cheatsapexlegends.org.",
+      "sections": [
+        {
+          "heading": "Souhlas",
+          "paragraphs": [
+            "Naposledy aktualizováno: říjen 2026. Používáním cheatsapexlegends.org nebo dokončením objednávky libovolného produktu zde vyjadřujete souhlas s těmito Podmínkami použití a našimi Zásadami ochrany osobnícvacch údajů."
+          ]
+        },
+        {
+          "heading": "Co kupujete",
+          "paragraphs": [
+            "Prodáváme Apex Legends menu a HWID spoofer. Menu je $35 for 31 days nebo $150 lifetime. HWID spoofer je $50 for 31 days nebo $150 lifetime. Každý produkt představuje samostatnou licenci.",
+            "Seznamy funkcí na stránce každého produktu popisují, co je součástí v době nákupu. Moduly se mohou měnit při aktualizaci Apex Legends nebo Javelin. lifetime menu key nezahrnuje spoofer."
+          ]
+        },
+        {
+          "heading": "Platba a doručení",
+          "paragraphs": [
+            "Platba a doručení licence probíhají na externích stránkách pokladny. cheatsapexlegends.org nezpracovává ani neukládá čísla platebních karet.",
+            "Po nákupu použijte portál ze své objednávky ke stažení aktuálního loader před spuštěním Apex Legends. Nechte HVCI, core isolation, TPM a secure boot zapnuté."
+          ]
+        },
+        {
+          "heading": "Používání licence",
+          "paragraphs": [
+            "Licence jsou určeny pouze pro vaše osobní použití. Nesdílejte soubory loader, přihlašovací údaje k portálu ani licenční klíče. Problém s hardwarovým ID vyžaduje nákup samostatné HWID Spoofer."
+          ]
+        },
+        {
+          "heading": "Vrácení peněz a nákupy",
+          "paragraphs": [
+            "Všechny prodeje jsou po dokončení platby konečné. Neposkytujeme náhrady za nákupy rozmyšlené dodatečně, bany účtů, penalizace Javelin ani za problémy způsobené ignorováním pokynů k nastavení nebo spuštěním v době, kdy stránka není pro danou aktualizaci aktuální.",
+            "Pokud produkt nefunguje podle popisu na podporované sestavě – Windows 10 nebo 11 se zapnutými HVCI, core isolation, TPM a secure boot a s aktuálním loader z portálu – kontaktujte nás prostřednictvím stránky Podpory. Uveďte e-mail z objednávky, verzi Windows a přesný text loader.",
+            "Můžeme dle vlastního uvážení nabídnout opravu, náhradní přístup nebo částečnou/full náhradu peněz, jakmile potvrdíme chybu na naší straně. Nemáme povinnost schválit každou žádost."
+          ]
+        },
+        {
+          "heading": "Dostupnost a riziko",
+          "paragraphs": [
+            "Nástroje třetích stran pro Apex Legends mohou být v konfliktu s aktualizacemi her a Javelin. Tento software používáte na vlastní nebezpečí, včetně možných postihů účtu.",
+            "Před každou relací zkontrolujte stavový banner na úvodní stránce. Nepřipojujte se na svůj hlavní server, pokud jsou moduly offline nebo po aktualizaci nesprávně nastavené."
+          ]
+        },
+        {
+          "heading": "Změny",
+          "paragraphs": [
+            "Tyto podmínky můžeme aktualizovat. Datum „Naposledy aktualizováno“ nahoře se v takovém případě změní. Další používání webu po provedení změn znamená, že souhlasíte s revidovanými podmínkami."
+          ]
+        },
+        {
+          "heading": "Podpora",
+          "paragraphs": [
+            "Pro dotazy ohledně podmínek, fakturace nebo loader použijte tlačítka na stránce Podpory. Přečtěte si také naše Zásady ochrany osobnícvach údajů, kde se dozvíte, jak nakládáme s daty na webu."
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "Podpora pro Apex Legends",
+      "description": "Nápověda pro Loader, HWID spoofer a pokladnu pro cheatsapexlegends.org."
+    }
+  },
+  "productCatalog": {
+    "searchHeading": "Procházet produkty a předplatná",
+    "utilityCategory": "Nástroj",
+    "buyLoader": "Koupit loader",
+    "buyHwidSpoofer": "Koupit HWID spoofer"
+  },
+  "utilitiesPage": {
+    "title": "Nástroj HWID",
+    "subtitle": "HWID spoofer se kupuje zvlášť v případě, kdy hardwarový ban blokuje zakládání nových účtů na jednom PC.",
+    "breadcrumb": "Nástroj HWID",
+    "tableAria": "Porovnání nástrojů",
+    "columnUtility": "Nástroj",
+    "columnBestFor": "Nejlepší pro",
+    "columnProductPage": "Stránka produktu",
+    "includesLabel": "Obsahuje:",
+    "backToProducts": "Zpět k produktům",
+    "viewCategory": "Zobrazit {category}",
+    "viewDetailsFallback": "podrobnosti",
+    "schemaName": "Nástroj HWID",
+    "useCases": {
+      "hwid-spoofer": "Nový PC nebo hardwarový ban – obnovte identitu svého zařízení před založením nového účtu."
+    }
+  },
+  "sectionSearch": {
+    "blogHeading": "Filtrovat návody podle tématu",
+    "supportHeading": "Procházet témata nápovědy"
+  },
+  "ui": {
+    "skipLink": "Přejít na hlavní obsah",
+    "browseCheats": "Vyzkoušet ihned",
+    "browseCheatsMobile": "Zahájit objednávku",
+    "homeAria": "Apex Legends Cheats domů",
+    "checkoutAria": "Zahájit objednávku",
+    "discordAria": "Koupit Apex Legends Cheats",
+    "menuOpen": "Otevřít nabídku",
+    "menuClose": "Zavřít nabídku",
+    "themeLight": "Přepnout na světlý režim",
+    "themeDark": "Přepnout na tmavý režim",
+    "searchPlaceholder": "Hledat produkty, návody, FAQ…",
+    "searchEmpty": "Začněte psát pro vyhledávání na webu.",
+    "searchNoResults": "Žádné výsledky. Zkuste jiný výraz.",
+    "searchCloseAria": "Zavřít vyhledávání",
+    "searchTitle": "Hledat",
+    "searchOpenAria": "Hledat na webu",
+    "contactSupport": "Kontaktovat podporu",
+    "searchResultsAria": "Výsledky vyhledávání",
+    "searchHintNavigate": "navigovat",
+    "searchHintOpen": "otevřít",
+    "searchHintClose": "zavřít",
+    "searchKeyboardEnter": "Enter",
+    "searchKeyboardEsc": "Esc",
+    "primaryNavAria": "Primární",
+    "mobileNavAria": "Mobilní",
+    "shareNavAria": "Sdílet tuto stránku",
+    "shareOnX": "Sdílet na X",
+    "shareOnFacebook": "Sdílet na Facebooku",
+    "shareOnReddit": "Sdílet na Redditu",
+    "prevImage": "Předchozí obrázek",
+    "nextImage": "Následující obrázek",
+    "heroSlidesAria": "Hlavní snímky",
+    "slideLabel": "Snímek {n}",
+    "prevScreenshot": "Předchozí snímek obrazovky",
+    "nextScreenshot": "Následující snímek obrazovky",
+    "loading": "Načítání"
+  },
+  "language": {
+    "label": "Jazyk",
+    "selectAria": "Vybrat jazyk webu"
+  },
+  "exploreSection": {
+    "eyebrow": "Prozkoumat",
+    "title": "Všechno na webu vzdálené jedno",
+    "titleAccent": "kliknutí",
+    "subtitle": "Přeskočte na produkty, poznámky k aktualizacím, průvodce a nápovědu bez zdlouhavého hledání v menu.",
+    "badgeProduct": "PRODUKT",
+    "badgeActive": "Aktivní",
+    "cards": {
+      "cheats": {
+        "title": "Cheats for Apex Legends",
+        "desc": "Aimbot Možnosti, Vizuální možnosti hráčů, Vizuální možnosti světa a Různé možnosti."
+      },
+      "spoofer": {
+        "title": "HWID Spoofer",
+        "desc": "Rotace hardwarového profilu po označení zařízení."
+      },
+      "plans": {
+        "title": "Plány",
+        "desc": "Porovnejte $35 a $150 v menu; spoofer má vlastní plány."
+      },
+      "features": {
+        "title": "Funkce",
+        "desc": "Čtyři skupiny v menu na seznamu funkcí loader."
+      },
+      "status": {
+        "title": "Stav",
+        "desc": "ZELENÁ nebo ČERVENÁ před spuštěním plus upozornění na aktualizace Javelin."
+      },
+      "faq": {
+        "title": "FAQ",
+        "desc": "Plány, nastavení, riziko Javelin a produkty."
+      },
+      "support": {
+        "title": "Podpora",
+        "desc": "Loader, platba a pomoc s portálem."
+      },
+      "blog": {
+        "title": "Blog",
+        "desc": "Průvodci pro mušku, ESP a dny aktualizací."
+      },
+      "forum": {
+        "title": "Fórum",
+        "desc": "Vlákna s označenými odpověďmi vývojářů."
+      }
+    }
+  },
+  "pricing": {
+    "checkout": "Pokladna",
+    "purchaseOption": "Možnost nákupu",
+    "selectSubscription": "Vybrat předplatné",
+    "bestValue": "Nejlepší hodnota",
+    "savePrefix": "Ušetřete",
+    "total": "Celkem",
+    "buyNow": "Koupit nyní",
+    "oneMonth": "31 days",
+    "threeMonths": "31 days",
+    "lifetime": "Lifetime",
+    "mostPopular": "Nejpopulárnější",
+    "plusMore": "+N dalších",
+    "monthlySuffix": "",
+    "threeMonthSuffix": " / 3 měs.",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 days přístupu · obnova při platbě",
+    "threeMonthPlanNote": "31 days přístupu",
+    "lifetimePlanNote": "Zaplatit jednou · bez obnovení",
+    "plansSameFeaturesNote": "Stejné funkce u každého plánu – mění se pouze doba přístupu.",
+    "selectPlanAria": "Vybrat délku plánu"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Stránka nenalezena",
+    "description": "Tato URL adresa neexistuje nebo možná byla přesunuta. Vraťte se na domovskou stránku nebo si projděte produkty.",
+    "metaDescription": "Požadovaná stránka nebyla na cheatsapexlegends.org nalezena.",
+    "metaTitleSuffix": "Stránka nenalezena",
+    "backHome": "Zpět domů",
+    "viewProducts": "Zobrazit produkty",
+    "openForum": "Otevřít fórum"
+  },
+  "status": {
+    "eyebrow": "Poznámky k patchům",
+    "title": "Stavový štítek před spuštěním",
+    "subtitle": "ZELENÁ znamená, že aktuální soubor je připraven k načtení. ČERVENÁ znamená počkat.",
+    "pageDesc": "Mezníky Javelin v roce 2026 zahrnovaly květnovou aktualizaci zaměřenou na DMA, červnové základy na vyžádání a listopadový rámec integrity. Po každém z těchto kroků nebo herním patchi si před spuštěním přečtěte tuto stránku. ZELENÁ znamená načíst. ČERVENÁ znamená počkat. Aktualizováno neznamená záruku.",
+    "breadcrumb": "Stav",
+    "aceReminderLabel": "Javelin připomenutí",
+    "aceReminder": "Zkontrolujte tuto stránku po každém Javelin nebo aktualizaci klienta — včetně květnového vydání 2026 zaměřeného na DMA a listopadového rámce integrity 2026. ZELENÁ znamená načíst. ČERVENÁ znamená počkat.",
+    "recentTitle": "Nedávné aktualizace",
+    "activeLinePrefix": "Naposledy zkontrolováno",
+    "activeLineActive": "Aktivní",
+    "activeLineUpdated": "Aktualizováno {date}",
+    "storeLineup": "Nabídka obchodu",
+    "latestLabel": "Nejnovější",
+    "updates": [
+      {
+        "id": "vct-integrity",
+        "title": "Integritní rámec VCT 2027",
+        "icon": "shield",
+        "when": "5. listopadu 2026",
+        "summary": "nastínil rutinu Javelin Pre-Check pro kvalifikace v otevřených soutěžích. Online týmy nyní čelí přísnější kontrole softwarové vrstvy a kontrole procesů na pozadí před zápasem. Tento obchod nepopisuje, jak tuto kontrolu projít. Přečtěte si štítek stavu pro tuto nabídku po poznámce a považujte pravidla turnaje za oddělená od běžné fronty."
+      },
+      {
+        "id": "Javelin-on-demand",
+        "title": "Javelin na vyžádání a standardy Windows 11",
+        "icon": "settings",
+        "when": "Červen 2026",
+        "summary": "Režim na vyžádání Javelin může zůstat vypnutý, když je Apex Legends zavřený, ale jeho zapnutí vynucuje přísnější standard Windows 11: HVCI, VBS a TPM 2.0. To uzavírá běžné mezery pro injectory. Ponechte tyto funkce zapnuté v sestavě, proti které načítáte. Tato stránka nedokumentuje postupy pro obejití."
+      },
+      {
+        "id": "dma-may-2026",
+        "title": "22. května 2026 — Aktualizace Javelin zaměřená na DMA",
+        "icon": "alert",
+        "when": "22. května 2026",
+        "summary": "se zaměřil na externí nastavení přímého přístupu do paměti (DMA) SATA/NVMe a související obcházení firmwaru. Veřejná diskuse se soustředila na IOMMU Windows a přemapování DMA blokující škodlivé DLL soubory zařízení. uvedl, že legitimní hardware není fyzicky zničen; nelegitimní konfigurace config cheats mohou na této PC selhat. Tento obchod prodává Windows loader, nikoli kartu DMA. Blogový příspěvek „Časová osa zabezpečení Javelin (2026)“ shrnuje stejná data."
+      },
+      {
+        "id": "status-label",
+        "title": "Štítek stavu",
+        "icon": "shield",
+        "when": "8. listopadu 2026",
+        "summary": "ZELENÁ znamená, že tato poznámka uvádí aktuální soubor k načtení. ČERVENÁ znamená počkat. Přečtěte si tuto stránku po aktualizaci Apex Legends nebo Javelin před spuštěním. Štítek není tvrzením o nezjistitelnosti a neznamená, že zápas zůstane čistý."
+      },
+      {
+        "id": "menu-covers",
+        "title": "Co nabídka pokrývá",
+        "icon": "mapHack",
+        "when": "8. listopadu 2026",
+        "summary": "Zveřejněná nabídka uvádí možnosti Aimbot, vizuální možnosti hráčů, vizuální možnosti světa a různé možnosti. Klávesová zkratka bojového režimu skrývá schopnosti a pasti ESP. Neodstraňuje riziko Javelin."
+      },
+      {
+        "id": "pc-requirements",
+        "title": "Požadavky PC",
+        "icon": "settings",
+        "when": "8. listopadu 2026",
+        "summary": "Windows 10 nebo 11, Intel Core i5 nebo AMD Ryzen 5 nebo lepší a nejnovější klient Apex Legends PC. Ponechte zapnuté HVCI, Core Isolation, TPM a Secure Boot."
+      },
+      {
+        "id": "updated-claim",
+        "title": "„Aktualizováno“ není tvrzení o nezjistitelnosti",
+        "icon": "alert",
+        "when": "7. listopadu 2026",
+        "summary": "Aktualizováno znamená, že tato poznámka byla obnovena. Neznamená to, že loader je nezjistitelný, a neznamená to, že zápas zůstane čistý po příští aktualizaci Javelin nebo hry."
+      },
+      {
+        "id": "plans",
+        "title": "Plány zůstávají na samostatných kartách",
+        "icon": "tag",
+        "when": "7. listopadu 2026",
+        "summary": "Nabídka je $35 for 31 days nebo $150 lifetime. HWID spoofer je $50 for 31 days nebo $150 lifetime. Klíč lifetime na jeden produkt nezahrnuje druhý."
+      }
+    ]
+  },
+  "forum": {
+    "eyebrow": "Komunita",
+    "title": "Fórum: nastavení, rizika a plány",
+    "subtitle": "Vlákna o Apex Legends cheats, Javelin patch notes, přepínačích vlastních her a HWID spoofer. Odpovědi vývojářů jsou označeny.",
+    "breadcrumb": "Fórum",
+    "postsAria": "Příspěvky komunity",
+    "sortAria": "Řazení příspěvků",
+    "searchPlaceholder": "Hledat v diskusích",
+    "searchAria": "Hledat v diskusích",
+    "voteAria": "Hlasování v diskusi",
+    "fromGuide": "Z průvodce:",
+    "comments": "komentáře",
+    "readDiscussion": "Přečíst diskusi",
+    "readGuide": "Přečíst průvodce",
+    "basedOn": "Založeno na:",
+    "paginationAria": "Stránkování diskusí",
+    "previousPage": "Předchozí",
+    "nextPage": "Další",
+    "exploreGuides": "Prozkoumat průvodce",
+    "sortPopular": "Populární",
+    "sortLatest": "Nejnovější",
+    "sortTop": "Nejdiskutovanější",
+    "filterAria": "Filtrovat diskuze podle tématu",
+    "allTopics": "Všechna témata",
+    "discussionOne": "diskuze",
+    "discussionMany": "diskuze",
+    "emptyFilter": "Žádné diskuze neodpovídají zadaným kritériím. Zkuste jiné vyhledávání nebo téma.",
+    "previous": "Předchozí",
+    "next": "Další",
+    "sidebarAboutTitle": "Fórum",
+    "sidebarAboutCopy": "Vlákna o rizicích třetích stran, Javelin patch notes, přepínačích vlastních her a HWID spoofer. Odpovědi vývojářů jsou označeny.",
+    "sidebarTopics": "témata",
+    "sidebarExploreGuides": "Prozkoumat všechny průvodce",
+    "sidebarCommunities": "Komunity",
+    "sidebarBrowseQa": "Procházet související vlákna",
+    "sidebarBrowseAll": "Procházet všechny komunity",
+    "sidebarGuidelines": "Pravidla komunity",
+    "guideline1": "Chovejte se přátelsky a konstruktivně end",
+    "guideline2": "Zůstaňte u tématu a doplňte kontext",
+    "guideline3": "Označujte spoilery a citlivý obsah",
+    "sidebarReadGuidelines": "Přečíst kompletní pravidla",
+    "sidebarFootAbout": "O projektu · Pravidla · Privacy · Podmínky",
+    "upvoteAria": "Dát hlas této diskuzi",
+    "downvoteUnavailable": "Hlasování dolů není k dispozici",
+    "showingRange": "Zobrazuji {from}–{to} z {total}",
+    "zeroDiscussions": "0 diskuzí",
+    "developerFlair": "Vývojář",
+    "points": "bodů",
+    "previewDiscussion": "Náhled diskuze",
+    "postingUnavailable": "Zde není možné publikovat ani hlasovat",
+    "commentsTitle": "Komentáře",
+    "commentsSubtitle": "Odpovědi vývojářů jsou označeny",
+    "detailInTopic": "v tomto tématu",
+    "detailBrowse": "Procházet diskuze",
+    "detailMoreTitle": "Další diskuze",
+    "detailViewAll": "Zobrazit všechny diskuze",
+    "colThread": "Vlákno",
+    "colReplies": "Odpovědi",
+    "replyOne": "Odpověď",
+    "colVotes": "Hlasy",
+    "colLastReply": "Poslední odpověď",
+    "closedThread": "Uzavřeno",
+    "noRepliesYet": "Zatím žádné odpovědi 👀"
+  },
+  "readingTools": {
+    "copyLink": "Kopírovat odkaz",
+    "backToTop": "Zpět nahoru",
+    "copied": "Zkopírováno"
+  },
+  "blogArticle": {
+    "viewProducts": "Zobrazit produkty",
+    "moreArticles": "Další články",
+    "imagePlaceholder": "Zástupný symbol obrázku",
+    "breadcrumbBlog": "Blog"
+  },
+  "breadcrumbs": {
+    "home": "Domů",
+    "products": "Produkty",
+    "blog": "Blog",
+    "forum": "Fórum",
+    "faq": "FAQ",
+    "status": "Stav"
+  },
+  "faqPage": {
+    "eyebrow": "Centrum nápovědy",
+    "title": "FAQ k plánům, Javelin a nastavení",
+    "subtitle": "Plány, ESP a aimbot možnosti, HWID spoofer a co zkontrolovat po aktualizaci Javelin.",
+    "schemaName": "FAQ — plány, produkty a nastavení",
+    "schemaDescription": "Odpovědi ohledně menu, HWID spoofer, rizika Javelin a platby na cheatsapexlegends.org."
+  },
+  "siteFaqSection": {
+    "allTopicsEyebrow": "Všechna témata",
+    "allTopicsTitle": "Procházet podle kategorie",
+    "allTopicsSubtitle": "Plány, vizuály, loader, spoofer a nastavení.",
+    "contextualEyebrow": "FAQ",
+    "contextualTitle": "Dotazy k této stránce",
+    "contextualSubtitle": "Odpovědi spojené s tím, co právě čtete — navštivte stránku FAQ pro všechna témata."
+  },
+  "catalog": {
+    "viewDetails": "Zobrazit podrobnosti",
+    "buyNow": "Koupit nyní",
+    "mostPopular": "Nejpopulárnější",
+    "popular": "Populární",
+    "plusMore": "+{count} dalších",
+    "oneMonth": "31 days",
+    "threeMonths": "31 days",
+    "lifetime": "Lifetime",
+    "monthlySuffix": "",
+    "threeMonthSuffix": " / 3 měs.",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 days přístupu · obnova při platbě",
+    "threeMonthPlanNote": "31 days přístupu",
+    "lifetimePlanNote": "Zaplatit jednou · bez obnovování",
+    "plansSameFeaturesNote": "Stejné funkce u každého plánu – mění se pouze doba přístupu.",
+    "selectPlanAria": "Vybrat délku plánu",
+    "utilityLabel": "Nástroj",
+    "experienceEyebrow": "Zážitek",
+    "inTheClient": "V klientu · Po nákupu",
+    "experienceSubtitle": "Použijte snímky obrazovky výše pro {name} – níže je vysvětlen význam jednotlivých vrstev a fungování přístupu po dokončení objednávky.",
+    "utilityExperienceSubtitle": "Použijte snímky obrazovky výše pro {name} – každý náhled vysvětluje část hardwarového pracovního postupu a fungování přístupu po dokončení objednávky.",
+    "inGameLayers": "Vrstvy ve hře",
+    "utilityPreviewLayers": "Náhledy produktu",
+    "layerLabel": "Vrstva {label}",
+    "previewLabel": "Náhled",
+    "accessLabel": "Přístup"
+  },
+  "productUi": {
+    "detailsAria": "Podrobnosti o produktu",
+    "overview": "Přehled",
+    "systemRequirements": "Systémové požadavky",
+    "goodToKnow": "Dobré vědět",
+    "limitations": "Důležitá omezení",
+    "completeFeatureList": "Kompletní seznam funkcí",
+    "includedCapabilities": "Zahrnuté možnosti",
+    "totalFeatures": "Celkem {count}",
+    "popularBadge": "Oblíbené",
+    "limitedBadge": "Omezené",
+    "gameBadge": "Apex Legends",
+    "platformBadge": "Windows",
+    "systemReqPanel": {
+      "title": "Systémové požadavky",
+      "security": [
+        "HVCI ZAPNUTO",
+        "CORE ISOLATION ZAPNUTO",
+        "TPM ZAPNUTO",
+        "SECURE BOOT ZAPNUTO"
+      ],
+      "operatingSystemLabel": "Operační systém",
+      "operatingSystemValue": "Windows 10 nebo 11 v podporovaných verzích",
+      "specs": [
+        {
+          "label": "Procesor",
+          "value": "Intel Core i5 nebo AMD Ryzen 5 a lepší"
+        },
+        {
+          "label": "Grafická karta",
+          "value": "AMD & NVIDIA"
+        },
+        {
+          "label": "RAM",
+          "value": "Doporučeno 16 GB"
+        },
+        {
+          "label": "Úložiště",
+          "value": "2 GB volného místa"
+        },
+        {
+          "label": "Internet",
+          "value": "Vyžadováno stabilní připojení"
+        },
+        {
+          "label": "Klient",
+          "value": "Nejnovější klient Apex Legends PC"
+        }
+      ],
+      "cloudDmaTitle": "Štítek stavu",
+      "cloudDmaDesc": "ZELENÁ znamená, že poznámka uvádí soubor k načtení. ČERVENÁ znamená počkat. Po aktualizaci Javelin si přečtěte stránku stavu.",
+      "cloudDmaNote": ""
+    }
+  },
+  "comparePlans": {
+    "eyebrow": "Porovnat",
+    "title": "Porovnat všechny plány",
+    "subtitle": "Přehledné srovnání toho, co jednotlivé úrovně obsahují.",
+    "tableAria": "Porovnat všechny plány",
+    "featureColumn": "Funkce",
+    "included": "Zahrnuto",
+    "notIncluded": "Nezahrnuto"
+  },
+  "whyCompare": {
+    "tableAria": "Tento obchod v porovnání s běžným poskytovatelem",
+    "featureColumn": "Funkce",
+    "metricsAria": "Metriky platformy",
+    "statusDeliveryAria": "Stav a doručení v reálném čase"
+  },
+  "searchResultTypes": {
+    "product": "Produkt",
+    "blog": "Blog",
+    "forum": "Fórum",
+    "faq": "Časté dotazy",
+    "status": "Stav",
+    "support": "Podpora",
+    "page": "Stránka"
+  },
+  "blogSidebar": {
+    "ariaLabel": "Postranní panel článku",
+    "inThisArticle": "V tomto článku",
+    "relatedGuides": "Související příručky",
+    "ourProducts": "Naše produkty",
+    "productCheats": "Nabídka",
+    "allProducts": "Všechny produkty",
+    "hwidSpoofer": "HWID Spoofer",
+    "tocAria": "Obsah",
+    "tocFallbackLabel": "Začátek článku",
+    "priceEstimatorTitle": "Odhad ceny",
+    "priceEstimatorHint": "Klepněte na termín. Součty se sčítají.",
+    "priceEstimator31d": "31 dní",
+    "priceEstimatorLifetime": "Doživotní",
+    "priceEstimatorOff": "Sleva",
+    "priceEstimatorTotal": "Odh. celkem",
+    "priceEstimatorProducts": "Produkty",
+    "priceEstimatorNote": "Pouze odhad. Každý produkt kupte na jeho vlastní kartě.",
+    "utilityGuides": "Příručky HWID spoofer",
+    "moreGuides": "Další příručky"
+  }
+}

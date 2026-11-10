@@ -1,0 +1,156 @@
+{
+  "site": {
+    "title": "Apex cheats",
+    "description": "Targeting, squad overlays, loot on the map, and profile tools for Apex Legends on Windows PC. USD pricing."
+  },
+  "pages": {
+    "/": {
+      "title": "Apex cheats for Windows PC | Menu, ESP & Aimbot",
+      "description": "Apex cheats on Windows PC: squad ESP, aim assist tuning, loot filters, and saved configs. $35 and $150 USD plans with live status before you load."
+    },
+    "/products/apex-cheats/": {
+      "title": "Apex hack for PC | Menu and HWID spoofer cards",
+      "description": "Compare the Apex hack menu and HWID spoofer: separate Zadeyo checkouts, $35/$150 menu and $50/$150 spoofer, portal delivery worldwide."
+    },
+    "/products/apex-cheats/loader/": {
+      "title": "Apex menu | Aimbot, player ESP & world toggles",
+      "description": "Loader feature list: aimbot sliders, player and world visuals, misc configs. Same modules on the 31-day and lifetime plans."
+    },
+    "/products/apex-cheats/hwid-spoofer/": {
+      "title": "Apex spoofer for hardware flags on PC",
+      "description": "Apex spoofer workflow when a new account fails on one PC: disk, MAC, and GPU rotation. It does not clear account-only penalties."
+    },
+    "/products/apex-cheats/utilities/": {
+      "title": "HWID utility overview",
+      "description": "When a hardware flag blocks fresh accounts on one machine, the spoofer is a separate checkout from the menu."
+    },
+    "/blog/": {
+      "title": "Apex guides hub | Setup, Javelin risk, and module notes",
+      "description": "Guides on menu tuning, checkout, patch-day habits, and hardware flags. Articles link to the loader and HWID spoofer pages on cheatsapexlegends.org."
+    },
+    "/forum/": {
+      "title": "Community threads on setup and plans",
+      "description": "Closed threads on checkout, hardware flags, and loader questions with marked staff replies."
+    },
+    "/faq/": {
+      "title": "FAQ on plans, Javelin risk, and setup",
+      "description": "Answers on $35 and $150 menu plans, EA Javelin risk, Windows requirements, hardware flags, and how products differ."
+    },
+    "/support/": {
+      "title": "Support for loader, checkout, and portal",
+      "description": "Loader, checkout, and portal help for the menu and spoofer. Include your order email and Windows build."
+    },
+    "/about/": {
+      "title": "About cheatsapexlegends.org | Delivery, pricing, and risk",
+      "description": "What this store sells, portal key delivery, USD menu and spoofer pricing, ban risk under EA Javelin, and how GREEN or RED status labels fit checkout on PC."
+    },
+    "/privacy/": {
+      "title": "Privacy notes for analytics and contact",
+      "description": "How cheatsapexlegends.org handles analytics, cookies, and contact data. Card numbers stay on the checkout provider."
+    },
+    "/terms/": {
+      "title": "License terms, refunds, and acceptable use",
+      "description": "License terms and the no-refund rule for the loader and HWID spoofer sold here."
+    },
+    "/status/": {
+      "title": "Status label and client patch notes",
+      "description": "GREEN means the note lists the file to load. RED means wait. Read after an Apex Legends or Javelin update."
+    },
+    "/blog/reliable-247-support/": {
+      "title": "Why Reliable 24/7 Support is Crucial for Gaming Software",
+      "description": "24/7 support matters when a patch, a key that will not start, or a mid-session status change shows up outside office hours."
+    },
+    "/blog/stream-proof-creators/": {
+      "title": "How Stream Proof Overlays Protect Content Creators",
+      "description": "Stream Proof overlays in a creator rundown: what to check before go-live, while a guest shares a POV, and after the VOD is saved."
+    },
+    "/blog/no-recoil-spray-patterns/": {
+      "title": "Analyzing Weapon Spray Patterns and No Recoil Adjustments",
+      "description": "A spray climbs and then drifts sideways. A No Recoil adjustment changes the first bullets and the tail of the magazine in different ways."
+    },
+    "/blog/loot-esp-drop-strategy/": {
+      "title": "Streamline Your Drop Strategy with Advanced Loot ESP",
+      "description": "Advanced Loot ESP in the first minute after landing: which container to open, which gun to leave on the floor, and when to path off the drop."
+    },
+    "/blog/weapon-esp-looting/": {
+      "title": "How Custom Weapon ESP Optimizes Your Looting Phase",
+      "description": "Custom Weapon ESP during the looting phase: which held gun to read, which floor gun to skip, and when a label should not pull you off the path."
+    },
+    "/blog/health-bar-push-strategy/": {
+      "title": "Why a Health Bar Overlay Changes Your Push Strategy",
+      "description": "A Health Bar Overlay changes a push when the bar says who is cracked, who is healing, and who still has a full shield in the same doorway."
+    },
+    "/blog/distance-esp-ranges/": {
+      "title": "Managing Engagement Ranges Using Distance ESP",
+      "description": "Distance ESP as a range manager: which fight matches the gun you are holding, which meter mark means reset, and when a number should keep you out of a door."
+    },
+    "/blog/box-esp-matches/": {
+      "title": "The Educational Benefits of Using Box ESP in Matches",
+      "description": "Box ESP in a match is a lesson in space: where a body actually occupies a doorway, when a box is still behind cover, and how to review one fight without adding more ink."
+    },
+    "/blog/skeleton-esp-hitboxes/": {
+      "title": "Tracking Hitboxes Accurately with Skeleton ESP Overlays",
+      "description": "Skeleton ESP overlays map head, shoulder, and hip lines onto a player so a partial peek shows which plate is actually exposed."
+    },
+    "/blog/hwid-spoofer-explained/": {
+      "title": "What an HWID spoofer changes, and what it cannot undo",
+      "description": "What an HWID spoofer changes on one PC, which penalties it does not lift, and why that split matters before you touch disk, MAC, or GPU identifiers."
+    },
+    "/blog/best-apex-cheats/": {
+      "title": "Best Apex Cheats Compared: Features, Safety & Value in 2026",
+      "description": "best apex cheats in 2026 judged by feature coverage, update hygiene, support, and price—software menus, hardware readers, and a separate HWID tool."
+    },
+    "/blog/apex-aimbot-mechanics/": {
+      "title": "Apex aimbot: FOV cone, smoothing, and visibility",
+      "description": "apex aimbot mechanics on PC: how FOV cones, smoothing filters, visibility checks, bone pickers, and No Recoil interact during gunfights."
+    },
+    "/blog/apex-esp-guide/": {
+      "title": "Apex esp guide: labels, clutter, and rotate calls",
+      "description": "Apex ESP on PC: how player tags, boxes, loot filters, and weapon labels change rotate timing—and how to cut clutter before ranked."
+    },
+    "/blog/apex-dma-cheats/": {
+      "title": "Apex dma cheats vs Windows loader menus",
+      "description": "apex dma cheats use PCIe readers and a second PC; software menus use a Windows loader. Compare cost, setup, and Javelin risk before you buy."
+    },
+    "/blog/apex-anticheat/": {
+      "title": "Security Deep Dive: Navigating the Apex Anticheat Systems",
+      "description": "apex anticheat on PC, explained: how EA Javelin combines client integrity, behavior signals, and hardware flags—and what a status note can and cannot mean."
+    },
+    "/blog/apex-hacks-explained/": {
+      "title": "Apex hacks: loader, overlays, configs, and Javelin",
+      "description": "apex hacks on PC: how status checks, the loader, overlay drawing, saved configs, and EA Javelin fit together before you inject."
+    },
+    "/forum/loader-stuck-after-cipher-patch/": {
+      "title": "Loader stuck after the Cipher patch",
+      "description": "After the Season 31 Cipher patch the loader would not start. Staff pointed at the status note and a fresh portal file. OP says it is working again."
+    },
+    "/forum/refund-if-menu-does-not-launch/": {
+      "title": "Refund if the menu does not launch?",
+      "description": "Pre-buy refund question. Sales are final. A fix or refund only happens if support confirms a fault on our side."
+    },
+    "/forum/boxes-eating-the-screen/": {
+      "title": "Boxes eating my whole screen in a POI",
+      "description": "Player boxes stacked in a busy POI. A short preset (box plus health, loot off in the fight) cleared the screen. OP says it is working."
+    },
+    "/forum/new-logins-die-on-one-pc/": {
+      "title": "New logins die on this PC only",
+      "description": "New logins fail on one desktop and work on a laptop. Staff say that is not a confirmed ID ban. In most cases there is no ID ban."
+    },
+    "/forum/r301-spray-still-climbs/": {
+      "title": "Spray still climbs on the R-301",
+      "description": "R-301 still climbed late in the mag. Compare first bullets and the tail, then ease the slider. OP says the hold is working."
+    },
+    "/forum/vod-showed-the-menu/": {
+      "title": "Stream showed my menu on the VOD",
+      "description": "A VOD showed the menu even with Stream Proof on. The scene was display capture. Switching to game capture and checking a local recording fixed it."
+    },
+    "/forum/loot-text-on-the-first-bin/": {
+      "title": "Loot text covering the first bin",
+      "description": "Loot labels covered the landing. Staff suggested three stops: closest gun, one sustain item, then leave. OP says the drop is readable now."
+    },
+    "/forum/does-lifetime-include-spoofer/": {
+      "title": "Does lifetime include the spoofer?",
+      "description": "Pre-buy question: the lifetime menu key does not include the HWID spoofer. Staff confirm it is a separate product and a separate checkout."
+    }
+  }
+}

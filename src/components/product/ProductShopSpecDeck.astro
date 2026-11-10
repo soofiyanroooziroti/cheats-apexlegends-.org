@@ -1,0 +1,68 @@
+---
+import { getLocaleFromAstro, getTranslations } from '../../i18n';
+import type { ProductFeatureGroup } from '../../data/products';
+import Icon from '../icons/Icon.astro';
+import SectionHeader from '../SectionHeader.astro';
+
+interface Props {
+  featureGroups?: ProductFeatureGroup[];
+}
+
+const locale = getLocaleFromAstro(Astro);
+const t = getTranslations(locale);
+const productUi = (t as { productUi?: Record<string, string> }).productUi ?? {};
+const panel = (t.productUi as { systemReqPanel?: { security: string[]; specs?: { label: string; value: string }[] } })
+  .systemReqPanel;
+
+const { featureGroups = [] } = Astro.props;
+
+const moduleItems = featureGroups.flatMap((group) => group.items);
+const deckTitle = productUi.shopDeckTitle ?? 'Apex hack features for Apex Legends';
+const clientLine =
+  panel?.specs?.find((s) => /client/i.test(s.label))?.value ?? 'Latest Apex Legends PC client';
+---
+
+<section
+  id="features"
+  class="product-shop-deck border-y border-border bg-muted/20 py-8 md:py-10"
+  aria-labelledby="product-shop-deck-title"
+>
+  <div class="mx-auto max-w-6xl px-5">
+    <div class="product-shop-deck__header">
+      <SectionHeader
+        eyebrow={productUi.shopDeckEyebrow ?? 'Preview'}
+        title={deckTitle}
+        titleId="product-shop-deck-title"
+      />
+    </div>
+
+    <ul class="product-shop-deck__pills flex flex-wrap gap-2" role="list">
+      {(panel?.security ?? []).map((label) => (
+        <li class="product-shop-deck__pill">
+          <Icon name="circleCheck" size={16} class="shrink-0 text-primary" aria-hidden="true" />
+          <span>{label}</span>
+        </li>
+      ))}
+      <li class="product-shop-deck__pill">
+        <Icon name="monitor" size={16} class="shrink-0 text-primary" aria-hidden="true" />
+        <span>Windows 10 and 11</span>
+      </li>
+      <li class="product-shop-deck__pill">
+        <Icon name="shieldCheck" size={16} class="shrink-0 text-primary" aria-hidden="true" />
+        <span>{clientLine}</span>
+      </li>
+    </ul>
+
+    <ul class="product-shop-deck__modules mt-8 grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-3" role="list">
+      {
+        moduleItems.map((item) => (
+          <li class="product-shop-deck__module rounded-lg border border-border/80 bg-card/40 px-3 py-2.5 text-sm">
+            <span class="font-medium text-foreground">{item.name}</span>
+            {item.desc && <p class="mt-0.5 text-xs leading-snug text-muted-foreground">{item.desc}</p>}
+          </li>
+        ))
+      }
+    </ul>
+
+  </div>
+</section>
